@@ -6,6 +6,39 @@
 - 服务入口：`kbquant/main.py`（启动时同时拉起 ES 客户端与后台 PipelineWorker）
 - API 文档：见 [`docs/API.md`](docs/API.md)；搜索管线设计见 [`docs/superpowers/specs/`](docs/superpowers/specs/)
 
+## 系统定位：量化投研闭环（一体系统）
+
+本仓库是「**量化投研闭环**」的**数据/知识层（共享大脑 / 唯一事实源）**，与同属 Iamqlwy 的另外两个仓库共同构成一个完整系统：
+
+| 仓库 | 角色 | 关系 |
+| --- | --- | --- |
+| kbquant（本仓库） | 知识库后端：资讯入库、WorldNode、分析、交易、复盘、混合搜索 | 共享大脑 / 唯一事实源 |
+| [workflow](https://github.com/Iamqlwy/workflow) | 多 Agent 分析流水线（重要性分级 → 深度分析 → 风控 → 复盘） | 消费本仓库 processing_queue，产出分析/交易/复盘写回本仓库 |
+| [Trade-system](https://github.com/Iamqlwy/Trade-system) | A 股交易平台（虚拟账户/实盘/LLM 助手） | 经只读账号读取本仓库的 PG 与 ES，做知识图谱/检索可视化与交易 |
+
+```text
+                        ┌──────────────────────────────────────────────┐
+                        │          量化投研闭环（一体系统）              │
+                        └──────────────────────────────────────────────┘
+
+   资讯源                   数据/知识层                  AI 分析层               应用/交易层
+ (新闻/研报/           ┌───────────────────┐ 写回    ┌──────────────────┐ 读取 ┌──────────────────┐
+  社交媒体/CSV) ─────▶ │  kbquant          │ ◀───── │  workflow        │ ───▶ │  Trade-system    │
+                      │  知识库后端        │ 消费队列│  多 Agent 流水线 │ DB/ES│  A股交易平台      │
+                      │  PG(pgvector)+ES  │        │  重要性分级→深度  │      │  FastAPI+Vue3    │
+                      │  +PgBouncer       │        │  分析→风控→复盘   │      │  虚拟账户/实盘    │
+                      │  WorldNode/分析/  │        │  (SQLite 本地态)  │      │  知识图谱/检索    │
+                      │  交易/复盘/混合搜索│        │                  │      │  LLM 交易助手    │
+                      └───────────────────┘        └──────────────────┘      └──────────────────┘
+                         ▲ 共享大脑/唯一事实源
+                         │  (只读账号: kbquant_readonly / kbquant_es_readonly)
+                ◄ 本仓库 = 数据/知识层（共享大脑）
+```
+
+> **数据流**：资讯流入 → 本仓库入库 → workflow 分析 → 知识沉淀回本仓库 → Trade-system 可视化/交易。
+>
+> **启动顺序**：先启动本仓库，再启动 workflow（消费队列），最后启动 Trade-system（读取数据）。
+
 ## 快速开始
 
 ### 前置条件
@@ -32,6 +65,10 @@ docker compose up -d --build
 | elasticsearch | `final-elasticsearch` | 9200 | ES 9.3.3 + IK 中文分词（开启 security，密码来自 `.env` 的 `ELASTIC_PASSWORD`） |
 | pgbouncer | `kbquant-pgbouncer` | 6432 | transaction 模式连接池，app 统一经它连接 PG |
 | app | `kbquant-app` | 8000 | FastAPI 服务（uvicorn 多 worker + 内置 PipelineWorker） |
+
+### 提供给上游应用的数据通道
+
+`.env` 中的 `kbquant_readonly`（PG/PgBouncer 只读）与 `kbquant_es_readonly`（ES 只读）账号，专为 [Trade-system](https://github.com/Iamqlwy/Trade-system) 的知识检索/图谱视图提供安全的只读访问，与后端写路径隔离。Trade-system 的 `KB_DB_*` / `ES_URL` 配置即指向此通道。
 
 ### 验证
 
@@ -106,10 +143,15 @@ docs/                    接口文档、实体设计、ER 图、搜索管线设�
 
 ## 节点维护工作流
 
-world_nodes 的定期维护（Phase 1 重复节点合并、Phase 2 新节点关联边发现）见 [`nodes/README.md`](nodes/README.md)，由 `nodes/workflow.js` 驱动。
+world_nodes 的定期维护（Phase 1 重复节点合并、Phase 2 新节点关联边发现，指本仓库 `nodes/` 目录的维护脚本，与系统的 AI 流水线仓库 [workflow](https://github.com/Iamqlwy/workflow) 是两个概念）见 [`nodes/README.md`](nodes/README.md)，由 `nodes/workflow.js` 驱动。
 
 ## 安全须知
 
 - `.env` 包含 **LLM / Embedding / Rerank 的 API Key 等敏感信息**，已在 `.gitignore` 中排除，切勿提交。
 - 若任何 Key 曾意外进入版本库，请立即到对应平台**轮换密钥**，仓库历史无法真正抹除（本仓库历史已按此重建）。
 - 数据库密码存在于 `pgbouncer/userlist.txt`，仓库本身不对外公开；如需轮换，更新该文件与 `.env` 后 `docker compose up -d --build` 重建即可。
+
+## 相关仓库
+
+- [workflow](https://github.com/Iamqlwy/workflow) — AI 分析流水线（本仓库的队列消费者与知识写回方）
+- [Trade-system](https://github.com/Iamqlwy/Trade-system) — A 股交易平台（本仓库知识的展示与交易层）

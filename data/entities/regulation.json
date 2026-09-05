@@ -1,0 +1,228 @@
+[
+  {
+    "name": "减持新规",
+    "entity_type": "regulation",
+    "aliases": [
+      "减持新规",
+      "上市公司股东减持",
+      "减持管理办法"
+    ],
+    "metadata": {
+      "issuer": "证监会",
+      "year": "2024",
+      "doc_number": "证监会令第224号"
+    }
+  },
+  {
+    "name": "再融资新规",
+    "entity_type": "regulation",
+    "aliases": [
+      "再融资新规",
+      "上市公司再融资",
+      "定增规则"
+    ],
+    "metadata": {
+      "issuer": "证监会",
+      "year": "2023"
+    }
+  },
+  {
+    "name": "退市新规",
+    "entity_type": "regulation",
+    "aliases": [
+      "退市新规",
+      "退市制度"
+    ],
+    "metadata": {
+      "issuer": "证监会/交易所",
+      "year": "2024"
+    }
+  },
+  {
+    "name": "证券法（2019修订）",
+    "entity_type": "regulation",
+    "aliases": [
+      "证券法"
+    ],
+    "metadata": {
+      "issuer": "全国人大常委会",
+      "year": "2019",
+      "effective": "2020-03-01"
+    }
+  },
+  {
+    "name": "数据安全法",
+    "entity_type": "regulation",
+    "aliases": [
+      "数据安全"
+    ],
+    "metadata": {
+      "issuer": "全国人大常委会",
+      "year": "2021",
+      "effective": "2021-09-01"
+    }
+  },
+  {
+    "name": "个人信息保护法",
+    "entity_type": "regulation",
+    "aliases": [
+      "个人信息保护法",
+      "个保法",
+      "PIPL",
+      "Personal Information Protection Law"
+    ],
+    "metadata": {
+      "issuer": "全国人大常委会",
+      "year": "2021",
+      "effective": "2021-11-01"
+    }
+  },
+  {
+    "name": "私募投资基金监督管理条例",
+    "entity_type": "regulation",
+    "aliases": [
+      "私募基金条例",
+      "私募条例",
+      "私募监管"
+    ],
+    "metadata": {
+      "issuer": "国务院",
+      "year": "2023",
+      "effective": "2023-09-01"
+    }
+  },
+  {
+    "name": "量化交易监管规定",
+    "entity_type": "regulation",
+    "aliases": [
+      "量化交易监管",
+      "程序化交易"
+    ],
+    "metadata": {
+      "issuer": "证监会",
+      "year": "2024"
+    }
+  },
+  {
+    "name": "上市公司分红新规",
+    "entity_type": "regulation",
+    "aliases": [
+      "分红新规",
+      "分红指引"
+    ],
+    "metadata": {
+      "issuer": "证监会",
+      "year": "2024"
+    }
+  },
+  {
+    "name": "市值管理指引",
+    "entity_type": "regulation",
+    "aliases": [
+      "市值管理指引",
+      "上市公司市值管理"
+    ],
+    "metadata": {
+      "issuer": "证监会",
+      "year": "2024"
+    }
+  },
+  {
+    "name": "上市公司收购管理办法",
+    "entity_type": "regulation",
+    "aliases": [
+      "收购管理办法",
+      "上市公司收购"
+    ],
+    "metadata": {
+      "issuer": "证监会",
+      "year": "2020修订"
+    }
+  },
+  {
+    "name": "公司法（2023修订）",
+    "entity_type": "regulation",
+    "aliases": [
+      "公司法"
+    ],
+    "metadata": {
+      "issuer": "全国人大常委会",
+      "year": "2023",
+      "effective": "2024-07-01"
+    }
+  },
+  {
+    "name": "多德-弗兰克法案",
+    "entity_type": "regulation",
+    "aliases": [
+      "Dodd-Frank",
+      "多德弗兰克"
+    ],
+    "metadata": {
+      "issuer": "美国国会",
+      "year": "2010"
+    }
+  },
+  {
+    "name": "沃尔克规则",
+    "entity_type": "regulation",
+    "aliases": [
+      "Volcker Rule",
+      "沃尔克"
+    ],
+    "metadata": {
+      "issuer": "美联储/SEC",
+      "year": "2013"
+    }
+  },
+  {
+    "name": "外国公司问责法",
+    "entity_type": "regulation",
+    "aliases": [
+      "HFCAA",
+      "外国公司问责法",
+      "Holding Foreign Companies Accountable Act"
+    ],
+    "metadata": {
+      "issuer": "美国国会",
+      "year": "2020"
+    }
+  },
+  {
+    "name": "芯片与科学法案",
+    "entity_type": "regulation",
+    "aliases": [
+      "CHIPS Act",
+      "芯片法案",
+      "CHIPS and Science Act"
+    ],
+    "metadata": {
+      "issuer": "美国国会",
+      "year": "2022"
+    }
+  },
+  {
+    "name": "通胀削减法案",
+    "entity_type": "regulation",
+    "aliases": [
+      "Inflation Reduction Act",
+      "通胀削减法案"
+    ],
+    "metadata": {
+      "issuer": "美国国会",
+      "year": "2022"
+    }
+  },
+  {
+    "name": "SEC气候披露规则",
+    "entity_type": "regulation",
+    "aliases": [
+      "SEC气候披露",
+      "SEC Climate Disclosure Rule"
+    ],
+    "metadata": {
+      "issuer": "SEC",
+      "year": "2024"
+    }
+  }
+]

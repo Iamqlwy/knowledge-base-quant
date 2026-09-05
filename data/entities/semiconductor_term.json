@@ -1,0 +1,318 @@
+[
+  {
+    "name": "EUV光刻",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "极紫外光刻",
+      "EUV"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "制程/光刻"
+    }
+  },
+  {
+    "name": "DUV光刻",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "深紫外光刻",
+      "DUV"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "制程/光刻"
+    }
+  },
+  {
+    "name": "FinFET",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "鳍式场效应晶体管",
+      "FinFET工艺"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "制程/晶体管"
+    }
+  },
+  {
+    "name": "GAA",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "全环绕栅极",
+      "GAAFET",
+      "Gate-All-Around"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "制程/晶体管"
+    }
+  },
+  {
+    "name": "HBM",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "高带宽内存",
+      "HBM3",
+      "HBM4"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "存储"
+    }
+  },
+  {
+    "name": "DDR5",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "DDR5 SDRAM"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "存储"
+    }
+  },
+  {
+    "name": "LPDDR5X",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "LPDDR5",
+      "低功耗DDR5"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "存储"
+    }
+  },
+  {
+    "name": "NAND Flash",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "NAND闪存",
+      "3D NAND"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "存储"
+    }
+  },
+  {
+    "name": "碳化硅",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "SiC",
+      "碳化硅衬底"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体材料"
+    }
+  },
+  {
+    "name": "氮化镓",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "GaN",
+      "氮化镓功率器件"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体材料"
+    }
+  },
+  {
+    "name": "电子特气",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "电子级气体",
+      "高纯气体"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体材料"
+    }
+  },
+  {
+    "name": "SoC",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "系统级芯片",
+      "System-on-Chip"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "芯片设计"
+    }
+  },
+  {
+    "name": "ASIC",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "专用集成电路",
+      "定制芯片"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "芯片设计"
+    }
+  },
+  {
+    "name": "FPGA",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "现场可编程门阵列"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "芯片设计"
+    }
+  },
+  {
+    "name": "GPU",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "图形处理器",
+      "显卡芯片",
+      "AI芯片"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "芯片设计"
+    }
+  },
+  {
+    "name": "NPU",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "神经网络处理器",
+      "AI加速器"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "芯片设计"
+    }
+  },
+  {
+    "name": "DPU",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "数据处理单元"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "芯片设计"
+    }
+  },
+  {
+    "name": "MCU",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "微控制器",
+      "单片机"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "芯片设计"
+    }
+  },
+  {
+    "name": "刻蚀机",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "等离子刻蚀",
+      "干法刻蚀"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体设备"
+    }
+  },
+  {
+    "name": "薄膜沉积",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "CVD",
+      "PVD",
+      "ALD",
+      "原子层沉积"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体设备"
+    }
+  },
+  {
+    "name": "离子注入",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "ion implantation",
+      "离子注入机"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体设备"
+    }
+  },
+  {
+    "name": "CMP",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "化学机械抛光"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体设备"
+    }
+  },
+  {
+    "name": "晶圆",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "wafer",
+      "硅片",
+      "12英寸晶圆"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "制造"
+    }
+  },
+  {
+    "name": "先进制程",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "7nm",
+      "5nm",
+      "3nm",
+      "2nm",
+      "先进节点"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "制程"
+    }
+  },
+  {
+    "name": "IGBT",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "绝缘栅双极型晶体管"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "功率半导体"
+    }
+  },
+  {
+    "name": "MOSFET",
+    "entity_type": "semiconductor_term",
+    "aliases": [
+      "金属氧化物场效应管",
+      "功率MOS"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "功率半导体"
+    }
+  }
+]

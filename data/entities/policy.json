@@ -1,0 +1,272 @@
+[
+  {
+    "name": "新质生产力",
+    "entity_type": "policy",
+    "aliases": [
+      "新质生产"
+    ],
+    "metadata": {
+      "first_mentioned": "2023-09",
+      "occasion": "习近平总书记黑龙江考察"
+    }
+  },
+  {
+    "name": "碳中和",
+    "entity_type": "policy",
+    "aliases": [
+      "碳中和",
+      "碳达峰",
+      "双碳",
+      "3060目标",
+      "Carbon Neutrality"
+    ],
+    "metadata": {
+      "first_mentioned": "2020-09",
+      "occasion": "联合国大会"
+    }
+  },
+  {
+    "name": "中特估",
+    "entity_type": "policy",
+    "aliases": [
+      "中特估",
+      "中国特色估值体系",
+      "国企估值重塑"
+    ],
+    "metadata": {
+      "first_mentioned": "2022-11",
+      "occasion": "易会满金融街论坛讲话"
+    }
+  },
+  {
+    "name": "房住不炒",
+    "entity_type": "policy",
+    "aliases": [
+      "房住不炒",
+      "房子是用来住的不是用来炒的"
+    ],
+    "metadata": {
+      "first_mentioned": "2016-12",
+      "occasion": "中央经济工作会议"
+    }
+  },
+  {
+    "name": "共同富裕",
+    "entity_type": "policy",
+    "aliases": [
+      "共同富裕",
+      "第三次分配"
+    ],
+    "metadata": {
+      "first_mentioned": "2021-08",
+      "occasion": "中央财经委第十次会议"
+    }
+  },
+  {
+    "name": "数据要素",
+    "entity_type": "policy",
+    "aliases": [
+      "数据要素",
+      "数据资产"
+    ],
+    "metadata": {
+      "first_mentioned": "2023",
+      "occasion": "国家数据局成立"
+    }
+  },
+  {
+    "name": "全国统一大市场",
+    "entity_type": "policy",
+    "aliases": [
+      "统一大市场"
+    ],
+    "metadata": {
+      "first_mentioned": "2022-04",
+      "occasion": "中共中央国务院意见"
+    }
+  },
+  {
+    "name": "注册制改革",
+    "entity_type": "policy",
+    "aliases": [
+      "注册制改革",
+      "全面注册制"
+    ],
+    "metadata": {
+      "first_mentioned": "2019",
+      "occasion": "科创板开板"
+    }
+  },
+  {
+    "name": "金融强国",
+    "entity_type": "policy",
+    "aliases": [
+      "金融强国"
+    ],
+    "metadata": {
+      "first_mentioned": "2023-10",
+      "occasion": "中央金融工作会议"
+    }
+  },
+  {
+    "name": "耐心资本",
+    "entity_type": "policy",
+    "aliases": [
+      "耐心资本"
+    ],
+    "metadata": {
+      "first_mentioned": "2024-04",
+      "occasion": "中央政治局会议"
+    }
+  },
+  {
+    "name": "活跃资本市场",
+    "entity_type": "policy",
+    "aliases": [
+      "活跃资本市场",
+      "提振投资者信心"
+    ],
+    "metadata": {
+      "first_mentioned": "2023-07",
+      "occasion": "中央政治局会议"
+    }
+  },
+  {
+    "name": "一揽子化债方案",
+    "entity_type": "policy",
+    "aliases": [
+      "化债",
+      "地方债务化解"
+    ],
+    "metadata": {
+      "first_mentioned": "2023-07",
+      "occasion": "中央政治局会议"
+    }
+  },
+  {
+    "name": "三大工程",
+    "entity_type": "policy",
+    "aliases": [
+      "三大工程",
+      "保障房",
+      "城中村改造",
+      "平急两用"
+    ],
+    "metadata": {
+      "first_mentioned": "2023",
+      "occasion": "国务院常务会议"
+    }
+  },
+  {
+    "name": "设备更新",
+    "entity_type": "policy",
+    "aliases": [
+      "设备更新",
+      "以旧换新"
+    ],
+    "metadata": {
+      "first_mentioned": "2024-03",
+      "occasion": "国务院常务会议"
+    }
+  },
+  {
+    "name": "新型工业化",
+    "entity_type": "policy",
+    "aliases": [
+      "新型工业化"
+    ],
+    "metadata": {
+      "first_mentioned": "2023-09",
+      "occasion": "全国新型工业化推进大会"
+    }
+  },
+  {
+    "name": "数字经济",
+    "entity_type": "policy",
+    "aliases": [
+      "数字经济",
+      "数字中国"
+    ],
+    "metadata": {
+      "first_mentioned": "2022",
+      "occasion": "十四五规划"
+    }
+  },
+  {
+    "name": "人工智能+",
+    "entity_type": "policy",
+    "aliases": [
+      "人工智能+",
+      "AI+",
+      "人工智能赋能"
+    ],
+    "metadata": {
+      "first_mentioned": "2024-03",
+      "occasion": "政府工作报告"
+    }
+  },
+  {
+    "name": "低空经济",
+    "entity_type": "policy",
+    "aliases": [
+      "低空经济",
+      "通用航空",
+      "eVTOL"
+    ],
+    "metadata": {
+      "first_mentioned": "2023-12",
+      "occasion": "中央经济工作会议"
+    }
+  },
+  {
+    "name": "商业航天",
+    "entity_type": "policy",
+    "aliases": [
+      "商业航天",
+      "商业火箭",
+      "卫星互联网"
+    ],
+    "metadata": {
+      "first_mentioned": "2024-03",
+      "occasion": "政府工作报告"
+    }
+  },
+  {
+    "name": "生物制造",
+    "entity_type": "policy",
+    "aliases": [
+      "生物制造",
+      "合成生物"
+    ],
+    "metadata": {
+      "first_mentioned": "2024-03",
+      "occasion": "政府工作报告"
+    }
+  },
+  {
+    "name": "量子科技",
+    "entity_type": "policy",
+    "aliases": [
+      "量子科技",
+      "量子计算",
+      "量子通信"
+    ],
+    "metadata": {
+      "first_mentioned": "2024-03",
+      "occasion": "政府工作报告"
+    }
+  },
+  {
+    "name": "银发经济",
+    "entity_type": "policy",
+    "aliases": [
+      "银发经济",
+      "养老经济",
+      "老龄化产业"
+    ],
+    "metadata": {
+      "first_mentioned": "2024-01",
+      "occasion": "国务院常务会议"
+    }
+  }
+]

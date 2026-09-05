@@ -1,0 +1,3 @@
+"postgres" "postgres"
+"quantkb" "DP3yiLIxPXlVrbZHbl7_ZLBrNuaqJ9CW"
+"kbquant_readonly" "1wPMz0qaXu5i2GnItB6O1uM87n0ENWh9"

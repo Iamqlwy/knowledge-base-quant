@@ -1,0 +1,183 @@
+[
+  {
+    "name": "注册制",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "注册制"
+    ],
+    "metadata": {
+      "market": "A股",
+      "description": "以信息披露为核心的发行制度"
+    }
+  },
+  {
+    "name": "核准制",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "核准制"
+    ],
+    "metadata": {
+      "market": "A股",
+      "description": "证监会实质性审核的发行制度（已逐步被注册制替代）"
+    }
+  },
+  {
+    "name": "科创板上市规则",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "科创板规则",
+      "科创板上市",
+      "STAR Market Listing Rules"
+    ],
+    "metadata": {
+      "market": "科创板",
+      "exchange": "上交所"
+    }
+  },
+  {
+    "name": "创业板注册制",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "创业板注册制",
+      "创业板改革",
+      "ChiNext Registration"
+    ],
+    "metadata": {
+      "market": "创业板",
+      "exchange": "深交所"
+    }
+  },
+  {
+    "name": "北交所规则",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "北交所规则",
+      "北京证券交易所",
+      "北交所上市"
+    ],
+    "metadata": {
+      "market": "北交所",
+      "exchange": "北交所"
+    }
+  },
+  {
+    "name": "ST处理规则",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "ST处理",
+      "ST制度",
+      "特别处理"
+    ],
+    "metadata": {
+      "market": "A股",
+      "description": "风险警示制度"
+    }
+  },
+  {
+    "name": "*ST处理规则",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "*ST",
+      "退市风险警示"
+    ],
+    "metadata": {
+      "market": "A股",
+      "description": "退市风险警示"
+    }
+  },
+  {
+    "name": "退市整理期",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "退市整理"
+    ],
+    "metadata": {
+      "market": "A股",
+      "description": "退市前最后交易阶段"
+    }
+  },
+  {
+    "name": "涨跌幅限制",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "涨跌停板",
+      "涨跌幅",
+      "price limit"
+    ],
+    "metadata": {
+      "market": "A股",
+      "description": "主板±10%，科创/创业±20%，北交所±30%"
+    }
+  },
+  {
+    "name": "T+1交收制度",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "T+1交收",
+      "T+1 settlement"
+    ],
+    "metadata": {
+      "market": "A股",
+      "description": "当日买入次日才能卖出"
+    }
+  },
+  {
+    "name": "融资融券规则",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "融资融券",
+      "两融",
+      "margin trading"
+    ],
+    "metadata": {
+      "market": "A股",
+      "description": "信用交易制度"
+    }
+  },
+  {
+    "name": "股指期货交易规则",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "股指期货",
+      "index futures"
+    ],
+    "metadata": {
+      "market": "中金所",
+      "description": "包括保证金、交割等规则"
+    }
+  },
+  {
+    "name": "大宗交易规则",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "block trading"
+    ],
+    "metadata": {
+      "market": "A股",
+      "description": "大额交易的特殊通道"
+    }
+  },
+  {
+    "name": "询价转让制度",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "询价转让"
+    ],
+    "metadata": {
+      "market": "科创板",
+      "description": "科创板股东减持方式"
+    }
+  },
+  {
+    "name": "做市商制度",
+    "entity_type": "industry_rule",
+    "aliases": [
+      "做市商",
+      "market making"
+    ],
+    "metadata": {
+      "market": "科创板/北交所",
+      "description": "提供流动性的交易商制度"
+    }
+  }
+]

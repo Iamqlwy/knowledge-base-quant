@@ -1,0 +1,313 @@
+[
+  {
+    "name": "潘功胜",
+    "entity_type": "person",
+    "aliases": [
+      "潘功胜",
+      "Pan Gongsheng"
+    ],
+    "metadata": {
+      "role": "official",
+      "title": "中国人民银行行长",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "吴清",
+    "entity_type": "person",
+    "aliases": [
+      "吴清",
+      "Wu Qing"
+    ],
+    "metadata": {
+      "role": "official",
+      "title": "中国证监会主席",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "易会满",
+    "entity_type": "person",
+    "aliases": [
+      "易会满",
+      "Yi Huiman"
+    ],
+    "metadata": {
+      "role": "official",
+      "title": "前中国证监会主席",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "李云泽",
+    "entity_type": "person",
+    "aliases": [
+      "李云泽",
+      "Li Yunze"
+    ],
+    "metadata": {
+      "role": "official",
+      "title": "国家金融监督管理总局局长",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "鲍威尔",
+    "entity_type": "person",
+    "aliases": [
+      "Powell"
+    ],
+    "metadata": {
+      "role": "official",
+      "title": "美联储主席",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "耶伦",
+    "entity_type": "person",
+    "aliases": [
+      "耶伦",
+      "Yellen",
+      "财政部长"
+    ],
+    "metadata": {
+      "role": "official",
+      "title": "美国财政部长/前美联储主席",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "伯南克",
+    "entity_type": "person",
+    "aliases": [
+      "伯南克",
+      "Bernanke"
+    ],
+    "metadata": {
+      "role": "official",
+      "title": "前美联储主席",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "黄仁勋",
+    "entity_type": "person",
+    "aliases": [
+      "黄仁勋",
+      "Jensen Huang",
+      "老黄",
+      "NVIDIA CEO"
+    ],
+    "metadata": {
+      "role": "ceo",
+      "company": "NVIDIA",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "马斯克",
+    "entity_type": "person",
+    "aliases": [
+      "马斯克",
+      "Elon"
+    ],
+    "metadata": {
+      "role": "ceo",
+      "company": "Tesla/SpaceX/xAI",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "库克",
+    "entity_type": "person",
+    "aliases": [
+      "库克",
+      "Tim Cook",
+      "苹果CEO"
+    ],
+    "metadata": {
+      "role": "ceo",
+      "company": "Apple",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "苏姿丰",
+    "entity_type": "person",
+    "aliases": [
+      "苏姿丰",
+      "Lisa Su",
+      "AMD CEO"
+    ],
+    "metadata": {
+      "role": "ceo",
+      "company": "AMD",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "张忠谋",
+    "entity_type": "person",
+    "aliases": [
+      "张忠谋",
+      "Morris Chang",
+      "台积电创始人"
+    ],
+    "metadata": {
+      "role": "ceo",
+      "company": "台积电",
+      "country": "台湾"
+    }
+  },
+  {
+    "name": "任正非",
+    "entity_type": "person",
+    "aliases": [
+      "任正非",
+      "Ren Zhengfei",
+      "华为创始人"
+    ],
+    "metadata": {
+      "role": "ceo",
+      "company": "华为",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "巴菲特",
+    "entity_type": "person",
+    "aliases": [
+      "巴菲特",
+      "Buffett",
+      "股神"
+    ],
+    "metadata": {
+      "role": "investor",
+      "company": "Berkshire Hathaway",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "芒格",
+    "entity_type": "person",
+    "aliases": [
+      "芒格",
+      "Munger"
+    ],
+    "metadata": {
+      "role": "investor",
+      "company": "Berkshire Hathaway (已故)",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "达利欧",
+    "entity_type": "person",
+    "aliases": [
+      "达利欧",
+      "Dalio",
+      "桥水创始人"
+    ],
+    "metadata": {
+      "role": "investor",
+      "company": "Bridgewater",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "段永平",
+    "entity_type": "person",
+    "aliases": [
+      "段永平",
+      "Duan Yongping",
+      "大道无形"
+    ],
+    "metadata": {
+      "role": "investor",
+      "style": "价值投资",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "但斌",
+    "entity_type": "person",
+    "aliases": [
+      "但斌",
+      "Dan Bin"
+    ],
+    "metadata": {
+      "role": "investor",
+      "company": "东方港湾",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "李蓓",
+    "entity_type": "person",
+    "aliases": [
+      "李蓓",
+      "Li Bei"
+    ],
+    "metadata": {
+      "role": "investor",
+      "company": "半夏投资",
+      "style": "宏观对冲",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "辜朝明",
+    "entity_type": "person",
+    "aliases": [
+      "辜朝明",
+      "Richard Koo",
+      "资产负债表衰退"
+    ],
+    "metadata": {
+      "role": "economist",
+      "known_for": "资产负债表衰退理论",
+      "country": "日本"
+    }
+  },
+  {
+    "name": "鲁比尼",
+    "entity_type": "person",
+    "aliases": [
+      "鲁比尼",
+      "Roubini",
+      "末日博士",
+      "Dr. Doom"
+    ],
+    "metadata": {
+      "role": "economist",
+      "known_for": "危机预测",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "特朗普",
+    "entity_type": "person",
+    "aliases": [
+      "Trump",
+      "川普"
+    ],
+    "metadata": {
+      "role": "political",
+      "title": "美国总统",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "凯伦沃什",
+    "entity_type": "person",
+    "aliases": [
+      "Warsh"
+    ],
+    "metadata": {
+      "role": "official",
+      "title": "新美联储主席",
+      "country": "美国"
+    }
+  }
+]

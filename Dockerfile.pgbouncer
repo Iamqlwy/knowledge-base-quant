@@ -1,0 +1,17 @@
+FROM docker.m.daocloud.io/library/python:3.12-slim
+
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends pgbouncer && \
+    rm -rf /var/lib/apt/lists/* && \
+    useradd -r -s /bin/false pgbouncer
+
+COPY pgbouncer/pgbouncer.ini /etc/pgbouncer/pgbouncer.ini
+COPY pgbouncer/userlist.txt /etc/pgbouncer/userlist.txt
+
+RUN chown -R pgbouncer:pgbouncer /etc/pgbouncer/
+
+EXPOSE 6432
+
+USER pgbouncer
+
+CMD ["pgbouncer", "/etc/pgbouncer/pgbouncer.ini"]

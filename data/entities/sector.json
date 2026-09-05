@@ -1,0 +1,3859 @@
+[
+  {
+    "name": "种植业与林业",
+    "entity_type": "sector",
+    "aliases": [
+      "种植业"
+    ],
+    "metadata": {
+      "ts_code": "881101.TI",
+      "stock_count": 24,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "养殖业",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881102.TI",
+      "stock_count": 27,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "农产品加工",
+    "entity_type": "sector",
+    "aliases": [
+      "农产品"
+    ],
+    "metadata": {
+      "ts_code": "881103.TI",
+      "stock_count": 40,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "煤炭开采加工",
+    "entity_type": "sector",
+    "aliases": [
+      "煤炭开采"
+    ],
+    "metadata": {
+      "ts_code": "881105.TI",
+      "stock_count": 35,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "油气开采及服务",
+    "entity_type": "sector",
+    "aliases": [
+      "油气开采"
+    ],
+    "metadata": {
+      "ts_code": "881107.TI",
+      "stock_count": 20,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "化学原料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881108.TI",
+      "stock_count": 59,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "化学制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881109.TI",
+      "stock_count": 221,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "钢铁",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881112.TI",
+      "stock_count": 47,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "金属新材料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881114.TI",
+      "stock_count": 25,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "建筑材料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881115.TI",
+      "stock_count": 76,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "建筑装饰",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881116.TI",
+      "stock_count": 155,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "通用设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881117.TI",
+      "stock_count": 174,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "专用设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881118.TI",
+      "stock_count": 200,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "半导体",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881121.TI",
+      "stock_count": 193,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "光学光电子",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881122.TI",
+      "stock_count": 104,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "其他电子",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881123.TI",
+      "stock_count": 36,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "消费电子",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881124.TI",
+      "stock_count": 98,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "汽车整车",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881125.TI",
+      "stock_count": 24,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "汽车零部件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881126.TI",
+      "stock_count": 225,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "汽车服务及其他",
+    "entity_type": "sector",
+    "aliases": [
+      "汽车服务"
+    ],
+    "metadata": {
+      "ts_code": "881128.TI",
+      "stock_count": 13,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "通信设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881129.TI",
+      "stock_count": 86,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "计算机设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881130.TI",
+      "stock_count": 81,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "白色家电",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881131.TI",
+      "stock_count": 35,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "黑色家电",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881132.TI",
+      "stock_count": 10,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "饮料制造",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881133.TI",
+      "stock_count": 47,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "食品加工制造",
+    "entity_type": "sector",
+    "aliases": [
+      "食品加工"
+    ],
+    "metadata": {
+      "ts_code": "881134.TI",
+      "stock_count": 82,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "纺织制造",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881135.TI",
+      "stock_count": 34,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "服装家纺",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881136.TI",
+      "stock_count": 62,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "造纸",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881137.TI",
+      "stock_count": 23,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "包装印刷",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881138.TI",
+      "stock_count": 47,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "家居用品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881139.TI",
+      "stock_count": 108,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "化学制药",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881140.TI",
+      "stock_count": 155,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "中药",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881141.TI",
+      "stock_count": 75,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "生物制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881142.TI",
+      "stock_count": 54,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "医药商业",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881143.TI",
+      "stock_count": 31,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "医疗器械",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881144.TI",
+      "stock_count": 123,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "电力",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881145.TI",
+      "stock_count": 94,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "燃气",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881146.TI",
+      "stock_count": 29,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "港口航运",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881148.TI",
+      "stock_count": 36,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "公路铁路运输",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881149.TI",
+      "stock_count": 33,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "机场航运",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881151.TI",
+      "stock_count": 13,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "物流",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881152.TI",
+      "stock_count": 47,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "房地产",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881153.TI",
+      "stock_count": 101,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "银行",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881155.TI",
+      "stock_count": 42,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "保险",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881156.TI",
+      "stock_count": 38,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "证券",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881157.TI",
+      "stock_count": 50,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "零售",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881158.TI",
+      "stock_count": 71,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "贸易行业",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881159.TI",
+      "stock_count": 15,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "旅游及酒店",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881160.TI",
+      "stock_count": 21,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "通信服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881162.TI",
+      "stock_count": 38,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "文化传媒",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881164.TI",
+      "stock_count": 135,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "综合行业",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881165.TI",
+      "stock_count": 25,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "军工装备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881166.TI",
+      "stock_count": 138,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "非金属材料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881167.TI",
+      "stock_count": 12,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "工业金属",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881168.TI",
+      "stock_count": 63,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "贵金属",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881169.TI",
+      "stock_count": 11,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "小金属",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881170.TI",
+      "stock_count": 41,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "自动化设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881171.TI",
+      "stock_count": 86,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "电子化学品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881172.TI",
+      "stock_count": 33,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "小家电",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881173.TI",
+      "stock_count": 25,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "厨卫电器",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881174.TI",
+      "stock_count": 9,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "医疗服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881175.TI",
+      "stock_count": 49,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "互联网电商",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881177.TI",
+      "stock_count": 21,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "教育",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881178.TI",
+      "stock_count": 19,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "其他社会服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881179.TI",
+      "stock_count": 33,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "石油加工贸易",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881180.TI",
+      "stock_count": 27,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "环境治理",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881181.TI",
+      "stock_count": 141,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "美容护理",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881182.TI",
+      "stock_count": 30,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "农化制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881263.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "化学纤维",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881264.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "塑料制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881265.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "橡胶制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881266.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "能源金属",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881267.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "工程机械",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881268.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "轨交设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881269.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "元件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881270.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "IT服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881271.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "软件开发",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881272.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "白酒",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881273.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "影视院线",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881274.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "游戏",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881275.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "军工电子",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881276.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "电机",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881277.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "电网设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881278.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "光伏设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881279.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "风电设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881280.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "电池",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881281.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "其他电源设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881282.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "多元金融",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881283.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "环保设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "881284.TI",
+      "stock_count": 0,
+      "level": "一级",
+      "parent_name": null
+    }
+  },
+  {
+    "name": "种子生产",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884001.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "种植业与林业"
+    }
+  },
+  {
+    "name": "粮食种植",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884002.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "种植业与林业"
+    }
+  },
+  {
+    "name": "其他种植业",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884003.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "种植业与林业"
+    }
+  },
+  {
+    "name": "林业",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884004.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "种植业与林业"
+    }
+  },
+  {
+    "name": "海洋捕捞",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884005.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "养殖业"
+    }
+  },
+  {
+    "name": "水产养殖",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884006.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "养殖业"
+    }
+  },
+  {
+    "name": "果蔬加工",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884009.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农产品加工"
+    }
+  },
+  {
+    "name": "粮油加工",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884010.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农产品加工"
+    }
+  },
+  {
+    "name": "其他农产品加工",
+    "entity_type": "sector",
+    "aliases": [
+      "其他农产品"
+    ],
+    "metadata": {
+      "ts_code": "884011.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农产品加工"
+    }
+  },
+  {
+    "name": "农业综合",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884012.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "种植业与林业"
+    }
+  },
+  {
+    "name": "动物保健",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884013.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农产品加工"
+    }
+  },
+  {
+    "name": "煤炭开采",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884014.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "煤炭开采加工"
+    }
+  },
+  {
+    "name": "焦炭加工",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884015.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "煤炭开采加工"
+    }
+  },
+  {
+    "name": "油气开采",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884016.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "油气开采及服务"
+    }
+  },
+  {
+    "name": "油服工程",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884018.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "油气开采及服务"
+    }
+  },
+  {
+    "name": "石油加工",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884020.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "石油加工贸易"
+    }
+  },
+  {
+    "name": "油品石化贸易",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884021.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "石油加工贸易"
+    }
+  },
+  {
+    "name": "纯碱",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884022.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学原料"
+    }
+  },
+  {
+    "name": "氯碱",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884023.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学原料"
+    }
+  },
+  {
+    "name": "无机盐",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884024.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学原料"
+    }
+  },
+  {
+    "name": "其他化学原料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884025.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学原料"
+    }
+  },
+  {
+    "name": "氮肥",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884026.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农化制品"
+    }
+  },
+  {
+    "name": "磷肥及磷化工",
+    "entity_type": "sector",
+    "aliases": [
+      "磷化工"
+    ],
+    "metadata": {
+      "ts_code": "884027.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农化制品"
+    }
+  },
+  {
+    "name": "农药",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884028.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农化制品"
+    }
+  },
+  {
+    "name": "涂料油墨",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884030.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制品"
+    }
+  },
+  {
+    "name": "钾肥",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884031.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农化制品"
+    }
+  },
+  {
+    "name": "民爆用品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884032.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制品"
+    }
+  },
+  {
+    "name": "纺织化学用品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884033.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制品"
+    }
+  },
+  {
+    "name": "其他化学制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884034.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制品"
+    }
+  },
+  {
+    "name": "复合肥",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884035.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农化制品"
+    }
+  },
+  {
+    "name": "氟化工",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884036.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制品"
+    }
+  },
+  {
+    "name": "聚氨酯",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884039.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制品"
+    }
+  },
+  {
+    "name": "涤纶",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884041.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学纤维"
+    }
+  },
+  {
+    "name": "粘胶",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884043.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学纤维"
+    }
+  },
+  {
+    "name": "其他纤维",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884044.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学纤维"
+    }
+  },
+  {
+    "name": "氨纶",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884045.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学纤维"
+    }
+  },
+  {
+    "name": "其他塑料制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884046.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "塑料制品"
+    }
+  },
+  {
+    "name": "改性塑料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884048.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "塑料制品"
+    }
+  },
+  {
+    "name": "其他橡胶制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884050.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "橡胶制品"
+    }
+  },
+  {
+    "name": "炭黑",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884051.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "橡胶制品"
+    }
+  },
+  {
+    "name": "普钢",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884052.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "钢铁"
+    }
+  },
+  {
+    "name": "铝",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884053.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "工业金属"
+    }
+  },
+  {
+    "name": "铜",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884054.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "工业金属"
+    }
+  },
+  {
+    "name": "铅锌",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884055.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "工业金属"
+    }
+  },
+  {
+    "name": "其他金属新材料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884056.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "金属新材料"
+    }
+  },
+  {
+    "name": "磁性材料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884057.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "金属新材料"
+    }
+  },
+  {
+    "name": "非金属材料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884058.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "非金属材料"
+    }
+  },
+  {
+    "name": "玻璃玻纤",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884059.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑材料"
+    }
+  },
+  {
+    "name": "水泥",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884060.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑材料"
+    }
+  },
+  {
+    "name": "其他建材",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884062.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑材料"
+    }
+  },
+  {
+    "name": "耐火材料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884063.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑材料"
+    }
+  },
+  {
+    "name": "管材",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884064.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑材料"
+    }
+  },
+  {
+    "name": "装饰园林",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884065.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑装饰"
+    }
+  },
+  {
+    "name": "房屋建设",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884066.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑装饰"
+    }
+  },
+  {
+    "name": "基础建设",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884067.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑装饰"
+    }
+  },
+  {
+    "name": "专业工程",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884068.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑装饰"
+    }
+  },
+  {
+    "name": "机床工具",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884069.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通用设备"
+    }
+  },
+  {
+    "name": "磨具磨料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884071.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通用设备"
+    }
+  },
+  {
+    "name": "制冷空调设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884073.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通用设备"
+    }
+  },
+  {
+    "name": "其他通用设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884074.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通用设备"
+    }
+  },
+  {
+    "name": "金属制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884075.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通用设备"
+    }
+  },
+  {
+    "name": "纺织服装设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884076.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "专用设备"
+    }
+  },
+  {
+    "name": "工程机械",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884077.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "工程机械"
+    }
+  },
+  {
+    "name": "农用机械",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884078.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "专用设备"
+    }
+  },
+  {
+    "name": "能源及重型设备",
+    "entity_type": "sector",
+    "aliases": [
+      "重型设备"
+    ],
+    "metadata": {
+      "ts_code": "884080.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "专用设备"
+    }
+  },
+  {
+    "name": "印刷包装机械",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884081.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "专用设备"
+    }
+  },
+  {
+    "name": "其他专用设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884082.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "专用设备"
+    }
+  },
+  {
+    "name": "楼宇设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884083.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "自动化设备"
+    }
+  },
+  {
+    "name": "环保设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884084.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "环保设备"
+    }
+  },
+  {
+    "name": "电机",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884085.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电机"
+    }
+  },
+  {
+    "name": "电气自控设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884086.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "自动化设备"
+    }
+  },
+  {
+    "name": "输变电设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884088.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电网设备"
+    }
+  },
+  {
+    "name": "线缆部件及其他",
+    "entity_type": "sector",
+    "aliases": [
+      "线缆部件"
+    ],
+    "metadata": {
+      "ts_code": "884089.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电网设备"
+    }
+  },
+  {
+    "name": "分立器件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884090.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "半导体"
+    }
+  },
+  {
+    "name": "半导体材料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884091.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "半导体"
+    }
+  },
+  {
+    "name": "印制电路板",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884092.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "元件"
+    }
+  },
+  {
+    "name": "被动元件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884093.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "元件"
+    }
+  },
+  {
+    "name": "面板",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884094.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "光学光电子"
+    }
+  },
+  {
+    "name": "LED",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884095.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "光学光电子"
+    }
+  },
+  {
+    "name": "光学元件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884096.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "光学光电子"
+    }
+  },
+  {
+    "name": "消费电子零部件及组装",
+    "entity_type": "sector",
+    "aliases": [
+      "消费电子零部件"
+    ],
+    "metadata": {
+      "ts_code": "884098.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "消费电子"
+    }
+  },
+  {
+    "name": "乘用车",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884099.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "汽车整车"
+    }
+  },
+  {
+    "name": "商用载货车",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884100.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "汽车整车"
+    }
+  },
+  {
+    "name": "商用载客车",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884101.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "汽车整车"
+    }
+  },
+  {
+    "name": "轨交设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884105.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "轨交设备"
+    }
+  },
+  {
+    "name": "其他运输设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884106.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "专用设备"
+    }
+  },
+  {
+    "name": "汽车服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884107.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "汽车服务及其他"
+    }
+  },
+  {
+    "name": "冰洗",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884112.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "白色家电"
+    }
+  },
+  {
+    "name": "空调",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884113.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "白色家电"
+    }
+  },
+  {
+    "name": "小家电",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884115.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "小家电"
+    }
+  },
+  {
+    "name": "家电零部件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884116.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "白色家电"
+    }
+  },
+  {
+    "name": "彩电",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884117.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "黑色家电"
+    }
+  },
+  {
+    "name": "其他黑色家电",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884118.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "黑色家电"
+    }
+  },
+  {
+    "name": "其他酒类",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884119.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "饮料制造"
+    }
+  },
+  {
+    "name": "软饮料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884120.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "饮料制造"
+    }
+  },
+  {
+    "name": "肉制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884123.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "食品加工制造"
+    }
+  },
+  {
+    "name": "调味发酵品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884124.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "食品加工制造"
+    }
+  },
+  {
+    "name": "乳品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884125.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "食品加工制造"
+    }
+  },
+  {
+    "name": "其他食品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884126.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "食品加工制造"
+    }
+  },
+  {
+    "name": "棉纺",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884128.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "纺织制造"
+    }
+  },
+  {
+    "name": "印染",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884130.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "纺织制造"
+    }
+  },
+  {
+    "name": "辅料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884131.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "纺织制造"
+    }
+  },
+  {
+    "name": "其他纺织",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884132.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "纺织制造"
+    }
+  },
+  {
+    "name": "鞋帽及其他",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884136.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "服装家纺"
+    }
+  },
+  {
+    "name": "家纺",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884137.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "服装家纺"
+    }
+  },
+  {
+    "name": "其他家居用品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884140.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "家居用品"
+    }
+  },
+  {
+    "name": "饰品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884141.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "家居用品"
+    }
+  },
+  {
+    "name": "文娱用品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884142.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "家居用品"
+    }
+  },
+  {
+    "name": "原料药",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884143.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制药"
+    }
+  },
+  {
+    "name": "化学制剂",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884144.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制药"
+    }
+  },
+  {
+    "name": "医疗设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884145.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "医疗器械"
+    }
+  },
+  {
+    "name": "火电",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884146.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电力"
+    }
+  },
+  {
+    "name": "水电",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884147.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电力"
+    }
+  },
+  {
+    "name": "热力",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884149.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电力"
+    }
+  },
+  {
+    "name": "新能源发电",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884150.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电力"
+    }
+  },
+  {
+    "name": "燃气",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884152.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "燃气"
+    }
+  },
+  {
+    "name": "港口",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884153.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "港口航运"
+    }
+  },
+  {
+    "name": "高速公路",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884154.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "公路铁路运输"
+    }
+  },
+  {
+    "name": "铁路运输",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884155.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "公路铁路运输"
+    }
+  },
+  {
+    "name": "机场",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884156.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "机场航运"
+    }
+  },
+  {
+    "name": "航空运输",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884157.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "机场航运"
+    }
+  },
+  {
+    "name": "多元金融",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884158.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "多元金融"
+    }
+  },
+  {
+    "name": "保险",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884159.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "保险"
+    }
+  },
+  {
+    "name": "百货零售",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884160.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "零售"
+    }
+  },
+  {
+    "name": "专业连锁",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884161.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "零售"
+    }
+  },
+  {
+    "name": "商业物业经营",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884162.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "贸易行业"
+    }
+  },
+  {
+    "name": "人工景点",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884163.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "旅游及酒店"
+    }
+  },
+  {
+    "name": "自然景点",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884164.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "旅游及酒店"
+    }
+  },
+  {
+    "name": "旅游综合",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884165.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "旅游及酒店"
+    }
+  },
+  {
+    "name": "酒店",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884167.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "旅游及酒店"
+    }
+  },
+  {
+    "name": "餐饮",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884168.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "旅游及酒店"
+    }
+  },
+  {
+    "name": "电视广播",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884172.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "文化传媒"
+    }
+  },
+  {
+    "name": "出版",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884176.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "文化传媒"
+    }
+  },
+  {
+    "name": "影视院线",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884177.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "影视院线"
+    }
+  },
+  {
+    "name": "广告营销",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884178.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "文化传媒"
+    }
+  },
+  {
+    "name": "航天装备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884180.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "军工装备"
+    }
+  },
+  {
+    "name": "航空装备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884181.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "军工装备"
+    }
+  },
+  {
+    "name": "地面兵装",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884182.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "军工装备"
+    }
+  },
+  {
+    "name": "航海装备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884183.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "军工装备"
+    }
+  },
+  {
+    "name": "特钢",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884184.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "钢铁"
+    }
+  },
+  {
+    "name": "贵金属",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884185.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "贵金属"
+    }
+  },
+  {
+    "name": "其他小金属",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884186.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "小金属"
+    }
+  },
+  {
+    "name": "白酒",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884188.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "白酒"
+    }
+  },
+  {
+    "name": "啤酒",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884189.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "饮料制造"
+    }
+  },
+  {
+    "name": "航运",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884191.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "港口航运"
+    }
+  },
+  {
+    "name": "仪器仪表",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884192.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通用设备"
+    }
+  },
+  {
+    "name": "其他电子",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884193.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "其他电子"
+    }
+  },
+  {
+    "name": "造纸",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884195.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "造纸"
+    }
+  },
+  {
+    "name": "中药",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884197.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "中药"
+    }
+  },
+  {
+    "name": "医药流通",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884199.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "医药商业"
+    }
+  },
+  {
+    "name": "公交",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884200.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "公路铁路运输"
+    }
+  },
+  {
+    "name": "物流",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884201.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "物流"
+    }
+  },
+  {
+    "name": "住宅开发",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884202.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "房地产"
+    }
+  },
+  {
+    "name": "产业地产",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884203.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "房地产"
+    }
+  },
+  {
+    "name": "证券",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884205.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "证券"
+    }
+  },
+  {
+    "name": "其他计算机设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884207.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "计算机设备"
+    }
+  },
+  {
+    "name": "钛白粉",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884209.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农化制品"
+    }
+  },
+  {
+    "name": "食品及饲料添加剂",
+    "entity_type": "sector",
+    "aliases": [
+      "饲料添加剂"
+    ],
+    "metadata": {
+      "ts_code": "884210.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "食品加工制造"
+    }
+  },
+  {
+    "name": "有机硅",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884211.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制品"
+    }
+  },
+  {
+    "name": "合成树脂",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884212.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制品"
+    }
+  },
+  {
+    "name": "膜材料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884213.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "化学制品"
+    }
+  },
+  {
+    "name": "冶钢原料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884214.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "钢铁"
+    }
+  },
+  {
+    "name": "稀土",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884215.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "小金属"
+    }
+  },
+  {
+    "name": "工程咨询服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884217.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑装饰"
+    }
+  },
+  {
+    "name": "机器人",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884218.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "自动化设备"
+    }
+  },
+  {
+    "name": "工控设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884219.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "自动化设备"
+    }
+  },
+  {
+    "name": "激光设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884220.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "专用设备"
+    }
+  },
+  {
+    "name": "其他自动化设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884221.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "自动化设备"
+    }
+  },
+  {
+    "name": "其他电源设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884225.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "其他电源设备"
+    }
+  },
+  {
+    "name": "集成电路制造",
+    "entity_type": "sector",
+    "aliases": [
+      "集成电路"
+    ],
+    "metadata": {
+      "ts_code": "884227.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "半导体"
+    }
+  },
+  {
+    "name": "集成电路封测",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884228.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "半导体"
+    }
+  },
+  {
+    "name": "半导体设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884229.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "半导体"
+    }
+  },
+  {
+    "name": "品牌消费电子",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884230.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "消费电子"
+    }
+  },
+  {
+    "name": "电子化学品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884231.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电子化学品"
+    }
+  },
+  {
+    "name": "厨卫电器",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884232.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "厨卫电器"
+    }
+  },
+  {
+    "name": "休闲食品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884233.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "食品加工制造"
+    }
+  },
+  {
+    "name": "服装",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884234.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "服装家纺"
+    }
+  },
+  {
+    "name": "印刷",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884235.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "包装印刷"
+    }
+  },
+  {
+    "name": "包装",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884236.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "包装印刷"
+    }
+  },
+  {
+    "name": "瓷砖地板",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884237.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "建筑材料"
+    }
+  },
+  {
+    "name": "血液制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884238.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "生物制品"
+    }
+  },
+  {
+    "name": "疫苗",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884239.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "生物制品"
+    }
+  },
+  {
+    "name": "其他生物制品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884240.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "生物制品"
+    }
+  },
+  {
+    "name": "医疗耗材",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884242.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "医疗器械"
+    }
+  },
+  {
+    "name": "体外诊断",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884243.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "医疗器械"
+    }
+  },
+  {
+    "name": "医疗研发外包",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884244.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "医疗服务"
+    }
+  },
+  {
+    "name": "其他医疗服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884245.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "医疗服务"
+    }
+  },
+  {
+    "name": "电能综合服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884246.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电力"
+    }
+  },
+  {
+    "name": "商业地产",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884247.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "房地产"
+    }
+  },
+  {
+    "name": "房地产服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884248.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "房地产"
+    }
+  },
+  {
+    "name": "国有大型银行",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884249.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "银行"
+    }
+  },
+  {
+    "name": "股份制银行",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884250.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "银行"
+    }
+  },
+  {
+    "name": "城商行",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884251.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "银行"
+    }
+  },
+  {
+    "name": "农商行",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884252.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "银行"
+    }
+  },
+  {
+    "name": "其他银行",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884253.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "银行"
+    }
+  },
+  {
+    "name": "旅游零售",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884254.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "零售"
+    }
+  },
+  {
+    "name": "互联网电商",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884255.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "互联网电商"
+    }
+  },
+  {
+    "name": "教育",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884256.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "教育"
+    }
+  },
+  {
+    "name": "专业服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884257.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "其他社会服务"
+    }
+  },
+  {
+    "name": "体育",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884258.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "其他社会服务"
+    }
+  },
+  {
+    "name": "本地生活服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884259.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "其他社会服务"
+    }
+  },
+  {
+    "name": "游戏",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884260.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "游戏"
+    }
+  },
+  {
+    "name": "数字媒体",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884261.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "文化传媒"
+    }
+  },
+  {
+    "name": "通信网络设备及器件",
+    "entity_type": "sector",
+    "aliases": [
+      "通信网络设备"
+    ],
+    "metadata": {
+      "ts_code": "884262.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通信设备"
+    }
+  },
+  {
+    "name": "通信线缆及配套",
+    "entity_type": "sector",
+    "aliases": [
+      "通信线缆"
+    ],
+    "metadata": {
+      "ts_code": "884263.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通信设备"
+    }
+  },
+  {
+    "name": "通信终端及配件",
+    "entity_type": "sector",
+    "aliases": [
+      "通信终端"
+    ],
+    "metadata": {
+      "ts_code": "884264.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通信设备"
+    }
+  },
+  {
+    "name": "其他通信设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884265.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通信设备"
+    }
+  },
+  {
+    "name": "军工电子",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884266.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "军工电子"
+    }
+  },
+  {
+    "name": "大气治理",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884267.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "环境治理"
+    }
+  },
+  {
+    "name": "水务及水治理",
+    "entity_type": "sector",
+    "aliases": [
+      "水治理"
+    ],
+    "metadata": {
+      "ts_code": "884268.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "环境治理"
+    }
+  },
+  {
+    "name": "固废治理",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884269.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "环境治理"
+    }
+  },
+  {
+    "name": "综合环境治理",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884270.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "环境治理"
+    }
+  },
+  {
+    "name": "个护用品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884271.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "美容护理"
+    }
+  },
+  {
+    "name": "化妆品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884272.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "美容护理"
+    }
+  },
+  {
+    "name": "医疗美容",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884273.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "美容护理"
+    }
+  },
+  {
+    "name": "IT服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884274.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "IT服务"
+    }
+  },
+  {
+    "name": "生猪养殖",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884275.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "养殖业"
+    }
+  },
+  {
+    "name": "肉鸡养殖",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884276.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "养殖业"
+    }
+  },
+  {
+    "name": "其他养殖",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884277.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "养殖业"
+    }
+  },
+  {
+    "name": "畜禽饲料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884278.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "养殖业"
+    }
+  },
+  {
+    "name": "水产饲料",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884279.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "养殖业"
+    }
+  },
+  {
+    "name": "宠物食品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884280.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "农产品加工"
+    }
+  },
+  {
+    "name": "煤化工",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884281.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "煤炭开采加工"
+    }
+  },
+  {
+    "name": "钨",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884282.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "小金属"
+    }
+  },
+  {
+    "name": "钼",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884283.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "小金属"
+    }
+  },
+  {
+    "name": "钴",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884284.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "能源金属"
+    }
+  },
+  {
+    "name": "镍",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884285.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "能源金属"
+    }
+  },
+  {
+    "name": "锂",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884286.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "能源金属"
+    }
+  },
+  {
+    "name": "数字芯片设计",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884287.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "半导体"
+    }
+  },
+  {
+    "name": "模拟芯片设计",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884288.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "半导体"
+    }
+  },
+  {
+    "name": "车身附件及饰件",
+    "entity_type": "sector",
+    "aliases": [
+      "车身附件"
+    ],
+    "metadata": {
+      "ts_code": "884289.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "汽车零部件"
+    }
+  },
+  {
+    "name": "底盘与发动机系统",
+    "entity_type": "sector",
+    "aliases": [
+      "发动机系统"
+    ],
+    "metadata": {
+      "ts_code": "884290.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "汽车零部件"
+    }
+  },
+  {
+    "name": "轮胎轮毂",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884291.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "汽车零部件"
+    }
+  },
+  {
+    "name": "其他汽车零部件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884292.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "汽车零部件"
+    }
+  },
+  {
+    "name": "汽车电子电气系统",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884293.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "汽车零部件"
+    }
+  },
+  {
+    "name": "安防设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884294.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "计算机设备"
+    }
+  },
+  {
+    "name": "垂直应用软件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884295.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "软件开发"
+    }
+  },
+  {
+    "name": "横向通用软件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884296.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "软件开发"
+    }
+  },
+  {
+    "name": "预加工食品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884297.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "食品加工制造"
+    }
+  },
+  {
+    "name": "成品家居",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884298.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "家居用品"
+    }
+  },
+  {
+    "name": "定制家居",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884299.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "家居用品"
+    }
+  },
+  {
+    "name": "药店",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884300.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "医药商业"
+    }
+  },
+  {
+    "name": "医院",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884301.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "医疗服务"
+    }
+  },
+  {
+    "name": "硅料硅片",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884302.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "光伏设备"
+    }
+  },
+  {
+    "name": "光伏电池组件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884303.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "光伏设备"
+    }
+  },
+  {
+    "name": "逆变器",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884304.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "光伏设备"
+    }
+  },
+  {
+    "name": "光伏辅材",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884305.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "光伏设备"
+    }
+  },
+  {
+    "name": "光伏加工设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884306.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "光伏设备"
+    }
+  },
+  {
+    "name": "风电整机",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884307.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "风电设备"
+    }
+  },
+  {
+    "name": "风电零部件",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884308.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "风电设备"
+    }
+  },
+  {
+    "name": "锂电池",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884309.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电池"
+    }
+  },
+  {
+    "name": "电池化学品",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884310.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电池"
+    }
+  },
+  {
+    "name": "锂电专用设备",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884311.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电池"
+    }
+  },
+  {
+    "name": "其他电池",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884312.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "电池"
+    }
+  },
+  {
+    "name": "电信运营商",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884313.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通信服务"
+    }
+  },
+  {
+    "name": "通信工程及服务",
+    "entity_type": "sector",
+    "aliases": [
+      "通信工程"
+    ],
+    "metadata": {
+      "ts_code": "884314.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通信服务"
+    }
+  },
+  {
+    "name": "通信应用增值服务",
+    "entity_type": "sector",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "884315.TI",
+      "stock_count": 0,
+      "level": "子行业",
+      "parent_name": "通信服务"
+    }
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "name": "人民币",
+    "entity_type": "currency",
+    "aliases": [
+      "CNY",
+      "Renminbi",
+      "离岸人民币",
+      "在岸人民币"
+    ],
+    "metadata": {
+      "iso_code": "CNY",
+      "exclusion_suffixes": ["指数", "汇率指数", "指数期货", "期权", "国际化"]
+    }
+  },
+  {
+    "name": "美元",
+    "entity_type": "currency",
+    "aliases": [
+      "USD",
+      "US Dollar"
+    ],
+    "metadata": {
+      "iso_code": "USD",
+      "exclusion_suffixes": ["指数", "指数期货", "指数期权", "贸易加权指数"]
+    }
+  },
+  {
+    "name": "欧元",
+    "entity_type": "currency",
+    "aliases": [
+      "Euro"
+    ],
+    "metadata": {
+      "iso_code": "EUR"
+    }
+  },
+  {
+    "name": "日元",
+    "entity_type": "currency",
+    "aliases": [
+      "Japanese Yen",
+      "日圆"
+    ],
+    "metadata": {
+      "iso_code": "JPY"
+    }
+  },
+  {
+    "name": "英镑",
+    "entity_type": "currency",
+    "aliases": [
+      "Pound Sterling",
+      "英磅"
+    ],
+    "metadata": {
+      "iso_code": "GBP"
+    }
+  },
+  {
+    "name": "港币",
+    "entity_type": "currency",
+    "aliases": [
+      "Hong Kong Dollar"
+    ],
+    "metadata": {
+      "iso_code": "HKD"
+    }
+  },
+  {
+    "name": "澳元",
+    "entity_type": "currency",
+    "aliases": [
+      "Australian Dollar",
+      "澳币"
+    ],
+    "metadata": {
+      "iso_code": "AUD"
+    }
+  },
+  {
+    "name": "加元",
+    "entity_type": "currency",
+    "aliases": [
+      "Canadian Dollar"
+    ],
+    "metadata": {
+      "iso_code": "CAD"
+    }
+  },
+  {
+    "name": "瑞士法郎",
+    "entity_type": "currency",
+    "aliases": [
+      "Swiss Franc",
+      "瑞郎"
+    ],
+    "metadata": {
+      "iso_code": "CHF"
+    }
+  },
+  {
+    "name": "新西兰元",
+    "entity_type": "currency",
+    "aliases": [
+      "New Zealand Dollar",
+      "纽元"
+    ],
+    "metadata": {
+      "iso_code": "NZD"
+    }
+  },
+  {
+    "name": "韩元",
+    "entity_type": "currency",
+    "aliases": [
+      "South Korean Won"
+    ],
+    "metadata": {
+      "iso_code": "KRW"
+    }
+  },
+  {
+    "name": "印度卢比",
+    "entity_type": "currency",
+    "aliases": [
+      "Indian Rupee"
+    ],
+    "metadata": {
+      "iso_code": "INR"
+    }
+  },
+  {
+    "name": "新加坡元",
+    "entity_type": "currency",
+    "aliases": [
+      "Singapore Dollar"
+    ],
+    "metadata": {
+      "iso_code": "SGD"
+    }
+  },
+  {
+    "name": "新台币",
+    "entity_type": "currency",
+    "aliases": [
+      "New Taiwan Dollar",
+      "台币"
+    ],
+    "metadata": {
+      "iso_code": "TWD"
+    }
+  },
+  {
+    "name": "越南盾",
+    "entity_type": "currency",
+    "aliases": [
+      "Vietnamese Dong"
+    ],
+    "metadata": {
+      "iso_code": "VND"
+    }
+  },
+  {
+    "name": "虚拟货币",
+    "entity_type": "currency",
+    "aliases": [
+      "比特币",
+      "Bitcoin",
+      "BTC",
+      "以太坊",
+      "Ethereum",
+      "泰达币",
+      "USDT",
+      "瑞波币",
+      "币安币",
+      "Solana",
+      "狗狗币",
+      "DOGE",
+      "Cardano",
+      "加密货币"
+    ],
+    "metadata": {
+      "category": "cryptocurrency",
+      "exclusion_suffixes": ["指数", "指数期货", "期权"]
+    }
+  }
+]

@@ -1,0 +1,558 @@
+[
+  {
+    "name": "GDP",
+    "entity_type": "indicator",
+    "aliases": [
+      "国内生产总值",
+      "Gross Domestic Product",
+      "GDP增速",
+      "GDP同比",
+      "GDP环比"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "季度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "CPI",
+    "entity_type": "indicator",
+    "aliases": [
+      "居民消费价格指数",
+      "Consumer Price Index",
+      "CPI同比",
+      "CPI环比",
+      "通胀率"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "PPI",
+    "entity_type": "indicator",
+    "aliases": [
+      "工业生产者出厂价格指数",
+      "Producer Price Index",
+      "PPI同比",
+      "PPI环比",
+      "工业品价格"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "官方制造业PMI",
+    "entity_type": "indicator",
+    "aliases": [
+      "制造业采购经理指数",
+      "官方PMI",
+      "制造业PMI",
+      "Manufacturing PMI",
+      "NBS PMI"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "财新制造业PMI",
+    "entity_type": "indicator",
+    "aliases": [
+      "财新PMI",
+      "Caixin PMI",
+      "Caixin Manufacturing PMI",
+      "财新制造业PMI"
+    ],
+    "metadata": {
+      "publisher": "财新/Markit",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "非制造业PMI",
+    "entity_type": "indicator",
+    "aliases": [
+      "服务业PMI",
+      "非制造业商务活动指数",
+      "官方非制造业PMI",
+      "Non-Manufacturing PMI"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "medium",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "社会融资规模",
+    "entity_type": "indicator",
+    "aliases": [
+      "社融",
+      "Aggregate Financing",
+      "社会融资规模增量",
+      "Total Social Financing"
+    ],
+    "metadata": {
+      "publisher": "中国人民银行",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "M2",
+    "entity_type": "indicator",
+    "aliases": [
+      "M2 Money Supply",
+      "M2同比",
+      "M2增速",
+      "广义货币"
+    ],
+    "metadata": {
+      "publisher": "中国人民银行",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "M1",
+    "entity_type": "indicator",
+    "aliases": [
+      "M1 Money Supply",
+      "M1同比",
+      "M1增速",
+      "狭义货币"
+    ],
+    "metadata": {
+      "publisher": "中国人民银行",
+      "frequency": "月度",
+      "impact_level": "medium",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "新增人民币贷款",
+    "entity_type": "indicator",
+    "aliases": [
+      "New Yuan Loans",
+      "新增贷款",
+      "人民币贷款",
+      "New RMB Loans"
+    ],
+    "metadata": {
+      "publisher": "中国人民银行",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "工业增加值",
+    "entity_type": "indicator",
+    "aliases": [
+      "规上工业增加值",
+      "Industrial Production",
+      "规模以上工业增加值",
+      "工业增速",
+      "Industrial Value Added"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "社会消费品零售总额",
+    "entity_type": "indicator",
+    "aliases": [
+      "社零",
+      "Retail Sales",
+      "消费数据",
+      "社会零售"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "固定资产投资",
+    "entity_type": "indicator",
+    "aliases": [
+      "固投",
+      "Fixed Asset Investment",
+      "城镇固定资产投资"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "medium",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "房地产开发投资",
+    "entity_type": "indicator",
+    "aliases": [
+      "Real Estate Investment",
+      "房地产投资",
+      "房地产开发",
+      "房地产数据"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "进出口总额",
+    "entity_type": "indicator",
+    "aliases": [
+      "贸易数据",
+      "Trade Balance",
+      "进出口数据",
+      "出口额",
+      "进口额",
+      "贸易差额",
+      "Import Export"
+    ],
+    "metadata": {
+      "publisher": "海关总署",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "外汇储备",
+    "entity_type": "indicator",
+    "aliases": [
+      "Foreign Exchange Reserves",
+      "外汇占款",
+      "中国外汇储备",
+      "FX Reserves"
+    ],
+    "metadata": {
+      "publisher": "中国人民银行/国家外汇管理局",
+      "frequency": "月度",
+      "impact_level": "medium",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "城镇调查失业率",
+    "entity_type": "indicator",
+    "aliases": [
+      "Unemployment Rate",
+      "失业率"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "LPR",
+    "entity_type": "indicator",
+    "aliases": [
+      "贷款市场报价利率",
+      "Loan Prime Rate",
+      "1年期LPR",
+      "5年期LPR",
+      "一年期LPR",
+      "五年期LPR"
+    ],
+    "metadata": {
+      "publisher": "中国人民银行",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "MLF利率",
+    "entity_type": "indicator",
+    "aliases": [
+      "MLF Rate",
+      "中期借贷便利",
+      "麻辣粉",
+      "Medium-term Lending Facility"
+    ],
+    "metadata": {
+      "publisher": "中国人民银行",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "逆回购利率",
+    "entity_type": "indicator",
+    "aliases": [
+      "公开市场操作利率",
+      "OMO利率",
+      "逆回购",
+      "Reverse Repo Rate",
+      "Open Market Operation"
+    ],
+    "metadata": {
+      "publisher": "中国人民银行",
+      "frequency": "月度",
+      "impact_level": "medium",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "存款准备金率",
+    "entity_type": "indicator",
+    "aliases": [
+      "Reserve Requirement Ratio",
+      "降准",
+      "准备金率",
+      "Required Reserve Ratio"
+    ],
+    "metadata": {
+      "publisher": "中国人民银行",
+      "frequency": "不定期",
+      "impact_level": "high",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "居民可支配收入",
+    "entity_type": "indicator",
+    "aliases": [
+      "人均可支配收入",
+      "Household Disposable Income",
+      "居民收入",
+      "Disposable Income Per Capita"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "季度",
+      "impact_level": "medium",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "规模以上工业企业利润",
+    "entity_type": "indicator",
+    "aliases": [
+      "工业企业利润",
+      "Industrial Profits",
+      "规上工业利润",
+      "Industrial Enterprise Profits"
+    ],
+    "metadata": {
+      "publisher": "国家统计局",
+      "frequency": "月度",
+      "impact_level": "medium",
+      "country": "中国"
+    }
+  },
+  {
+    "name": "非农就业",
+    "entity_type": "indicator",
+    "aliases": [
+      "Nonfarm Payrolls",
+      "美国非农",
+      "非农数据",
+      "非农业就业人数",
+      "大非农"
+    ],
+    "metadata": {
+      "publisher": "美国劳工统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "美国失业率",
+    "entity_type": "indicator",
+    "aliases": [
+      "Unemployment Rate",
+      "美国就业数据"
+    ],
+    "metadata": {
+      "publisher": "美国劳工统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "美国CPI",
+    "entity_type": "indicator",
+    "aliases": [
+      "US Consumer Price Index",
+      "US CPI",
+      "美国通胀",
+      "美国消费者价格指数",
+      "CPI YoY"
+    ],
+    "metadata": {
+      "publisher": "美国劳工统计局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "核心PCE物价指数",
+    "entity_type": "indicator",
+    "aliases": [
+      "Core PCE Price Index",
+      "核心PCE",
+      "PCE物价指数",
+      "Core PCEPI",
+      "美联储通胀指标"
+    ],
+    "metadata": {
+      "publisher": "美国经济分析局",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "FOMC利率决议",
+    "entity_type": "indicator",
+    "aliases": [
+      "联邦基金利率",
+      "Federal Funds Rate",
+      "美联储利率决议",
+      "FOMC决议",
+      "Fed Rate Decision",
+      "加息",
+      "降息"
+    ],
+    "metadata": {
+      "publisher": "美联储",
+      "frequency": "8次/年",
+      "impact_level": "high",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "ISM制造业PMI",
+    "entity_type": "indicator",
+    "aliases": [
+      "ISM Manufacturing PMI",
+      "美国制造业PMI",
+      "ISM PMI",
+      "ISM Manufacturing Index"
+    ],
+    "metadata": {
+      "publisher": "美国供应管理协会",
+      "frequency": "月度",
+      "impact_level": "high",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "美国零售销售",
+    "entity_type": "indicator",
+    "aliases": [
+      "US Retail Sales",
+      "美国零售额",
+      "零售销售月率",
+      "Retail Sales MoM"
+    ],
+    "metadata": {
+      "publisher": "美国商务部普查局",
+      "frequency": "月度",
+      "impact_level": "medium",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "初请失业金人数",
+    "entity_type": "indicator",
+    "aliases": [
+      "Initial Jobless Claims",
+      "首次申请失业救济人数",
+      "失业金申请",
+      "当周初请"
+    ],
+    "metadata": {
+      "publisher": "美国劳工部",
+      "frequency": "每周",
+      "impact_level": "medium",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "全球制造业PMI",
+    "entity_type": "indicator",
+    "aliases": [
+      "Global Manufacturing PMI",
+      "JPM Global PMI",
+      "全球PMI"
+    ],
+    "metadata": {
+      "publisher": "JPMorgan/Markit",
+      "frequency": "月度",
+      "impact_level": "medium",
+      "country": "全球"
+    }
+  },
+  {
+    "name": "波罗的海干散货指数",
+    "entity_type": "indicator",
+    "aliases": [
+      "Baltic Dry Index",
+      "波罗的海指数",
+      "BDI指数",
+      "干散货运价指数"
+    ],
+    "metadata": {
+      "publisher": "Baltic Exchange",
+      "frequency": "每日",
+      "impact_level": "medium",
+      "country": "全球"
+    }
+  },
+  {
+    "name": "VIX恐慌指数",
+    "entity_type": "indicator",
+    "aliases": [
+      "CBOE Volatility Index",
+      "波动率指数",
+      "恐慌指数",
+      "VIX指数",
+      "CBOE VIX"
+    ],
+    "metadata": {
+      "publisher": "CBOE",
+      "frequency": "每日",
+      "impact_level": "medium",
+      "country": "美国"
+    }
+  }
+]

@@ -1,0 +1,726 @@
+[
+  {
+    "name": "中央汇金公司",
+    "entity_type": "institution",
+    "aliases": [
+      "汇金",
+      "Central Huijin"
+    ],
+    "metadata": {
+      "type": "国家队",
+      "role": "金融控股/市场稳定"
+    }
+  },
+  {
+    "name": "中国证金公司",
+    "entity_type": "institution",
+    "aliases": [
+      "证金",
+      "中国证券金融股份有限公司"
+    ],
+    "metadata": {
+      "type": "国家队",
+      "role": "转融通/市场稳定"
+    }
+  },
+  {
+    "name": "社保基金",
+    "entity_type": "institution",
+    "aliases": [
+      "社保",
+      "National Social Security Fund"
+    ],
+    "metadata": {
+      "type": "国家队",
+      "role": "长期投资"
+    }
+  },
+  {
+    "name": "养老金",
+    "entity_type": "institution",
+    "aliases": [
+      "养老金",
+      "基本养老保险基金",
+      "养老基金"
+    ],
+    "metadata": {
+      "type": "国家队",
+      "role": "长期投资"
+    }
+  },
+  {
+    "name": "外管局梧桐树",
+    "entity_type": "institution",
+    "aliases": [
+      "梧桐树"
+    ],
+    "metadata": {
+      "type": "国家队",
+      "role": "外汇储备投资"
+    }
+  },
+  {
+    "name": "易方达基金",
+    "entity_type": "institution",
+    "aliases": [
+      "易方达",
+      "E Fund"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "华夏基金",
+    "entity_type": "institution",
+    "aliases": [
+      "华夏基金",
+      "China Asset Management"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "广发基金",
+    "entity_type": "institution",
+    "aliases": [
+      "广发基金",
+      "GF Fund"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "南方基金",
+    "entity_type": "institution",
+    "aliases": [
+      "南方基金",
+      "Southern Fund"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "富国基金",
+    "entity_type": "institution",
+    "aliases": [
+      "富国基金",
+      "Fullgoal Fund"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "嘉实基金",
+    "entity_type": "institution",
+    "aliases": [
+      "嘉实基金",
+      "Harvest Fund"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "博时基金",
+    "entity_type": "institution",
+    "aliases": [
+      "博时基金",
+      "Bosera Fund"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "招商基金",
+    "entity_type": "institution",
+    "aliases": [
+      "招商基金",
+      "China Merchants Fund"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "天弘基金",
+    "entity_type": "institution",
+    "aliases": [
+      "天弘基金",
+      "Tianhong Fund"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "中欧基金",
+    "entity_type": "institution",
+    "aliases": [
+      "中欧基金",
+      "Zhong Ou Fund"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "大型"
+    }
+  },
+  {
+    "name": "景顺长城基金",
+    "entity_type": "institution",
+    "aliases": [
+      "景顺长城",
+      "Invesco Great Wall"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "大型"
+    }
+  },
+  {
+    "name": "兴证全球基金",
+    "entity_type": "institution",
+    "aliases": [
+      "兴证全球",
+      "兴全基金",
+      "Aegon-Industrial"
+    ],
+    "metadata": {
+      "type": "公募",
+      "scale": "大型"
+    }
+  },
+  {
+    "name": "高毅资产",
+    "entity_type": "institution",
+    "aliases": [
+      "高毅",
+      "Gaoyi Asset"
+    ],
+    "metadata": {
+      "type": "私募",
+      "style": "价值投资"
+    }
+  },
+  {
+    "name": "淡水泉投资",
+    "entity_type": "institution",
+    "aliases": [
+      "淡水泉",
+      "Springs Capital"
+    ],
+    "metadata": {
+      "type": "私募",
+      "style": "逆向投资"
+    }
+  },
+  {
+    "name": "重阳投资",
+    "entity_type": "institution",
+    "aliases": [
+      "重阳",
+      "Chongyang Investment"
+    ],
+    "metadata": {
+      "type": "私募",
+      "style": "价值投资"
+    }
+  },
+  {
+    "name": "景林资产",
+    "entity_type": "institution",
+    "aliases": [
+      "景林",
+      "Greenwoods Asset"
+    ],
+    "metadata": {
+      "type": "私募",
+      "style": "中概股/港股"
+    }
+  },
+  {
+    "name": "北向资金",
+    "entity_type": "institution",
+    "aliases": [
+      "北向资金",
+      "陆股通",
+      "北上资金",
+      "Northbound Capital"
+    ],
+    "metadata": {
+      "type": "外资",
+      "channel": "沪深港通"
+    }
+  },
+  {
+    "name": "桥水基金",
+    "entity_type": "institution",
+    "aliases": [
+      "桥水",
+      "Bridgewater"
+    ],
+    "metadata": {
+      "type": "外资",
+      "style": "宏观对冲"
+    }
+  },
+  {
+    "name": "贝莱德",
+    "entity_type": "institution",
+    "aliases": [
+      "贝莱德",
+      "BlackRock"
+    ],
+    "metadata": {
+      "type": "外资",
+      "style": "全球最大资管"
+    }
+  },
+  {
+    "name": "先锋领航",
+    "entity_type": "institution",
+    "aliases": [
+      "先锋领航",
+      "Vanguard"
+    ],
+    "metadata": {
+      "type": "外资",
+      "style": "指数投资"
+    }
+  },
+  {
+    "name": "挪威主权基金",
+    "entity_type": "institution",
+    "aliases": [
+      "挪威主权基金",
+      "NBIM",
+      "挪威养老金"
+    ],
+    "metadata": {
+      "type": "外资",
+      "style": "主权财富基金"
+    }
+  },
+  {
+    "name": "淡马锡",
+    "entity_type": "institution",
+    "aliases": [
+      "淡马锡",
+      "Temasek"
+    ],
+    "metadata": {
+      "type": "外资",
+      "style": "主权财富基金"
+    }
+  },
+  {
+    "name": "国泰君安",
+    "entity_type": "institution",
+    "aliases": [
+      "国泰君安",
+      "GTJA"
+    ],
+    "metadata": {
+      "type": "券商",
+      "scale": "头部"
+    }
+  },
+  {
+    "name": "中国证监会",
+    "entity_type": "institution",
+    "aliases": [
+      "证监会",
+      "CSRC",
+      "中国证券监督管理委员会",
+      "China Securities Regulatory Commission"
+    ],
+    "metadata": {
+      "type": "监管机构",
+      "role": "证券市场监管"
+    }
+  },
+  {
+    "name": "国家金融监督管理总局",
+    "entity_type": "institution",
+    "aliases": [
+      "金融监管总局",
+      "NFRA",
+      "银保监会"
+    ],
+    "metadata": {
+      "type": "监管机构",
+      "role": "金融监管"
+    }
+  },
+  {
+    "name": "国家外汇管理局",
+    "entity_type": "institution",
+    "aliases": [
+      "外管局",
+      "外汇管理局",
+      "SAFE",
+      "State Administration of Foreign Exchange"
+    ],
+    "metadata": {
+      "type": "监管机构",
+      "role": "外汇管理"
+    }
+  },
+  {
+    "name": "国家发改委",
+    "entity_type": "institution",
+    "aliases": [
+      "发改委",
+      "NDRC",
+      "国家发展和改革委员会",
+      "National Development and Reform Commission"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "宏观经济调控/项目审批"
+    }
+  },
+  {
+    "name": "财政部",
+    "entity_type": "institution",
+    "aliases": [
+      "财政部",
+      "Ministry of Finance"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "财政政策/国债发行"
+    }
+  },
+  {
+    "name": "工信部",
+    "entity_type": "institution",
+    "aliases": [
+      "工信部",
+      "工业和信息化部",
+      "MIIT",
+      "Ministry of Industry and Information Technology"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "工业与信息产业政策"
+    }
+  },
+  {
+    "name": "商务部",
+    "entity_type": "institution",
+    "aliases": [
+      "商务部",
+      "MOFCOM",
+      "Ministry of Commerce"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "贸易政策/外资管理"
+    }
+  },
+  {
+    "name": "科技部",
+    "entity_type": "institution",
+    "aliases": [
+      "科技部",
+      "MOST",
+      "Ministry of Science and Technology"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "科技政策/研发投入"
+    }
+  },
+  {
+    "name": "国家能源局",
+    "entity_type": "institution",
+    "aliases": [
+      "能源局",
+      "National Energy Administration"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "能源政策/新能源审批"
+    }
+  },
+  {
+    "name": "交通运输部",
+    "entity_type": "institution",
+    "aliases": [
+      "交通部",
+      "交通运输部",
+      "Ministry of Transport"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "交通基建/物流政策"
+    }
+  },
+  {
+    "name": "住房和城乡建设部",
+    "entity_type": "institution",
+    "aliases": [
+      "住建部",
+      "住房和城乡建设部",
+      "MOHURD"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "房地产政策"
+    }
+  },
+  {
+    "name": "国家市场监督管理总局",
+    "entity_type": "institution",
+    "aliases": [
+      "市场监管总局",
+      "SAMR",
+      "State Administration for Market Regulation"
+    ],
+    "metadata": {
+      "type": "监管机构",
+      "role": "反垄断/市场秩序"
+    }
+  },
+  {
+    "name": "国家药品监督管理局",
+    "entity_type": "institution",
+    "aliases": [
+      "药监局",
+      "NMPA",
+      "National Medical Products Administration"
+    ],
+    "metadata": {
+      "type": "监管机构",
+      "role": "药品审批"
+    }
+  },
+  {
+    "name": "海关总署",
+    "entity_type": "institution",
+    "aliases": [
+      "海关",
+      "General Administration of Customs"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "进出口数据/关税"
+    }
+  },
+  {
+    "name": "国务院国资委",
+    "entity_type": "institution",
+    "aliases": [
+      "国资委",
+      "SASAC",
+      "State-owned Assets Supervision and Administration Commission"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "国企管理/国资改革"
+    }
+  },
+  {
+    "name": "生态环境部",
+    "entity_type": "institution",
+    "aliases": [
+      "生态环境部",
+      "Ministry of Ecology and Environment"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "环保政策/碳排放"
+    }
+  },
+  {
+    "name": "自然资源部",
+    "entity_type": "institution",
+    "aliases": [
+      "自然资源部",
+      "Ministry of Natural Resources"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "矿产/土地资源审批"
+    }
+  },
+  {
+    "name": "农业农村部",
+    "entity_type": "institution",
+    "aliases": [
+      "农业农村部",
+      "Ministry of Agriculture and Rural Affairs"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "农业政策"
+    }
+  },
+  {
+    "name": "国家卫生健康委员会",
+    "entity_type": "institution",
+    "aliases": [
+      "卫健委",
+      "National Health Commission"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "医疗卫生政策"
+    }
+  },
+  {
+    "name": "美国证券交易委员会",
+    "entity_type": "institution",
+    "aliases": [
+      "Securities and Exchange Commission",
+      "美国证监会"
+    ],
+    "metadata": {
+      "type": "监管机构",
+      "role": "美国证券监管",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "美国商品期货交易委员会",
+    "entity_type": "institution",
+    "aliases": [
+      "CFTC",
+      "Commodity Futures Trading Commission"
+    ],
+    "metadata": {
+      "type": "监管机构",
+      "role": "美国期货监管",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "美国食品药品监督管理局",
+    "entity_type": "institution",
+    "aliases": [
+      "Food and Drug Administration"
+    ],
+    "metadata": {
+      "type": "监管机构",
+      "role": "美国药品审批",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "美国能源部",
+    "entity_type": "institution",
+    "aliases": [
+      "Department of Energy"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "美国能源政策",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "香港金融管理局",
+    "entity_type": "institution",
+    "aliases": [
+      "金管局",
+      "HKMA",
+      "Hong Kong Monetary Authority"
+    ],
+    "metadata": {
+      "type": "监管机构",
+      "role": "香港货币政策/金融监管",
+      "country": "香港"
+    }
+  },
+  {
+    "name": "白宫",
+    "entity_type": "institution",
+    "aliases": [
+      "美国白宫",
+      "White House"
+    ],
+    "metadata": {
+      "type": "政府部委",
+      "role": "美国行政机构",
+      "country": "美国"
+    }
+  },
+  {
+    "name": "北约",
+    "entity_type": "institution",
+    "aliases": [
+      "NATO",
+      "北大西洋公约组织",
+      "North Atlantic Treaty Organization"
+    ],
+    "metadata": {
+      "type": "国际组织",
+      "role": "军事联盟"
+    }
+  },
+  {
+    "name": "国际货币基金组织",
+    "entity_type": "institution",
+    "aliases": [
+      "IMF",
+      "International Monetary Fund"
+    ],
+    "metadata": {
+      "type": "国际组织",
+      "role": "全球金融稳定/贷款"
+    }
+  },
+  {
+    "name": "世界银行",
+    "entity_type": "institution",
+    "aliases": [
+      "World Bank",
+      "世行"
+    ],
+    "metadata": {
+      "type": "国际组织",
+      "role": "发展援助/贷款"
+    }
+  },
+  {
+    "name": "世界贸易组织",
+    "entity_type": "institution",
+    "aliases": [
+      "WTO",
+      "World Trade Organization",
+      "世贸组织"
+    ],
+    "metadata": {
+      "type": "国际组织",
+      "role": "全球贸易规则"
+    }
+  },
+  {
+    "name": "哈佛大学",
+    "entity_type": "institution",
+    "aliases": [
+      "哈佛",
+      "Harvard"
+    ],
+    "metadata": {
+      "type": "大学",
+      "role": "常春藤盟校",
+      "country": "美国"
+    }
+  }
+]

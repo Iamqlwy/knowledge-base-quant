@@ -1,0 +1,614 @@
+[
+  {
+    "name": "牛市",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/状态"
+    }
+  },
+  {
+    "name": "熊市",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/状态"
+    }
+  },
+  {
+    "name": "震荡市",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/状态"
+    }
+  },
+  {
+    "name": "结构性行情",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/状态"
+    }
+  },
+  {
+    "name": "慢牛",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/状态"
+    }
+  },
+  {
+    "name": "快牛",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/状态"
+    }
+  },
+  {
+    "name": "反弹",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/状态"
+    }
+  },
+  {
+    "name": "反转",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/状态"
+    }
+  },
+  {
+    "name": "回调",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/状态"
+    }
+  },
+  {
+    "name": "龙头",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "妖股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "白马股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "蓝筹股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "成长股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "价值股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "题材股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "概念股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "热门股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "强势股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "弱势股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "选股/标签"
+    }
+  },
+  {
+    "name": "短线",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "周期/风格"
+    }
+  },
+  {
+    "name": "中线",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "周期/风格"
+    }
+  },
+  {
+    "name": "长线",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "周期/风格"
+    }
+  },
+  {
+    "name": "波段",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "周期/风格"
+    }
+  },
+  {
+    "name": "价值投资",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "周期/风格"
+    }
+  },
+  {
+    "name": "成长投资",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "周期/风格"
+    }
+  },
+  {
+    "name": "趋势跟踪",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "周期/风格"
+    }
+  },
+  {
+    "name": "量化交易",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "量化选股",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "量化策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "多因子策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "alpha策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "beta策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "择时策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "动量策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "均值回归",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "事件驱动",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "套利策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "对冲策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "网格交易",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "定投策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "行业轮动",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "行业配置",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "主题投资",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "分散化",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "资产配置",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "股债平衡",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "全天候策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "期权策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "期货策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "套期保值",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "跨期套利",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "跨品种套利",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "期现套利",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "统计套利",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "CTA策略",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "宏观对冲",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "全球宏观",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "自上而下",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "自下而上",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "量化/配置"
+    }
+  },
+  {
+    "name": "板块轮动",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/行为"
+    }
+  },
+  {
+    "name": "风格轮动",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/行为"
+    }
+  },
+  {
+    "name": "二八转换",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/行为"
+    }
+  },
+  {
+    "name": "跷跷板效应",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/行为"
+    }
+  },
+  {
+    "name": "洗盘",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/行为"
+    }
+  },
+  {
+    "name": "震仓",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/行为"
+    }
+  },
+  {
+    "name": "护盘",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/行为"
+    }
+  },
+  {
+    "name": "砸盘",
+    "entity_type": "strategy",
+    "aliases": [],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "市场/行为"
+    }
+  }
+]

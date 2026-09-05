@@ -1,0 +1,75 @@
+# Environment / secrets
+.env
+*.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+.venv*/
+
+# Logs
+logs/
+
+# Database / data files
+*.sql
+*.sql.gz
+*.dump
+*.csv
+*.csv.gz
+*.parquet
+*.jsonl
+*.tar
+*.gz
+!requirements*.txt
+
+# Local runtime artifacts
+data/cluster_results/
+data/idf_cache.json
+nodes/backups/
+nodes/last_run.json
+backups/
+
+# Search/soak artifacts
+search_kb_queries_stats.json
+tests/soak_*.json
+tests/soak_*.txt
+
+# Temp / debug scripts
+test_*.py
+test_siliconflow_limits.py
+scripts/clean_aliases.py
+scripts/detect_dup_entities.py
+scripts/profile_matches.py
+scripts/merge_plan*.csv
+tmp_*.sql
+
+# PowerShell (not part of the Python project)
+*.ps1
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.trae/
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Test db
+test.db

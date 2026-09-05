@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>IK Analyzer 扩展配置 - 金融实体词典</comment>
+    <entry key="ext_dict">finance_entities.dic</entry>
+</properties>

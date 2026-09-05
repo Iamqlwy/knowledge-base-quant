@@ -1,0 +1,129 @@
+[
+  {
+    "name": "中国人民银行",
+    "entity_type": "central_bank",
+    "aliases": [
+      "人行"
+    ],
+    "metadata": {
+      "country": "中国"
+    }
+  },
+  {
+    "name": "美联储",
+    "entity_type": "central_bank",
+    "aliases": [
+      "Federal Reserve",
+      "美国联邦储备委员会",
+      "美国央行"
+    ],
+    "metadata": {
+      "country": "美国"
+    }
+  },
+  {
+    "name": "欧洲央行",
+    "entity_type": "central_bank",
+    "aliases": [
+      "European Central Bank",
+      "欧央行"
+    ],
+    "metadata": {
+      "country": "欧盟"
+    }
+  },
+  {
+    "name": "日本央行",
+    "entity_type": "central_bank",
+    "aliases": [
+      "Bank of Japan",
+      "日央行"
+    ],
+    "metadata": {
+      "country": "日本"
+    }
+  },
+  {
+    "name": "英格兰银行",
+    "entity_type": "central_bank",
+    "aliases": [
+      "Bank of England",
+      "英央行"
+    ],
+    "metadata": {
+      "country": "英国"
+    }
+  },
+  {
+    "name": "瑞士央行",
+    "entity_type": "central_bank",
+    "aliases": [
+      "Swiss National Bank"
+    ],
+    "metadata": {
+      "country": "瑞士"
+    }
+  },
+  {
+    "name": "澳洲联储",
+    "entity_type": "central_bank",
+    "aliases": [
+      "Reserve Bank of Australia",
+      "澳联储"
+    ],
+    "metadata": {
+      "country": "澳大利亚"
+    }
+  },
+  {
+    "name": "加拿大央行",
+    "entity_type": "central_bank",
+    "aliases": [
+      "Bank of Canada"
+    ],
+    "metadata": {
+      "country": "加拿大"
+    }
+  },
+  {
+    "name": "新西兰联储",
+    "entity_type": "central_bank",
+    "aliases": [
+      "RBNZ",
+      "Reserve Bank of New Zealand"
+    ],
+    "metadata": {
+      "country": "新西兰"
+    }
+  },
+  {
+    "name": "印度央行",
+    "entity_type": "central_bank",
+    "aliases": [
+      "Reserve Bank of India"
+    ],
+    "metadata": {
+      "country": "印度"
+    }
+  },
+  {
+    "name": "巴西央行",
+    "entity_type": "central_bank",
+    "aliases": [
+      "Banco Central do Brasil"
+    ],
+    "metadata": {
+      "country": "巴西"
+    }
+  },
+  {
+    "name": "韩国央行",
+    "entity_type": "central_bank",
+    "aliases": [
+      "Bank of Korea"
+    ],
+    "metadata": {
+      "country": "韩国"
+    }
+  }
+]

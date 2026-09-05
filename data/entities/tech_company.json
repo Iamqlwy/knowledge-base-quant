@@ -1,0 +1,570 @@
+[
+  {
+    "name": "AMD",
+    "entity_type": "tech_company",
+    "aliases": [
+      "超威半导体",
+      "AMD公司"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体"
+    }
+  },
+  {
+    "name": "Intel",
+    "entity_type": "tech_company",
+    "aliases": [
+      "英特尔",
+      "INTC"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体"
+    }
+  },
+  {
+    "name": "Qualcomm",
+    "entity_type": "tech_company",
+    "aliases": [
+      "高通",
+      "QCOM"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/通信"
+    }
+  },
+  {
+    "name": "Broadcom",
+    "entity_type": "tech_company",
+    "aliases": [
+      "博通",
+      "AVGO"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/网络"
+    }
+  },
+  {
+    "name": "ASML",
+    "entity_type": "tech_company",
+    "aliases": [
+      "阿斯麦",
+      "光刻机巨头"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体设备"
+    }
+  },
+  {
+    "name": "Palantir",
+    "entity_type": "tech_company",
+    "aliases": [
+      "PLTR"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "数据分析/AI"
+    }
+  },
+  {
+    "name": "字节跳动",
+    "entity_type": "tech_company",
+    "aliases": [
+      "ByteDance",
+      "抖音",
+      "TikTok"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "互联网/AI"
+    }
+  },
+  {
+    "name": "百度",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Baidu",
+      "文心一言",
+      "Apollo"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "互联网/AI/自动驾驶"
+    }
+  },
+  {
+    "name": "小米",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Xiaomi",
+      "小米集团",
+      "小米汽车"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "消费电子/汽车"
+    }
+  },
+  {
+    "name": "商汤",
+    "entity_type": "tech_company",
+    "aliases": [
+      "SenseTime",
+      "日日新"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/计算机视觉"
+    }
+  },
+  {
+    "name": "月之暗面",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Moonshot AI",
+      "Kimi"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/大模型"
+    }
+  },
+  {
+    "name": "DeepSeek",
+    "entity_type": "tech_company",
+    "aliases": [
+      "深度求索",
+      "deepseek"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/大模型",
+      "fullname": "深度求索人工智能",
+      "enname": "DeepSeek AI",
+      "market": "未上市",
+      "tags": [
+        "AI",
+        "大模型",
+        "中国"
+      ]
+    }
+  },
+  {
+    "name": "华为",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Huawei",
+      "华为技术"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "ICT/半导体/消费电子",
+      "fullname": "华为技术有限公司",
+      "enname": "Huawei Technologies Co., Ltd.",
+      "market": "未上市",
+      "tags": [
+        "ICT",
+        "半导体",
+        "消费电子",
+        "中国"
+      ]
+    }
+  },
+  {
+    "name": "大疆",
+    "entity_type": "tech_company",
+    "aliases": [
+      "大疆创新",
+      "大疆无人机"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "无人机/机器人",
+      "fullname": "大疆创新科技有限公司",
+      "enname": "DJI Technology Co., Ltd.",
+      "market": "未上市",
+      "tags": [
+        "无人机",
+        "机器人",
+        "中国"
+      ]
+    }
+  },
+  {
+    "name": "长江存储",
+    "entity_type": "tech_company",
+    "aliases": [
+      "YMTC",
+      "长江存储科技",
+      "Yangtze Memory Technologies"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/NAND闪存/存储芯片",
+      "fullname": "长江存储科技有限责任公司",
+      "enname": "Yangtze Memory Technologies Co., Ltd.",
+      "market": "未上市",
+      "tags": [
+        "半导体",
+        "NAND闪存",
+        "存储芯片",
+        "中国"
+      ]
+    }
+  },
+  {
+    "name": "长鑫存储",
+    "entity_type": "tech_company",
+    "aliases": [
+      "CXMT",
+      "长鑫存储技术",
+      "ChangXin Memory Technologies"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/DRAM/存储芯片",
+      "fullname": "长鑫存储技术有限公司",
+      "enname": "ChangXin Memory Technologies, Inc.",
+      "market": "未上市",
+      "tags": [
+        "半导体",
+        "DRAM",
+        "存储芯片",
+        "中国"
+      ]
+    }
+  },
+  {
+    "name": "上海微电子",
+    "entity_type": "tech_company",
+    "aliases": [
+      "SMEE",
+      "上海微电子装备",
+      "Shanghai Micro Electronics Equipment"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体设备/光刻机",
+      "fullname": "上海微电子装备(集团)股份有限公司",
+      "enname": "Shanghai Micro Electronics Equipment (Group) Co., Ltd.",
+      "market": "未上市",
+      "tags": [
+        "半导体设备",
+        "光刻机",
+        "中国"
+      ]
+    }
+  },
+  {
+    "name": "宇树科技",
+    "entity_type": "tech_company",
+    "aliases": [
+      "宇树",
+      "Unitree"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "机器人/人形机器人/四足机器人",
+      "fullname": "杭州宇树科技有限公司",
+      "enname": "Unitree Robotics",
+      "market": "未上市",
+      "tags": [
+        "机器人",
+        "人形机器人",
+        "四足机器人",
+        "中国"
+      ]
+    }
+  },
+  {
+    "name": "智元机器人",
+    "entity_type": "tech_company",
+    "aliases": [
+      "智元",
+      "Agibot"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "机器人/人形机器人/具身智能",
+      "fullname": "上海智元新创技术有限公司",
+      "enname": "Agibot",
+      "market": "未上市",
+      "tags": [
+        "机器人",
+        "人形机器人",
+        "具身智能",
+        "中国"
+      ]
+    }
+  },
+  {
+    "name": "OpenAI",
+    "entity_type": "tech_company",
+    "aliases": [
+      "OpenAI"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/大模型/AGI",
+      "fullname": "OpenAI, Inc.",
+      "enname": "OpenAI, Inc.",
+      "market": "未上市",
+      "tags": [
+        "AI",
+        "大模型",
+        "AGI",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "Anthropic",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Anthropic"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/大模型/AI安全",
+      "fullname": "Anthropic PBC",
+      "enname": "Anthropic PBC",
+      "market": "未上市",
+      "tags": [
+        "AI",
+        "大模型",
+        "AI安全",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "xAI",
+    "entity_type": "tech_company",
+    "aliases": [
+      "xAI Corp",
+      "马斯克AI"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/大模型/Grok",
+      "fullname": "xAI Corp.",
+      "enname": "xAI Corp.",
+      "market": "未上市",
+      "tags": [
+        "AI",
+        "大模型",
+        "Grok",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "SpaceX",
+    "entity_type": "tech_company",
+    "aliases": [
+      "SpaceX",
+      "Space Exploration Technologies",
+      "太空探索技术公司"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "航天/商业航天/星链",
+      "fullname": "Space Exploration Technologies Corp.",
+      "enname": "Space Exploration Technologies Corp.",
+      "market": "未上市",
+      "tags": [
+        "航天",
+        "商业航天",
+        "星链",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "NVIDIA",
+    "entity_type": "tech_company",
+    "aliases": [
+      "NVIDIA",
+      "英伟达",
+      "NVDA"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/GPU/AI芯片",
+      "fullname": "NVIDIA Corporation",
+      "enname": "NVIDIA Corporation",
+      "market": "美股",
+      "ticker": "NVDA",
+      "tags": [
+        "半导体",
+        "GPU",
+        "AI芯片",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "Microsoft",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Microsoft",
+      "微软",
+      "MSFT"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科技/云计算/AI",
+      "fullname": "Microsoft Corporation",
+      "enname": "Microsoft Corporation",
+      "market": "美股",
+      "ticker": "MSFT",
+      "tags": [
+        "科技",
+        "云计算",
+        "AI",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "Apple",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Apple",
+      "苹果",
+      "AAPL"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "消费电子/科技",
+      "fullname": "Apple Inc.",
+      "enname": "Apple Inc.",
+      "market": "美股",
+      "ticker": "AAPL",
+      "tags": [
+        "消费电子",
+        "科技",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "Alphabet",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Alphabet",
+      "谷歌",
+      "GOOG"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科技/AI/云计算/搜索",
+      "fullname": "Alphabet Inc.",
+      "enname": "Alphabet Inc.",
+      "market": "美股",
+      "ticker": "GOOGL",
+      "tags": [
+        "科技",
+        "AI",
+        "云计算",
+        "搜索",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "Amazon",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Amazon",
+      "亚马逊",
+      "AMZN"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "电商/云计算/AI",
+      "fullname": "Amazon.com, Inc.",
+      "enname": "Amazon.com, Inc.",
+      "market": "美股",
+      "ticker": "AMZN",
+      "tags": [
+        "电商",
+        "云计算",
+        "AI",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "Meta",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Facebook"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "社交媒体/AI/元宇宙",
+      "fullname": "Meta Platforms, Inc.",
+      "enname": "Meta Platforms, Inc.",
+      "market": "美股",
+      "ticker": "META",
+      "tags": [
+        "社交媒体",
+        "AI",
+        "元宇宙",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "Tesla",
+    "entity_type": "tech_company",
+    "aliases": [
+      "Tesla",
+      "特斯拉",
+      "TSLA"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "电动车/自动驾驶/机器人",
+      "fullname": "Tesla, Inc.",
+      "enname": "Tesla, Inc.",
+      "market": "美股",
+      "ticker": "TSLA",
+      "tags": [
+        "电动车",
+        "自动驾驶",
+        "机器人",
+        "美国"
+      ]
+    }
+  },
+  {
+    "name": "台积电",
+    "entity_type": "tech_company",
+    "aliases": [
+      "TSMC",
+      "台积电",
+      "台湾积体电路制造",
+      "Taiwan Semiconductor"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/晶圆代工/芯片制造",
+      "fullname": "台湾积体电路制造股份有限公司",
+      "enname": "Taiwan Semiconductor Manufacturing Company Limited",
+      "market": "台股/美股",
+      "ticker": "TSM",
+      "tags": [
+        "半导体",
+        "晶圆代工",
+        "芯片制造",
+        "台湾"
+      ]
+    }
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "name": "高端白酒核心大单品",
+    "entity_type": "product",
+    "aliases": [
+      "飞天茅台",
+      "茅台飞天",
+      "53度飞天",
+      "贵州茅台酒",
+      "第八代五粮液",
+      "普五",
+      "国窖",
+      "梦之蓝",
+      "梦6+",
+      "青花汾酒",
+      "青花20",
+      "水晶剑",
+      "年份原浆",
+      "习酒窖藏1988",
+      "君品习酒",
+      "青花郎",
+      "茅台1935"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "消费",
+      "description": "高端白酒核心单品，定价权极强，批价/库存/开瓶率是行业景气度核心指标"
+    }
+  },
+  {
+    "name": "新能源汽车主销车型",
+    "entity_type": "product",
+    "aliases": [
+      "秦Plus DM-i",
+      "秦L",
+      "比亚迪秦",
+      "宋Plus DM-i",
+      "宋L",
+      "比亚迪宋",
+      "比亚迪海鸥",
+      "比亚迪海豚",
+      "海豚EV",
+      "比亚迪汉",
+      "汉EV",
+      "汉DM-i",
+      "Model Y",
+      "Model 3",
+      "理想L6",
+      "理想L7",
+      "理想L8",
+      "理想L9",
+      "理想L系列",
+      "问界M7",
+      "问界M9",
+      "小米SU7",
+      "小米汽车SU7",
+      "蔚来ET7",
+      "蔚来ES6",
+      "蔚来ET5",
+      "小鹏MONA M03",
+      "小鹏P7+",
+      "小鹏G6",
+      "极氪001",
+      "极氪007",
+      "极氪7X",
+      "零跑C11",
+      "零跑C10",
+      "深蓝SL03",
+      "深蓝S07"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "新能源汽车",
+      "description": "新能源乘用车主销车型，月度交付量/订单量是判断车企竞争力的第一指标"
+    }
+  },
+  {
+    "name": "混动与增程平台",
+    "entity_type": "product",
+    "aliases": [
+      "DM-i",
+      "DM5.0",
+      "DM-p",
+      "雷神混动",
+      "吉利雷神Hi·X",
+      "EM-P",
+      "鲲鹏混动",
+      "奇瑞鲲鹏e+",
+      "蓝鲸iDD",
+      "长安iDD",
+      "柠檬混动DHT",
+      "长城DHT",
+      "Hi4",
+      "丰田THS",
+      "i-MMD"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "新能源汽车",
+      "description": "混合动力/增程式技术平台，插混份额持续提升替代纯燃油车"
+    }
+  },
+  {
+    "name": "800V高压快充平台",
+    "entity_type": "product",
+    "aliases": [
+      "800V高压平台",
+      "800V碳化硅",
+      "800V SiC",
+      "小鹏扶摇架构",
+      "蔚来NT3.0",
+      "极氪浩瀚架构",
+      "华为DriveONE",
+      "神行超充电池",
+      "麒麟电池",
+      "宁德麒麟",
+      "4C超充",
+      "5C超充",
+      "SiC MOSFET"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "新能源汽车",
+      "description": "800V高压+碳化硅+4C/5C超快充，电动化下半场的核心竞争维度"
+    }
+  },
+  {
+    "name": "动力电池产品",
+    "entity_type": "product",
+    "aliases": [
+      "刀片电池",
+      "Blade Battery",
+      "麒麟电池",
+      "宁德时代麒麟",
+      "CTP3.0",
+      "神行电池",
+      "神行超充电池",
+      "4680电池",
+      "4680大圆柱",
+      "特斯拉4680"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "新能源汽车",
+      "description": "动力电池技术路线与代表性产品，装机量/份额/技术路线切换是关键跟踪维度"
+    }
+  },
+  {
+    "name": "储能电池与储能系统",
+    "entity_type": "product",
+    "aliases": [
+      "280Ah电芯",
+      "314Ah电芯",
+      "宁德EnerC",
+      "宁德EnerOne",
+      "比亚迪MC Cube",
+      "Megapack",
+      "Powerwall",
+      "天恒储能系统",
+      "魔方储能",
+      "PowerTitan",
+      "液冷储能柜"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "新能源",
+      "description": "储能电池与系统，全球储能装机增速+国内强制配储+海外并网需求三重驱动"
+    }
+  },
+  {
+    "name": "光伏高效电池技术",
+    "entity_type": "product",
+    "aliases": [
+      "TOPCon",
+      "隧穿氧化层钝化接触",
+      "HJT电池",
+      "异质结电池",
+      "Heterojunction",
+      "BC电池",
+      "背接触电池",
+      "隆基BC",
+      "爱旭ABC",
+      "钙钛矿",
+      "Perovskite",
+      "叠层电池"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "新能源",
+      "description": "光伏电池技术路线迭代（PERC→TOPCon→HJT→BC→钙钛矿叠层），技术路线胜负决定设备/辅材/组件格局"
+    }
+  },
+  {
+    "name": "AI训练GPU与加速卡",
+    "entity_type": "product",
+    "aliases": [
+      "H100",
+      "H200",
+      "B200",
+      "B100",
+      "Blackwell",
+      "A100",
+      "昇腾910B",
+      "昇腾910C",
+      "Ascend 910B",
+      "Ascend 910C",
+      "MI300X",
+      "MI250X",
+      "Google TPU",
+      "TPU v5",
+      "TPU v6"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "AI/半导体",
+      "description": "AI训练/推理GPU与加速卡，大模型算力底座，供给约束+技术封锁+国产替代三重逻辑"
+    }
+  },
+  {
+    "name": "AI服务器整机",
+    "entity_type": "product",
+    "aliases": [
+      "DGX H100",
+      "DGX B200",
+      "DGX SuperPOD",
+      "昇腾Atlas 900",
+      "Atlas 800",
+      "昇腾训练服务器",
+      "NF5688M6",
+      "NF5688G8",
+      "NVL72",
+      "NVL36",
+      "HGX H100",
+      "HGX B200"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "AI/半导体",
+      "description": "AI服务器整机，GPU模组+主板+散热+电源的集成商，受益于CSP资本开支增长"
+    }
+  },
+  {
+    "name": "高速光模块",
+    "entity_type": "product",
+    "aliases": [
+      "800G",
+      "1.6T",
+      "400G",
+      "硅光模块",
+      "硅光子",
+      "Silicon Photonics",
+      "线性驱动可插拔",
+      "Linear-drive Pluggable Optics",
+      "共封装光学",
+      "Co-Packaged Optics"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "AI/半导体",
+      "description": "数据中心高速光模块（400G→800G→1.6T），AI集群互联核心，速率升级+份额集中双逻辑"
+    }
+  },
+  {
+    "name": "AI数据中心液冷系统",
+    "entity_type": "product",
+    "aliases": [
+      "冷板式液冷",
+      "冷板液冷",
+      "浸没式液冷",
+      "浸没液冷",
+      "Coolant Distribution Unit",
+      "液冷CDU",
+      "液冷机柜",
+      "液冷分配单元"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "AI/半导体",
+      "description": "AI数据中心液冷散热系统，GPU功耗持续提升驱动液冷渗透率从选配走向标配"
+    }
+  },
+  {
+    "name": "先进封装",
+    "entity_type": "product",
+    "aliases": [
+      "CoWoS",
+      "Chiplet",
+      "芯粒",
+      "小芯片",
+      "3D封装",
+      "3D IC",
+      "硅通孔",
+      "Fan-out",
+      "扇出型封装",
+      "InFO",
+      "EMIB",
+      "Foveros",
+      "HBM封装",
+      "2.5D封装"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "AI/半导体",
+      "description": "先进封装技术路线（CoWoS/3D IC/Chiplet），AI芯片产能瓶颈在封装环节"
+    }
+  },
+  {
+    "name": "HBM高带宽存储",
+    "entity_type": "product",
+    "aliases": [
+      "高带宽内存",
+      "高带宽存储",
+      "HBM3",
+      "HBM4",
+      "HBM堆叠",
+      "HBM TSV",
+      "HBM逻辑芯片",
+      "HBM DRAM堆叠"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "AI/半导体",
+      "description": "高带宽存储芯片（HBM3E→HBM4），AI GPU必需配套存储，供给高度垄断于SK海力士/三星/美光"
+    }
+  },
+  {
+    "name": "半导体刻蚀设备",
+    "entity_type": "product",
+    "aliases": [
+      "CCP刻蚀",
+      "ICP刻蚀",
+      "介质刻蚀",
+      "硅通孔刻蚀",
+      "TSV刻蚀",
+      "高深宽比刻蚀",
+      "原子层刻蚀",
+      "等离子体刻蚀机",
+      "硅刻蚀机",
+      "金属刻蚀机"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "AI/半导体",
+      "description": "半导体刻蚀设备，芯片制造核心工艺设备之一，国产化进展最快的半导体设备环节"
+    }
+  },
+  {
+    "name": "光刻胶与电子化学品",
+    "entity_type": "product",
+    "aliases": [
+      "半导体光刻胶",
+      "Photoresist",
+      "ArF光刻胶",
+      "ArF浸没式光刻胶",
+      "KrF光刻胶",
+      "EUV光刻胶",
+      "i-line光刻胶",
+      "g-line光刻胶",
+      "I线光刻胶",
+      "G线光刻胶",
+      "化学放大光刻胶"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "AI/半导体",
+      "description": "半导体光刻胶与电子化学品，国产化率极低但有突破预期"
+    }
+  },
+  {
+    "name": "消费电子旗舰手机",
+    "entity_type": "product",
+    "aliases": [
+      "iPhone 16",
+      "iPhone 17",
+      "华为Mate 70",
+      "Mate 70 RS",
+      "华为Pura 70",
+      "小米15",
+      "OPPO Find X8",
+      "vivo X200",
+      "三星Galaxy S25",
+      "Galaxy S25 Ultra",
+      "荣耀Magic7"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "消费电子",
+      "description": "全球/中国高端智能手机，换机周期+AI手机功能+折叠屏渗透三重驱动"
+    }
+  },
+  {
+    "name": "折叠屏手机",
+    "entity_type": "product",
+    "aliases": [
+      "华为Mate XT",
+      "华为三折叠",
+      "Mate XT Ultimate",
+      "华为Mate X6",
+      "华为Mate X5",
+      "Mate X系列",
+      "三星Galaxy Z Fold6",
+      "Galaxy Z Flip6",
+      "OPPO Find N5",
+      "OPPO折叠屏",
+      "vivo X Fold4",
+      "vivo折叠屏",
+      "小米MIX Fold5",
+      "小米折叠屏",
+      "荣耀Magic V4",
+      "荣耀折叠屏",
+      "超薄柔性玻璃"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "消费电子",
+      "description": "折叠屏手机+核心零部件（UTG/铰链），中国折叠屏出货量增速快于全球"
+    }
+  },
+  {
+    "name": "人形机器人整机",
+    "entity_type": "product",
+    "aliases": [
+      "Optimus",
+      "Tesla Bot",
+      "擎天柱机器人",
+      "华为具身智能",
+      "优必选Walker",
+      "Walker S",
+      "智元",
+      "远征A2",
+      "宇树",
+      "Figure AI",
+      "Figure 02",
+      "1X Technologies"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "机器人",
+      "description": "人形机器人整机，2025年量产元年预期，A股映射主要炒供应链"
+    }
+  },
+  {
+    "name": "机器人核心执行器",
+    "entity_type": "product",
+    "aliases": [
+      "旋转执行器",
+      "线性执行器",
+      "谐波",
+      "RV减速器",
+      "双环传动RV",
+      "滚柱丝杠",
+      "行星丝杠",
+      "力矩传感器",
+      "六维力",
+      "无框力矩电机",
+      "空心杯电机",
+      "灵巧手"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "机器人",
+      "description": "人形机器人核心执行器/零部件，谐波减速器/丝杠/传感器/电机等精密零部件，A股机器人供应链核心品种"
+    }
+  },
+  {
+    "name": "GLP-1减重降糖药",
+    "entity_type": "product",
+    "aliases": [
+      "司美格鲁肽",
+      "Ozempic",
+      "Wegovy",
+      "Semaglutide",
+      "替尔泊肽",
+      "Mounjaro",
+      "Zepbound",
+      "Tirzepatide",
+      "利拉鲁肽",
+      "Victoza",
+      "Saxenda",
+      "度拉糖肽",
+      "Trulicity",
+      "Rybelsus",
+      "玛仕度肽",
+      "信达生物GLP-1"
+    ],
+    "metadata": {
+      "product_type": "series",
+      "category": "医药",
+      "description": "GLP-1类减重/降糖药物，全球最畅销药物品类，国产仿制+创新+多靶点在途"
+    }
+  }
+]

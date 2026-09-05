@@ -1,0 +1,881 @@
+[
+  {
+    "name": "铜",
+    "entity_type": "commodity",
+    "aliases": [
+      "阴极铜",
+      "沪铜",
+      "SHFE铜",
+      "copper",
+      "电解铜",
+      "铜期货"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "cu",
+      "category": "有色金属",
+      "description": "上海期货交易所阴极铜期货合约，标的为符合国标GB/T467-2010的A级铜。铜是全球最重要的工业金属之一，广泛用于电力、建筑、家电等领域，对宏观经济周期高度敏感，素有「铜博士」之称。",
+      "exclusion_suffixes": [
+        "概念股",
+        "概念",
+        "板块",
+        "ETF",
+        "期货期权"
+      ]
+    }
+  },
+  {
+    "name": "铝",
+    "entity_type": "commodity",
+    "aliases": [
+      "电解铝",
+      "沪铝",
+      "SHFE铝",
+      "aluminum",
+      "铝期货"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "al",
+      "category": "有色金属",
+      "description": "上海期货交易所电解铝期货合约，标的为符合国标GB/T1196-2017的AL99.70铝锭。铝具有轻质、耐腐蚀等特性，广泛应用于建筑、交通、包装等领域，是高耗能产业的代表性品种。"
+    }
+  },
+  {
+    "name": "锌",
+    "entity_type": "commodity",
+    "aliases": [
+      "沪锌",
+      "SHFE锌",
+      "zinc",
+      "锌锭",
+      "锌期货"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "zn",
+      "category": "有色金属",
+      "description": "上海期货交易所锌期货合约，标的为符合国标GB/T470-2008的Zn99.995锌锭。锌主要用于镀锌防腐，下游需求与基建、汽车行业紧密相关。"
+    }
+  },
+  {
+    "name": "铅",
+    "entity_type": "commodity",
+    "aliases": [
+      "沪铅",
+      "SHFE铅",
+      "lead",
+      "铅锭",
+      "铅期货"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "pb",
+      "category": "有色金属",
+      "description": "上海期货交易所铅期货合约，标的为符合国标GB/T469-2013的Pb99.994铅锭。铅主要用于铅酸蓄电池制造，占国内铅消费的80%以上。"
+    }
+  },
+  {
+    "name": "镍",
+    "entity_type": "commodity",
+    "aliases": [
+      "沪镍",
+      "SHFE镍",
+      "nickel",
+      "电解镍",
+      "镍期货"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "ni",
+      "category": "有色金属",
+      "description": "上海期货交易所镍期货合约，标的为符合国标GB/T6516-2010的Ni9996电解镍。镍是锂电池和不锈钢的关键原料，新能源产业链的发展对镍需求影响显著。"
+    }
+  },
+  {
+    "name": "锡",
+    "entity_type": "commodity",
+    "aliases": [
+      "沪锡",
+      "SHFE锡",
+      "锡锭",
+      "锡期货"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "sn",
+      "category": "有色金属",
+      "description": "上海期货交易所锡期货合约，标的为符合国标GB/T728-2010的Sn99.90A锡锭。锡主要用于电子焊接、马口铁包装等领域，供给高度集中于中国和印尼。"
+    }
+  },
+  {
+    "name": "黄金",
+    "entity_type": "commodity",
+    "aliases": [
+      "沪金",
+      "SHFE黄金",
+      "gold",
+      "金期货"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "au",
+      "category": "贵金属",
+      "description": "上海期货交易所黄金期货合约，标的为符合国标GB/T4134-2015的Au99.99金锭。黄金是传统避险资产和价值储藏手段，与美元实际利率、地缘政治风险密切相关。",
+      "exclusion_suffixes": [
+        "ETF",
+        "概念股",
+        "概念",
+        "板块",
+        "矿业股",
+        "期货期权"
+      ]
+    }
+  },
+  {
+    "name": "白银",
+    "entity_type": "commodity",
+    "aliases": [
+      "沪银",
+      "SHFE白银",
+      "silver",
+      "银期货"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "ag",
+      "category": "贵金属",
+      "description": "上海期货交易所白银期货合约，标的为符合国标GB/T4135-2016的Ag99.99银锭。白银兼具贵金属避险属性和工业属性，光伏银浆等工业需求的增长对银价影响日益增强。"
+    }
+  },
+  {
+    "name": "螺纹钢",
+    "entity_type": "commodity",
+    "aliases": [
+      "钢筋",
+      "rebar",
+      "螺纹"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "rb",
+      "category": "黑色系",
+      "description": "上海期货交易所螺纹钢期货合约，标的为符合国标GB/T1499.2-2018的HRB400/HRB400E热轧带肋钢筋。螺纹钢是建筑钢材的主要品种，与基建投资、房地产开工等需求高度相关，是国内成交量最大的商品期货之一。"
+    }
+  },
+  {
+    "name": "热轧卷板",
+    "entity_type": "commodity",
+    "aliases": [
+      "热卷",
+      "热轧卷板期货",
+      "hot rolled coil"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "hc",
+      "category": "黑色系",
+      "description": "上海期货交易所热轧卷板期货合约。热轧卷板是制造业用钢的核心品种，广泛用于汽车、船舶、家电、机械制造等行业，需求端与制造业景气度高度挂钩。"
+    }
+  },
+  {
+    "name": "不锈钢",
+    "entity_type": "commodity",
+    "aliases": [
+      "SHFE不锈钢",
+      "stainless steel",
+      "不锈钢期货",
+      "沪不锈钢"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "ss",
+      "category": "黑色系",
+      "description": "上海期货交易所不锈钢期货合约，标的为符合国标GB/T3280-2015的304冷轧不锈钢卷板。不锈钢下游覆盖建筑装饰、家电、餐饮器具、交通等领域，成本端受镍、铬等合金元素价格影响较大。"
+    }
+  },
+  {
+    "name": "天然橡胶",
+    "entity_type": "commodity",
+    "aliases": [
+      "橡胶",
+      "沪胶",
+      "natural rubber"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "ru",
+      "category": "能源化工",
+      "description": "上海期货交易所天然橡胶期货合约，标的为国产全乳胶(SCR WF)和进口3号烟胶片(RSS3)。天然橡胶是轮胎生产的核心原料，产量受东南亚橡胶树种植面积和割胶季节性影响较大。"
+    }
+  },
+  {
+    "name": "纸浆",
+    "entity_type": "commodity",
+    "aliases": [
+      "SHFE纸浆",
+      "pulp",
+      "纸浆期货",
+      "漂白针叶木浆"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "sp",
+      "category": "能源化工",
+      "description": "上海期货交易所纸浆期货合约，标的为漂白硫酸盐针叶木浆。纸浆是造纸工业的基础原料，供给端集中在南美、北美和北欧，中国的进口依赖度较高。"
+    }
+  },
+  {
+    "name": "沥青",
+    "entity_type": "commodity",
+    "aliases": [
+      "石油沥青",
+      "SHFE沥青",
+      "bitumen",
+      "沥青期货",
+      "沪沥青"
+    ],
+    "metadata": {
+      "exchange": "SHFE",
+      "contract_code": "bu",
+      "category": "能源化工",
+      "description": "上海期货交易所石油沥青期货合约，标的为70号A级道路石油沥青。沥青主要用于公路建设和防水材料，需求与基建投资和公路建设计划密切相关，受原油成本影响明显。"
+    }
+  },
+  {
+    "name": "铁矿石",
+    "entity_type": "commodity",
+    "aliases": [
+      "铁矿",
+      "iron ore"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "i",
+      "category": "黑色系",
+      "description": "大连商品交易所铁矿石期货合约，标的为铁矿石粉矿(62%铁品位)。铁矿石是高炉炼铁的核心原料，中国是全球最大的铁矿石进口国，供给端高度集中于澳大利亚和巴西四大矿山。"
+    }
+  },
+  {
+    "name": "焦煤",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE焦煤",
+      "coking coal",
+      "焦煤期货",
+      "炼焦煤",
+      "连焦煤"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "jm",
+      "category": "黑色系",
+      "description": "大连商品交易所焦煤期货合约，标的为焦煤（主焦煤、1/3焦煤等炼焦用煤）。焦煤是焦炭生产的核心原料，是黑色产业链上游的关键品种，国内主产区集中在山西。"
+    }
+  },
+  {
+    "name": "焦炭",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE焦炭",
+      "coke",
+      "焦炭期货",
+      "冶金焦",
+      "连焦炭"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "j",
+      "category": "黑色系",
+      "description": "大连商品交易所焦炭期货合约，标的为冶金焦炭。焦炭是高炉炼铁过程中充当燃料和还原剂的重要原料，夹在焦煤与成材之间，上下游价格联动性强，素有「煤-焦-钢」产业链之称。"
+    }
+  },
+  {
+    "name": "豆粕",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE豆粕",
+      "soybean meal",
+      "豆粕期货",
+      "连豆粕",
+      "豆粕合约"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "m",
+      "category": "农产品",
+      "description": "大连商品交易所豆粕期货合约，标的为豆粕（大豆浸提制油后的副产品）。豆粕是饲料蛋白的主要来源，广泛用于生猪、禽类、水产养殖，是中国交易量最大的商品期货品种，被誉为「农产品之王」。"
+    }
+  },
+  {
+    "name": "豆油",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE豆油",
+      "soybean oil",
+      "豆油期货",
+      "连豆油"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "y",
+      "category": "农产品",
+      "description": "大连商品交易所豆油期货合约，标的为大豆毛油。豆油是中国最大的食用植物油品种，主要用于烹饪和食品加工，另有一部分用于生物柴油生产。"
+    }
+  },
+  {
+    "name": "棕榈油",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE棕榈油",
+      "palm oil",
+      "棕榈油期货",
+      "连棕榈油",
+      "棕油"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "p",
+      "category": "农产品",
+      "description": "大连商品交易所棕榈油期货合约，标的为精炼棕榈油。棕榈油是全球产量和贸易量最大的植物油品种，主产区集中在印尼和马来西亚，在食品加工和生物柴油领域应用广泛。"
+    }
+  },
+  {
+    "name": "豆一",
+    "entity_type": "commodity",
+    "aliases": [
+      "黄大豆1号",
+      "国产大豆",
+      "DCE豆一",
+      "连豆",
+      "大豆期货"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "a",
+      "category": "农产品",
+      "description": "大连商品交易所黄大豆1号期货合约，标的为国产非转基因大豆。豆一主要反映国产食用大豆的价格，用于豆腐、豆浆等食品加工，与进口转基因大豆（豆二）形成差异化定价。"
+    }
+  },
+  {
+    "name": "玉米",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE玉米",
+      "corn",
+      "玉米期货",
+      "连玉米",
+      "饲用玉米"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "c",
+      "category": "农产品",
+      "description": "大连商品交易所玉米期货合约。玉米是中国三大主粮之一，主要用于饲料加工（约60%）、工业深加工（淀粉、乙醇等），对国家粮食安全和生猪产业链具有重要影响。"
+    }
+  },
+  {
+    "name": "玉米淀粉",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE玉米淀粉",
+      "corn starch",
+      "淀粉期货",
+      "连淀粉"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "cs",
+      "category": "农产品",
+      "description": "大连商品交易所玉米淀粉期货合约。玉米淀粉是玉米深加工的主要产品，广泛用于淀粉糖、造纸、食品、纺织等行业，价格受玉米原料成本和下游工业需求双重影响。"
+    }
+  },
+  {
+    "name": "鸡蛋",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE鸡蛋",
+      "鸡蛋期货",
+      "连鸡蛋"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "jd",
+      "category": "农产品",
+      "description": "大连商品交易所鸡蛋期货合约。鸡蛋是国内首个畜牧类生鲜期货品种，供给端受蛋鸡存栏量和养殖周期影响，需求端具有刚性但存在季节性波动的特点。"
+    }
+  },
+  {
+    "name": "生猪",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE生猪",
+      "live hog",
+      "生猪期货",
+      "连生猪",
+      "猪肉期货"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "lh",
+      "category": "农产品",
+      "description": "大连商品交易所生猪期货合约，标的为外三元商品猪。生猪是中国最大的畜牧品种，猪肉消费占肉类消费的60%以上，对CPI影响显著，具有明显的「猪周期」特征。"
+    }
+  },
+  {
+    "name": "聚乙烯",
+    "entity_type": "commodity",
+    "aliases": [
+      "LLDPE",
+      "塑料",
+      "DCE聚乙烯",
+      "线性低密度聚乙烯",
+      "聚乙烯期货"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "l",
+      "category": "能源化工",
+      "description": "大连商品交易所线性低密度聚乙烯期货合约。LLDPE是五大合成树脂之一，主要用于农膜、包装膜、管材等塑料制品，下游需求与农业生产和包装行业紧密相关，成本端受原油（石脑油裂解路线）或煤（煤化工路线）影响。"
+    }
+  },
+  {
+    "name": "聚丙烯",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE聚丙烯",
+      "polypropylene",
+      "聚丙烯期货",
+      "连聚丙烯"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "pp",
+      "category": "能源化工",
+      "description": "大连商品交易所聚丙烯期货合约。聚丙烯是五大通用塑料中用量最大的品种之一，主要用于编织制品、注塑制品、薄膜、纤维等领域，下游覆盖汽车、家电、包装等多个行业。"
+    }
+  },
+  {
+    "name": "聚氯乙烯",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE聚氯乙烯",
+      "polyvinyl chloride",
+      "聚氯乙烯期货",
+      "连PVC"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "v",
+      "category": "能源化工",
+      "description": "大连商品交易所聚氯乙烯期货合约。PVC主要用于管材型材（约60%）、薄膜、电缆料等建材领域，与房地产投资和基建需求密切相关，生产工艺分为电石法和乙烯法两种路线。"
+    }
+  },
+  {
+    "name": "乙二醇",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE乙二醇",
+      "ethylene glycol",
+      "乙二醇期货",
+      "连乙二醇"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "eg",
+      "category": "能源化工",
+      "description": "大连商品交易所乙二醇期货合约。乙二醇是聚酯产业链的关键中间体，与PTA一起聚合生产PET（涤纶、瓶片），终端纺织服装需求是核心驱动力，供给端分为煤制乙二醇和乙烯制乙二醇两种路线。"
+    }
+  },
+  {
+    "name": "苯乙烯",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE苯乙烯",
+      "styrene",
+      "苯乙烯期货",
+      "连苯乙烯"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "eb",
+      "category": "能源化工",
+      "description": "大连商品交易所苯乙烯期货合约。苯乙烯是重要的芳烃单体，下游三大产品为聚苯乙烯(EPS/PS/HIPS)、ABS树脂、丁苯橡胶等，终端覆盖家电、汽车、建筑保温材料等。"
+    }
+  },
+  {
+    "name": "液化石油气",
+    "entity_type": "commodity",
+    "aliases": [
+      "DCE液化石油气",
+      "liquefied petroleum gas",
+      "液化气期货",
+      "连液化气"
+    ],
+    "metadata": {
+      "exchange": "DCE",
+      "contract_code": "pg",
+      "category": "能源化工",
+      "description": "大连商品交易所液化石油气期货合约。LPG主要用于民用燃料（约55%）和化工原料（丙烷脱氢PDH等），是国内首个气体能源期货品种，价格受CP沙特合同价和国际原油走势影响较大。"
+    }
+  },
+  {
+    "name": "白糖",
+    "entity_type": "commodity",
+    "aliases": [
+      "白砂糖",
+      "ZCE白糖",
+      "sugar",
+      "郑糖",
+      "白糖期货"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "sr",
+      "category": "农产品",
+      "description": "郑州商品交易所白砂糖期货合约。白糖是中国重要的食糖品种，主要用甘蔗和甜菜生产，主产区集中在广西（甘蔗糖）和内蒙古/新疆（甜菜糖），具有明显的季节性特征和进口配额管理。"
+    }
+  },
+  {
+    "name": "棉花",
+    "entity_type": "commodity",
+    "aliases": [
+      "ZCE棉花",
+      "cotton",
+      "棉花期货",
+      "郑棉",
+      "新疆棉"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "cf",
+      "category": "农产品",
+      "description": "郑州商品交易所棉花期货合约，标的为锯齿加工细绒棉。棉花是纺织工业的核心原料，新疆产量占全国90%以上，全球定价受美棉(ICE棉花)影响较大，下游服装出口需求是重要驱动力。"
+    }
+  },
+  {
+    "name": "PTA",
+    "entity_type": "commodity",
+    "aliases": [
+      "精对苯二甲酸",
+      "ZCE PTA",
+      "pure terephthalic acid",
+      "郑PTA",
+      "PTA期货"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "ta",
+      "category": "能源化工",
+      "description": "郑州商品交易所精对苯二甲酸期货合约。PTA是聚酯产业链的核心原料，上游对二甲苯(PX)来自原油→石脑油→重整路线，下游与乙二醇聚合生产PET，是化纤全产业链的定价中枢。"
+    }
+  },
+  {
+    "name": "甲醇",
+    "entity_type": "commodity",
+    "aliases": [
+      "ZCE甲醇",
+      "methanol",
+      "郑醇",
+      "甲醇期货",
+      "工业甲醇"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "ma",
+      "category": "能源化工",
+      "description": "郑州商品交易所甲醇期货合约。甲醇是重要的有机化工原料，需求端以甲醇制烯烃(MTO/MTP)为主，约占消费量的50%，其余用于甲醛、醋酸、MTBE等传统下游，供给端包括煤制甲醇、天然气制甲醇和焦炉气制甲醇。"
+    }
+  },
+  {
+    "name": "纯碱",
+    "entity_type": "commodity",
+    "aliases": [
+      "ZCE纯碱",
+      "soda ash",
+      "纯碱期货",
+      "郑纯碱",
+      "碳酸钠"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "sa",
+      "category": "能源化工",
+      "description": "郑州商品交易所纯碱期货合约。纯碱（碳酸钠）主要用于玻璃制造（约占60%），尤其是光伏玻璃和浮法玻璃，是化工品中下游需求最集中的品种之一，生产工艺以氨碱法和联碱法为主。"
+    }
+  },
+  {
+    "name": "玻璃",
+    "entity_type": "commodity",
+    "aliases": [
+      "平板玻璃",
+      "ZCE玻璃",
+      "flat glass",
+      "郑玻璃",
+      "玻璃期货"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "fg",
+      "category": "能源化工",
+      "description": "郑州商品交易所平板玻璃期货合约。平板玻璃主要用于房地产门窗幕墙（约75%）、汽车玻璃等领域，需求端与房地产竣工周期密切相关，与上游纯碱形成「玻-碱」产业链联动。"
+    }
+  },
+  {
+    "name": "尿素",
+    "entity_type": "commodity",
+    "aliases": [
+      "ZCE尿素",
+      "urea",
+      "尿素期货",
+      "郑尿素",
+      "化肥尿素"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "ur",
+      "category": "能源化工",
+      "description": "郑州商品交易所尿素期货合约。尿素是全球施用量最大的氮肥品种，农业需求约占70%（追肥），工业需求约占30%（人造板、三聚氰胺等），受季节性农业用肥节奏、出口政策和能源成本影响明显。"
+    }
+  },
+  {
+    "name": "菜籽油",
+    "entity_type": "commodity",
+    "aliases": [
+      "菜油",
+      "ZCE菜籽油",
+      "rapeseed oil",
+      "菜籽油期货"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "oi",
+      "category": "农产品",
+      "description": "郑州商品交易所菜籽油期货合约。菜籽油是中国传统食用植物油之一，主产区在长江流域和西南地区，与豆油、棕榈油互为替代品，是国内三大植物油期货品种之一。"
+    }
+  },
+  {
+    "name": "菜籽粕",
+    "entity_type": "commodity",
+    "aliases": [
+      "菜粕",
+      "ZCE菜籽粕",
+      "rapeseed meal",
+      "菜籽粕期货"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "rm",
+      "category": "农产品",
+      "description": "郑州商品交易所菜籽粕期货合约。菜籽粕是油菜籽压榨取油后的副产品，主要用于水产饲料，与豆粕同属植物蛋白饲料原料，两者之间存在替代关系，是饲料配方中的重要变量。"
+    }
+  },
+  {
+    "name": "短纤",
+    "entity_type": "commodity",
+    "aliases": [
+      "涤纶短纤",
+      "ZCE短纤",
+      "polyester staple fiber",
+      "郑短纤",
+      "短纤期货"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "pf",
+      "category": "能源化工",
+      "description": "郑州商品交易所涤纶短纤期货合约。涤纶短纤是聚酯产业链的终端品种之一，主要用于纺织服装（纯涤纱、混纺纱）、非织造布（无纺布）、填充料等，直接对接终端消费需求。"
+    }
+  },
+  {
+    "name": "花生",
+    "entity_type": "commodity",
+    "aliases": [
+      "ZCE花生",
+      "peanut",
+      "花生期货",
+      "郑花生",
+      "花生仁"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "pk",
+      "category": "农产品",
+      "description": "郑州商品交易所花生期货合约，标的为油用花生仁。花生是中国重要的油料作物之一，主要用于压榨花生油和食品加工（休闲零食），主产区集中在河南、山东，进口花生主要来自非洲。"
+    }
+  },
+  {
+    "name": "苹果期货",
+    "entity_type": "commodity",
+    "aliases": [
+      "苹果",
+      "ZCE苹果",
+      "apple",
+      "郑苹果",
+      "红富士苹果"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "ap",
+      "category": "农产品",
+      "description": "郑州商品交易所苹果期货合约，标的为鲜食红富士苹果。苹果是国内首个生鲜水果类期货品种，主产区集中在陕西、山东等黄土高原和环渤海产区，产量和品质受天气因素影响极大。"
+    }
+  },
+  {
+    "name": "硅铁",
+    "entity_type": "commodity",
+    "aliases": [
+      "ZCE硅铁",
+      "ferrosilicon",
+      "硅铁期货",
+      "郑硅铁"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "sf",
+      "category": "黑色系",
+      "description": "郑州商品交易所硅铁期货合约。硅铁是炼钢脱氧剂和合金添加剂，是钢铁冶炼的辅料之一，生产高度集中于内蒙、宁夏、青海等高耗能地区，电力成本影响较大，政策端受能耗双控约束。"
+    }
+  },
+  {
+    "name": "锰硅",
+    "entity_type": "commodity",
+    "aliases": [
+      "ZCE锰硅",
+      "ferromanganese silicon",
+      "锰硅期货",
+      "郑锰硅",
+      "硅锰合金"
+    ],
+    "metadata": {
+      "exchange": "ZCE",
+      "contract_code": "sm",
+      "category": "黑色系",
+      "description": "郑州商品交易所锰硅期货合约。锰硅是炼钢过程中的脱氧剂和合金元素添加剂，与硅铁同属铁合金辅料，成本端受锰矿（进口依赖度高）、电力、焦炭等多重因素影响。"
+    }
+  },
+  {
+    "name": "原油",
+    "entity_type": "commodity",
+    "aliases": [
+      "INE原油",
+      "crude oil",
+      "中质含硫原油",
+      "原油期货",
+      "上海原油"
+    ],
+    "metadata": {
+      "exchange": "INE",
+      "contract_code": "sc",
+      "category": "能源化工",
+      "description": "上海国际能源交易中心中质含硫原油期货合约。INE原油是国内首个国际化期货品种，面向境内外投资者开放，以人民币计价，反映中东含硫原油在亚太市场的到岸价格，是全球能源定价体系的重要补充。",
+      "exclusion_suffixes": [
+        "指数",
+        "ETF",
+        "概念股",
+        "概念",
+        "板块",
+        "期权"
+      ]
+    }
+  },
+  {
+    "name": "低硫燃料油",
+    "entity_type": "commodity",
+    "aliases": [
+      "低硫燃油",
+      "INE低硫燃料油",
+      "low sulfur fuel oil"
+    ],
+    "metadata": {
+      "exchange": "INE",
+      "contract_code": "lu",
+      "category": "能源化工",
+      "description": "上海国际能源交易中心低硫燃料油期货合约。低硫燃料油是IMO2020限硫令实施后的船用燃料主流品种，保税交割，面向境内外投资者，与新加坡380cst燃料油市场形成跨市联动。"
+    }
+  },
+  {
+    "name": "20号胶",
+    "entity_type": "commodity",
+    "aliases": [
+      "INE20号胶",
+      "TSR20",
+      "20号胶期货",
+      "标胶"
+    ],
+    "metadata": {
+      "exchange": "INE",
+      "contract_code": "nr",
+      "category": "能源化工",
+      "description": "上海国际能源交易中心20号胶期货合约。20号胶是全球天然橡胶市场的主流品种（占全球天然橡胶产量的70%以上），主要用于轮胎制造，与上期所全乳胶(ru)形成差异化定位，保税交割，国际化定价。"
+    }
+  },
+  {
+    "name": "国际铜",
+    "entity_type": "commodity",
+    "aliases": [
+      "INE国际铜",
+      "bonded copper",
+      "国际铜期货",
+      "保税铜"
+    ],
+    "metadata": {
+      "exchange": "INE",
+      "contract_code": "bc",
+      "category": "有色金属",
+      "description": "上海国际能源交易中心国际铜期货合约。国际铜是保税交割的阴极铜期货，以人民币计价但面向全球投资者开放，与LME铜、COMEX铜构成跨市套利体系，同SHFE沪铜(cu)形成境内含税价与保税不含税价的互补。"
+    }
+  },
+  {
+    "name": "集运指数(欧线)",
+    "entity_type": "commodity",
+    "aliases": [
+      "欧线集运",
+      "INE集运指数",
+      "container shipping index",
+      "集运指数欧线",
+      "SCFIS欧洲",
+      "集装箱运价指数"
+    ],
+    "metadata": {
+      "exchange": "INE",
+      "contract_code": "ec",
+      "category": "其他",
+      "description": "上海国际能源交易中心集运指数（欧线）期货合约，标的为上海出口集装箱结算运价指数（欧洲航线）SCFIS(Europe)。该合约是全球首个航运运价期货，反映上海至北欧基本港的集装箱海运费率，是航运金融衍生品创新的代表品种。"
+    }
+  },
+  {
+    "name": "碳酸锂",
+    "entity_type": "commodity",
+    "aliases": [
+      "GFEX碳酸锂",
+      "lithium carbonate",
+      "碳酸锂期货",
+      "广期所碳酸锂",
+      "电池级碳酸锂"
+    ],
+    "metadata": {
+      "exchange": "GFEX",
+      "contract_code": "lc",
+      "category": "能源化工",
+      "description": "广州期货交易所碳酸锂期货合约。碳酸锂是锂电池正极材料和电解液的关键原料，新能源汽车和储能行业的高速发展推动锂需求爆发式增长，供给端高度集中于澳大利亚锂辉石、南美盐湖和中国盐湖/云母。"
+    }
+  },
+  {
+    "name": "工业硅",
+    "entity_type": "commodity",
+    "aliases": [
+      "GFEX工业硅",
+      "industrial silicon",
+      "工业硅期货",
+      "广期所工业硅",
+      "金属硅"
+    ],
+    "metadata": {
+      "exchange": "GFEX",
+      "contract_code": "si",
+      "category": "能源化工",
+      "description": "广州期货交易所工业硅期货合约。工业硅（金属硅）是有机硅、多晶硅和铝合金的基础原料，是多晶硅（光伏硅料）的上游，下游光伏产业链需求的高速增长使其成为新能源金属的重要组成部分。"
+    }
+  }
+]

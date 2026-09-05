@@ -1,0 +1,3670 @@
+[
+  {
+    "name": "智能电网",
+    "entity_type": "concept",
+    "aliases": [
+      "智能电网概念"
+    ],
+    "metadata": {
+      "ts_code": "885311.TI",
+      "stock_count": 260,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "物联网",
+    "entity_type": "concept",
+    "aliases": [
+      "物联网概念"
+    ],
+    "metadata": {
+      "ts_code": "885312.TI",
+      "stock_count": 457,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "新疆振兴",
+    "entity_type": "concept",
+    "aliases": [
+      "新疆振兴概念"
+    ],
+    "metadata": {
+      "ts_code": "885345.TI",
+      "stock_count": 147,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "石墨烯",
+    "entity_type": "concept",
+    "aliases": [
+      "石墨烯概念"
+    ],
+    "metadata": {
+      "ts_code": "885355.TI",
+      "stock_count": 77,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "页岩气",
+    "entity_type": "concept",
+    "aliases": [
+      "页岩气概念"
+    ],
+    "metadata": {
+      "ts_code": "885372.TI",
+      "stock_count": 49,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "苹果概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885376.TI",
+      "stock_count": 137,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "智慧城市",
+    "entity_type": "concept",
+    "aliases": [
+      "智慧城市概念"
+    ],
+    "metadata": {
+      "ts_code": "885378.TI",
+      "stock_count": 417,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "建筑节能",
+    "entity_type": "concept",
+    "aliases": [
+      "建筑节能概念"
+    ],
+    "metadata": {
+      "ts_code": "885386.TI",
+      "stock_count": 93,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "智能医疗",
+    "entity_type": "concept",
+    "aliases": [
+      "智能医疗概念"
+    ],
+    "metadata": {
+      "ts_code": "885402.TI",
+      "stock_count": 314,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "食品安全",
+    "entity_type": "concept",
+    "aliases": [
+      "食品安全概念"
+    ],
+    "metadata": {
+      "ts_code": "885406.TI",
+      "stock_count": 81,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "创投",
+    "entity_type": "concept",
+    "aliases": [
+      "创投概念"
+    ],
+    "metadata": {
+      "ts_code": "885413.TI",
+      "stock_count": 452,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "文化传媒概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885418.TI",
+      "stock_count": 195,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "电子商务",
+    "entity_type": "concept",
+    "aliases": [
+      "电子商务概念"
+    ],
+    "metadata": {
+      "ts_code": "885420.TI",
+      "stock_count": 688,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "安防",
+    "entity_type": "concept",
+    "aliases": [
+      "安防概念"
+    ],
+    "metadata": {
+      "ts_code": "885423.TI",
+      "stock_count": 173,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "特高压",
+    "entity_type": "concept",
+    "aliases": [
+      "特高压概念"
+    ],
+    "metadata": {
+      "ts_code": "885425.TI",
+      "stock_count": 117,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "海工装备",
+    "entity_type": "concept",
+    "aliases": [
+      "海工装备概念"
+    ],
+    "metadata": {
+      "ts_code": "885426.TI",
+      "stock_count": 262,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "高端装备",
+    "entity_type": "concept",
+    "aliases": [
+      "高端装备概念"
+    ],
+    "metadata": {
+      "ts_code": "885427.TI",
+      "stock_count": 347,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "天然气",
+    "entity_type": "concept",
+    "aliases": [
+      "天然气概念"
+    ],
+    "metadata": {
+      "ts_code": "885430.TI",
+      "stock_count": 161,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "新能源汽车",
+    "entity_type": "concept",
+    "aliases": [
+      "新能源汽车概念"
+    ],
+    "metadata": {
+      "ts_code": "885431.TI",
+      "stock_count": 1004,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "土地流转",
+    "entity_type": "concept",
+    "aliases": [
+      "土地流转概念"
+    ],
+    "metadata": {
+      "ts_code": "885439.TI",
+      "stock_count": 40,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "智能穿戴",
+    "entity_type": "concept",
+    "aliases": [
+      "智能穿戴概念"
+    ],
+    "metadata": {
+      "ts_code": "885454.TI",
+      "stock_count": 226,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "网络安全",
+    "entity_type": "concept",
+    "aliases": [
+      "网络安全概念"
+    ],
+    "metadata": {
+      "ts_code": "885459.TI",
+      "stock_count": 185,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "充电桩",
+    "entity_type": "concept",
+    "aliases": [
+      "充电桩概念"
+    ],
+    "metadata": {
+      "ts_code": "885461.TI",
+      "stock_count": 381,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "乳业",
+    "entity_type": "concept",
+    "aliases": [
+      "乳业概念"
+    ],
+    "metadata": {
+      "ts_code": "885462.TI",
+      "stock_count": 35,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "特斯拉概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885467.TI",
+      "stock_count": 248,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "上海自贸区",
+    "entity_type": "concept",
+    "aliases": [
+      "上海自贸区概念"
+    ],
+    "metadata": {
+      "ts_code": "885472.TI",
+      "stock_count": 58,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "智能家居",
+    "entity_type": "concept",
+    "aliases": [
+      "智能家居概念"
+    ],
+    "metadata": {
+      "ts_code": "885478.TI",
+      "stock_count": 279,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "天津自贸区",
+    "entity_type": "concept",
+    "aliases": [
+      "天津自贸区概念"
+    ],
+    "metadata": {
+      "ts_code": "885487.TI",
+      "stock_count": 15,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "民营医院",
+    "entity_type": "concept",
+    "aliases": [
+      "民营医院概念"
+    ],
+    "metadata": {
+      "ts_code": "885490.TI",
+      "stock_count": 73,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "一带一路",
+    "entity_type": "concept",
+    "aliases": [
+      "一带一路概念"
+    ],
+    "metadata": {
+      "ts_code": "885494.TI",
+      "stock_count": 744,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "冷链物流",
+    "entity_type": "concept",
+    "aliases": [
+      "冷链物流概念"
+    ],
+    "metadata": {
+      "ts_code": "885502.TI",
+      "stock_count": 153,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "生态农业",
+    "entity_type": "concept",
+    "aliases": [
+      "生态农业概念"
+    ],
+    "metadata": {
+      "ts_code": "885505.TI",
+      "stock_count": 56,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "禽流感",
+    "entity_type": "concept",
+    "aliases": [
+      "禽流感概念"
+    ],
+    "metadata": {
+      "ts_code": "885508.TI",
+      "stock_count": 25,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "京津冀一体化",
+    "entity_type": "concept",
+    "aliases": [
+      "京津冀一体化概念"
+    ],
+    "metadata": {
+      "ts_code": "885514.TI",
+      "stock_count": 276,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "粤港澳大湾区",
+    "entity_type": "concept",
+    "aliases": [
+      "粤港澳大湾区概念"
+    ],
+    "metadata": {
+      "ts_code": "885521.TI",
+      "stock_count": 466,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "3D打印",
+    "entity_type": "concept",
+    "aliases": [
+      "3D打印概念"
+    ],
+    "metadata": {
+      "ts_code": "885537.TI",
+      "stock_count": 128,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "家用电器",
+    "entity_type": "concept",
+    "aliases": [
+      "家用电器概念"
+    ],
+    "metadata": {
+      "ts_code": "885543.TI",
+      "stock_count": 176,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "PM2.5",
+    "entity_type": "concept",
+    "aliases": [
+      "PM2.5概念"
+    ],
+    "metadata": {
+      "ts_code": "885555.TI",
+      "stock_count": 36,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "5G",
+    "entity_type": "concept",
+    "aliases": [
+      "5G概念"
+    ],
+    "metadata": {
+      "ts_code": "885556.TI",
+      "stock_count": 441,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "高铁",
+    "entity_type": "concept",
+    "aliases": [
+      "高铁概念"
+    ],
+    "metadata": {
+      "ts_code": "885562.TI",
+      "stock_count": 176,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "节能环保",
+    "entity_type": "concept",
+    "aliases": [
+      "节能环保概念"
+    ],
+    "metadata": {
+      "ts_code": "885563.TI",
+      "stock_count": 346,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "无人机",
+    "entity_type": "concept",
+    "aliases": [
+      "无人机概念"
+    ],
+    "metadata": {
+      "ts_code": "885564.TI",
+      "stock_count": 442,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "大飞机",
+    "entity_type": "concept",
+    "aliases": [
+      "大飞机概念"
+    ],
+    "metadata": {
+      "ts_code": "885566.TI",
+      "stock_count": 148,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "核电",
+    "entity_type": "concept",
+    "aliases": [
+      "核电概念"
+    ],
+    "metadata": {
+      "ts_code": "885571.TI",
+      "stock_count": 326,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "水利",
+    "entity_type": "concept",
+    "aliases": [
+      "水利概念"
+    ],
+    "metadata": {
+      "ts_code": "885572.TI",
+      "stock_count": 253,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "猪肉",
+    "entity_type": "concept",
+    "aliases": [
+      "猪肉概念"
+    ],
+    "metadata": {
+      "ts_code": "885573.TI",
+      "stock_count": 32,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "卫星导航",
+    "entity_type": "concept",
+    "aliases": [
+      "卫星导航概念"
+    ],
+    "metadata": {
+      "ts_code": "885574.TI",
+      "stock_count": 259,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "基因测序",
+    "entity_type": "concept",
+    "aliases": [
+      "基因测序概念"
+    ],
+    "metadata": {
+      "ts_code": "885578.TI",
+      "stock_count": 70,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "足球概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885580.TI",
+      "stock_count": 35,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "中韩自贸区",
+    "entity_type": "concept",
+    "aliases": [
+      "中韩自贸区概念"
+    ],
+    "metadata": {
+      "ts_code": "885591.TI",
+      "stock_count": 15,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "阿里巴巴概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885611.TI",
+      "stock_count": 335,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "体育产业",
+    "entity_type": "concept",
+    "aliases": [
+      "体育产业概念"
+    ],
+    "metadata": {
+      "ts_code": "885615.TI",
+      "stock_count": 130,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "福建自贸区",
+    "entity_type": "concept",
+    "aliases": [
+      "福建自贸区概念"
+    ],
+    "metadata": {
+      "ts_code": "885617.TI",
+      "stock_count": 127,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "农村电商",
+    "entity_type": "concept",
+    "aliases": [
+      "农村电商概念"
+    ],
+    "metadata": {
+      "ts_code": "885629.TI",
+      "stock_count": 37,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "染料",
+    "entity_type": "concept",
+    "aliases": [
+      "染料概念"
+    ],
+    "metadata": {
+      "ts_code": "885633.TI",
+      "stock_count": 35,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "草甘膦",
+    "entity_type": "concept",
+    "aliases": [
+      "草甘膦概念"
+    ],
+    "metadata": {
+      "ts_code": "885640.TI",
+      "stock_count": 17,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "跨境电商",
+    "entity_type": "concept",
+    "aliases": [
+      "跨境电商概念"
+    ],
+    "metadata": {
+      "ts_code": "885642.TI",
+      "stock_count": 336,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "碳纤维",
+    "entity_type": "concept",
+    "aliases": [
+      "碳纤维概念"
+    ],
+    "metadata": {
+      "ts_code": "885650.TI",
+      "stock_count": 76,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "车联网(车路协同)",
+    "entity_type": "concept",
+    "aliases": [
+      "车联网(车路协同)概念"
+    ],
+    "metadata": {
+      "ts_code": "885662.TI",
+      "stock_count": 293,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "证金持股",
+    "entity_type": "concept",
+    "aliases": [
+      "证金持股概念"
+    ],
+    "metadata": {
+      "ts_code": "885663.TI",
+      "stock_count": 223,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "PPP概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885690.TI",
+      "stock_count": 200,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "地下管网",
+    "entity_type": "concept",
+    "aliases": [
+      "地下管网概念"
+    ],
+    "metadata": {
+      "ts_code": "885692.TI",
+      "stock_count": 101,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "军工",
+    "entity_type": "concept",
+    "aliases": [
+      "军工概念"
+    ],
+    "metadata": {
+      "ts_code": "885700.TI",
+      "stock_count": 595,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "乡村振兴",
+    "entity_type": "concept",
+    "aliases": [
+      "乡村振兴概念"
+    ],
+    "metadata": {
+      "ts_code": "885705.TI",
+      "stock_count": 416,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "虚拟现实",
+    "entity_type": "concept",
+    "aliases": [
+      "虚拟现实概念"
+    ],
+    "metadata": {
+      "ts_code": "885709.TI",
+      "stock_count": 284,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "人工智能",
+    "entity_type": "concept",
+    "aliases": [
+      "人工智能概念"
+    ],
+    "metadata": {
+      "ts_code": "885728.TI",
+      "stock_count": 1040,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "量子科技",
+    "entity_type": "concept",
+    "aliases": [
+      "量子科技概念"
+    ],
+    "metadata": {
+      "ts_code": "885730.TI",
+      "stock_count": 100,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "广东自贸区",
+    "entity_type": "concept",
+    "aliases": [
+      "广东自贸区概念"
+    ],
+    "metadata": {
+      "ts_code": "885734.TI",
+      "stock_count": 27,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "无人驾驶",
+    "entity_type": "concept",
+    "aliases": [
+      "无人驾驶概念"
+    ],
+    "metadata": {
+      "ts_code": "885736.TI",
+      "stock_count": 395,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "电子竞技",
+    "entity_type": "concept",
+    "aliases": [
+      "电子竞技概念"
+    ],
+    "metadata": {
+      "ts_code": "885737.TI",
+      "stock_count": 34,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "OLED",
+    "entity_type": "concept",
+    "aliases": [
+      "OLED概念"
+    ],
+    "metadata": {
+      "ts_code": "885738.TI",
+      "stock_count": 148,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "中字头股票",
+    "entity_type": "concept",
+    "aliases": [
+      "中字头股票概念"
+    ],
+    "metadata": {
+      "ts_code": "885741.TI",
+      "stock_count": 134,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "军民融合",
+    "entity_type": "concept",
+    "aliases": [
+      "军民融合概念"
+    ],
+    "metadata": {
+      "ts_code": "885743.TI",
+      "stock_count": 243,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "雄安新区",
+    "entity_type": "concept",
+    "aliases": [
+      "雄安新区概念"
+    ],
+    "metadata": {
+      "ts_code": "885744.TI",
+      "stock_count": 187,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "共享单车",
+    "entity_type": "concept",
+    "aliases": [
+      "共享单车概念"
+    ],
+    "metadata": {
+      "ts_code": "885747.TI",
+      "stock_count": 12,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "可燃冰",
+    "entity_type": "concept",
+    "aliases": [
+      "可燃冰概念"
+    ],
+    "metadata": {
+      "ts_code": "885748.TI",
+      "stock_count": 14,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "蚂蚁集团概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885749.TI",
+      "stock_count": 80,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "特色小镇",
+    "entity_type": "concept",
+    "aliases": [
+      "特色小镇概念"
+    ],
+    "metadata": {
+      "ts_code": "885750.TI",
+      "stock_count": 40,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "网约车",
+    "entity_type": "concept",
+    "aliases": [
+      "网约车概念"
+    ],
+    "metadata": {
+      "ts_code": "885753.TI",
+      "stock_count": 29,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "区块链",
+    "entity_type": "concept",
+    "aliases": [
+      "区块链概念"
+    ],
+    "metadata": {
+      "ts_code": "885757.TI",
+      "stock_count": 262,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "租售同权",
+    "entity_type": "concept",
+    "aliases": [
+      "租售同权概念"
+    ],
+    "metadata": {
+      "ts_code": "885758.TI",
+      "stock_count": 28,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "人脸识别",
+    "entity_type": "concept",
+    "aliases": [
+      "人脸识别概念"
+    ],
+    "metadata": {
+      "ts_code": "885759.TI",
+      "stock_count": 111,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "装配式建筑",
+    "entity_type": "concept",
+    "aliases": [
+      "装配式建筑概念"
+    ],
+    "metadata": {
+      "ts_code": "885760.TI",
+      "stock_count": 107,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "超级品牌",
+    "entity_type": "concept",
+    "aliases": [
+      "超级品牌概念"
+    ],
+    "metadata": {
+      "ts_code": "885761.TI",
+      "stock_count": 48,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "自由贸易港",
+    "entity_type": "concept",
+    "aliases": [
+      "自由贸易港概念"
+    ],
+    "metadata": {
+      "ts_code": "885764.TI",
+      "stock_count": 45,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "智能交通",
+    "entity_type": "concept",
+    "aliases": [
+      "智能交通概念"
+    ],
+    "metadata": {
+      "ts_code": "885766.TI",
+      "stock_count": 215,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "细胞免疫治疗",
+    "entity_type": "concept",
+    "aliases": [
+      "细胞免疫治疗概念"
+    ],
+    "metadata": {
+      "ts_code": "885769.TI",
+      "stock_count": 61,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "语音技术",
+    "entity_type": "concept",
+    "aliases": [
+      "语音技术概念"
+    ],
+    "metadata": {
+      "ts_code": "885772.TI",
+      "stock_count": 64,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "无线充电",
+    "entity_type": "concept",
+    "aliases": [
+      "无线充电概念"
+    ],
+    "metadata": {
+      "ts_code": "885774.TI",
+      "stock_count": 57,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "燃料电池",
+    "entity_type": "concept",
+    "aliases": [
+      "燃料电池概念"
+    ],
+    "metadata": {
+      "ts_code": "885775.TI",
+      "stock_count": 209,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "腾讯概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885779.TI",
+      "stock_count": 287,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "石墨电极",
+    "entity_type": "concept",
+    "aliases": [
+      "石墨电极概念"
+    ],
+    "metadata": {
+      "ts_code": "885781.TI",
+      "stock_count": 24,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "小米概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885785.TI",
+      "stock_count": 367,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "富士康概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885786.TI",
+      "stock_count": 104,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "独角兽概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885787.TI",
+      "stock_count": 111,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "网络直播",
+    "entity_type": "concept",
+    "aliases": [
+      "网络直播概念"
+    ],
+    "metadata": {
+      "ts_code": "885788.TI",
+      "stock_count": 284,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "宁德时代概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885789.TI",
+      "stock_count": 279,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "赛马概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885792.TI",
+      "stock_count": 6,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "国产航母",
+    "entity_type": "concept",
+    "aliases": [
+      "国产航母概念"
+    ],
+    "metadata": {
+      "ts_code": "885795.TI",
+      "stock_count": 36,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "百度概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885797.TI",
+      "stock_count": 229,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "芬太尼",
+    "entity_type": "concept",
+    "aliases": [
+      "芬太尼概念"
+    ],
+    "metadata": {
+      "ts_code": "885805.TI",
+      "stock_count": 8,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "华为概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885806.TI",
+      "stock_count": 995,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "养鸡",
+    "entity_type": "concept",
+    "aliases": [
+      "养鸡概念"
+    ],
+    "metadata": {
+      "ts_code": "885808.TI",
+      "stock_count": 22,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "柔性屏(折叠屏)",
+    "entity_type": "concept",
+    "aliases": [
+      "柔性屏(折叠屏)概念"
+    ],
+    "metadata": {
+      "ts_code": "885809.TI",
+      "stock_count": 106,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "大豆",
+    "entity_type": "concept",
+    "aliases": [
+      "大豆概念"
+    ],
+    "metadata": {
+      "ts_code": "885810.TI",
+      "stock_count": 14,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "玉米",
+    "entity_type": "concept",
+    "aliases": [
+      "玉米概念"
+    ],
+    "metadata": {
+      "ts_code": "885811.TI",
+      "stock_count": 33,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "农业种植",
+    "entity_type": "concept",
+    "aliases": [
+      "农业种植概念"
+    ],
+    "metadata": {
+      "ts_code": "885812.TI",
+      "stock_count": 90,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "信托概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885814.TI",
+      "stock_count": 23,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "工业大麻",
+    "entity_type": "concept",
+    "aliases": [
+      "工业大麻概念"
+    ],
+    "metadata": {
+      "ts_code": "885818.TI",
+      "stock_count": 31,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "电力物联网",
+    "entity_type": "concept",
+    "aliases": [
+      "电力物联网概念"
+    ],
+    "metadata": {
+      "ts_code": "885819.TI",
+      "stock_count": 82,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "数字孪生",
+    "entity_type": "concept",
+    "aliases": [
+      "数字孪生概念"
+    ],
+    "metadata": {
+      "ts_code": "885820.TI",
+      "stock_count": 190,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "氢能源",
+    "entity_type": "concept",
+    "aliases": [
+      "氢能源概念"
+    ],
+    "metadata": {
+      "ts_code": "885823.TI",
+      "stock_count": 367,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "冰雪产业",
+    "entity_type": "concept",
+    "aliases": [
+      "冰雪产业概念"
+    ],
+    "metadata": {
+      "ts_code": "885825.TI",
+      "stock_count": 57,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "横琴新区",
+    "entity_type": "concept",
+    "aliases": [
+      "横琴新区概念"
+    ],
+    "metadata": {
+      "ts_code": "885827.TI",
+      "stock_count": 43,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "丙烯酸",
+    "entity_type": "concept",
+    "aliases": [
+      "丙烯酸概念"
+    ],
+    "metadata": {
+      "ts_code": "885829.TI",
+      "stock_count": 18,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "长三角一体化",
+    "entity_type": "concept",
+    "aliases": [
+      "长三角一体化概念"
+    ],
+    "metadata": {
+      "ts_code": "885832.TI",
+      "stock_count": 130,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "华为汽车",
+    "entity_type": "concept",
+    "aliases": [
+      "华为汽车概念"
+    ],
+    "metadata": {
+      "ts_code": "885834.TI",
+      "stock_count": 171,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "眼科医疗",
+    "entity_type": "concept",
+    "aliases": [
+      "眼科医疗概念"
+    ],
+    "metadata": {
+      "ts_code": "885838.TI",
+      "stock_count": 54,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "人造肉",
+    "entity_type": "concept",
+    "aliases": [
+      "人造肉概念"
+    ],
+    "metadata": {
+      "ts_code": "885839.TI",
+      "stock_count": 20,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "数字乡村",
+    "entity_type": "concept",
+    "aliases": [
+      "数字乡村概念"
+    ],
+    "metadata": {
+      "ts_code": "885842.TI",
+      "stock_count": 96,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "华为海思概念股",
+    "entity_type": "concept",
+    "aliases": [
+      "华为海思概念股概念"
+    ],
+    "metadata": {
+      "ts_code": "885843.TI",
+      "stock_count": 49,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "国产操作系统",
+    "entity_type": "concept",
+    "aliases": [
+      "国产操作系统概念"
+    ],
+    "metadata": {
+      "ts_code": "885844.TI",
+      "stock_count": 66,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "生物疫苗",
+    "entity_type": "concept",
+    "aliases": [
+      "生物疫苗概念"
+    ],
+    "metadata": {
+      "ts_code": "885845.TI",
+      "stock_count": 60,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "黑龙江自贸区",
+    "entity_type": "concept",
+    "aliases": [
+      "黑龙江自贸区概念"
+    ],
+    "metadata": {
+      "ts_code": "885849.TI",
+      "stock_count": 37,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "烟草",
+    "entity_type": "concept",
+    "aliases": [
+      "烟草概念"
+    ],
+    "metadata": {
+      "ts_code": "885851.TI",
+      "stock_count": 40,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "青蒿素",
+    "entity_type": "concept",
+    "aliases": [
+      "青蒿素概念"
+    ],
+    "metadata": {
+      "ts_code": "885852.TI",
+      "stock_count": 10,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "垃圾分类",
+    "entity_type": "concept",
+    "aliases": [
+      "垃圾分类概念"
+    ],
+    "metadata": {
+      "ts_code": "885854.TI",
+      "stock_count": 97,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "中船系",
+    "entity_type": "concept",
+    "aliases": [
+      "中船系概念"
+    ],
+    "metadata": {
+      "ts_code": "885860.TI",
+      "stock_count": 10,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "ETC",
+    "entity_type": "concept",
+    "aliases": [
+      "ETC概念"
+    ],
+    "metadata": {
+      "ts_code": "885861.TI",
+      "stock_count": 42,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "光刻胶",
+    "entity_type": "concept",
+    "aliases": [
+      "光刻胶概念"
+    ],
+    "metadata": {
+      "ts_code": "885864.TI",
+      "stock_count": 74,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "数字货币",
+    "entity_type": "concept",
+    "aliases": [
+      "数字货币概念"
+    ],
+    "metadata": {
+      "ts_code": "885866.TI",
+      "stock_count": 92,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "无线耳机",
+    "entity_type": "concept",
+    "aliases": [
+      "无线耳机概念"
+    ],
+    "metadata": {
+      "ts_code": "885868.TI",
+      "stock_count": 97,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "MiniLED",
+    "entity_type": "concept",
+    "aliases": [
+      "MiniLED概念"
+    ],
+    "metadata": {
+      "ts_code": "885875.TI",
+      "stock_count": 94,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "网红经济",
+    "entity_type": "concept",
+    "aliases": [
+      "网红经济概念"
+    ],
+    "metadata": {
+      "ts_code": "885876.TI",
+      "stock_count": 117,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "转基因",
+    "entity_type": "concept",
+    "aliases": [
+      "转基因概念"
+    ],
+    "metadata": {
+      "ts_code": "885877.TI",
+      "stock_count": 19,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "HJT电池",
+    "entity_type": "concept",
+    "aliases": [
+      "HJT电池概念"
+    ],
+    "metadata": {
+      "ts_code": "885878.TI",
+      "stock_count": 64,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "流感",
+    "entity_type": "concept",
+    "aliases": [
+      "流感概念"
+    ],
+    "metadata": {
+      "ts_code": "885879.TI",
+      "stock_count": 182,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "云办公",
+    "entity_type": "concept",
+    "aliases": [
+      "云办公概念"
+    ],
+    "metadata": {
+      "ts_code": "885881.TI",
+      "stock_count": 49,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "消毒剂",
+    "entity_type": "concept",
+    "aliases": [
+      "消毒剂概念"
+    ],
+    "metadata": {
+      "ts_code": "885882.TI",
+      "stock_count": 59,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "医疗废物处理",
+    "entity_type": "concept",
+    "aliases": [
+      "医疗废物处理概念"
+    ],
+    "metadata": {
+      "ts_code": "885883.TI",
+      "stock_count": 41,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "航空发动机",
+    "entity_type": "concept",
+    "aliases": [
+      "航空发动机概念"
+    ],
+    "metadata": {
+      "ts_code": "885884.TI",
+      "stock_count": 95,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "超级电容",
+    "entity_type": "concept",
+    "aliases": [
+      "超级电容概念"
+    ],
+    "metadata": {
+      "ts_code": "885886.TI",
+      "stock_count": 36,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "数据中心",
+    "entity_type": "concept",
+    "aliases": [
+      "数据中心概念"
+    ],
+    "metadata": {
+      "ts_code": "885887.TI",
+      "stock_count": 568,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "C2M概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885888.TI",
+      "stock_count": 39,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "抖音概念(字节概念)",
+    "entity_type": "concept",
+    "aliases": [
+      "抖音概念(字节概念)概念"
+    ],
+    "metadata": {
+      "ts_code": "885890.TI",
+      "stock_count": 203,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "海南自贸区",
+    "entity_type": "concept",
+    "aliases": [
+      "海南自贸区概念"
+    ],
+    "metadata": {
+      "ts_code": "885894.TI",
+      "stock_count": 29,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "中芯国际概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885897.TI",
+      "stock_count": 86,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "免税店",
+    "entity_type": "concept",
+    "aliases": [
+      "免税店概念"
+    ],
+    "metadata": {
+      "ts_code": "885898.TI",
+      "stock_count": 28,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "新型烟草(电子烟)",
+    "entity_type": "concept",
+    "aliases": [
+      "新型烟草(电子烟)概念"
+    ],
+    "metadata": {
+      "ts_code": "885899.TI",
+      "stock_count": 53,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "NMN概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885900.TI",
+      "stock_count": 25,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "可降解塑料",
+    "entity_type": "concept",
+    "aliases": [
+      "可降解塑料概念"
+    ],
+    "metadata": {
+      "ts_code": "885901.TI",
+      "stock_count": 81,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "环氧丙烷",
+    "entity_type": "concept",
+    "aliases": [
+      "环氧丙烷概念"
+    ],
+    "metadata": {
+      "ts_code": "885903.TI",
+      "stock_count": 24,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "代糖概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885904.TI",
+      "stock_count": 23,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "第三代半导体",
+    "entity_type": "concept",
+    "aliases": [
+      "第三代半导体概念"
+    ],
+    "metadata": {
+      "ts_code": "885908.TI",
+      "stock_count": 157,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "辅助生殖",
+    "entity_type": "concept",
+    "aliases": [
+      "辅助生殖概念"
+    ],
+    "metadata": {
+      "ts_code": "885909.TI",
+      "stock_count": 72,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "拼多多概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885910.TI",
+      "stock_count": 40,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "社区团购",
+    "entity_type": "concept",
+    "aliases": [
+      "社区团购概念"
+    ],
+    "metadata": {
+      "ts_code": "885911.TI",
+      "stock_count": 51,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "医美概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885913.TI",
+      "stock_count": 93,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "物业管理",
+    "entity_type": "concept",
+    "aliases": [
+      "物业管理概念"
+    ],
+    "metadata": {
+      "ts_code": "885915.TI",
+      "stock_count": 178,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "快手概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885918.TI",
+      "stock_count": 49,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "碳中和",
+    "entity_type": "concept",
+    "aliases": [
+      "碳中和概念"
+    ],
+    "metadata": {
+      "ts_code": "885919.TI",
+      "stock_count": 267,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "光伏建筑一体化",
+    "entity_type": "concept",
+    "aliases": [
+      "光伏建筑一体化概念"
+    ],
+    "metadata": {
+      "ts_code": "885920.TI",
+      "stock_count": 126,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "储能",
+    "entity_type": "concept",
+    "aliases": [
+      "储能概念"
+    ],
+    "metadata": {
+      "ts_code": "885921.TI",
+      "stock_count": 793,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "鸿蒙概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885923.TI",
+      "stock_count": 260,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "MCU芯片",
+    "entity_type": "concept",
+    "aliases": [
+      "MCU芯片概念"
+    ],
+    "metadata": {
+      "ts_code": "885925.TI",
+      "stock_count": 88,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "牙科医疗",
+    "entity_type": "concept",
+    "aliases": [
+      "牙科医疗概念"
+    ],
+    "metadata": {
+      "ts_code": "885926.TI",
+      "stock_count": 29,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "CRO概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885927.TI",
+      "stock_count": 72,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "钠离子电池",
+    "entity_type": "concept",
+    "aliases": [
+      "钠离子电池概念"
+    ],
+    "metadata": {
+      "ts_code": "885928.TI",
+      "stock_count": 134,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "专精特新",
+    "entity_type": "concept",
+    "aliases": [
+      "专精特新概念"
+    ],
+    "metadata": {
+      "ts_code": "885929.TI",
+      "stock_count": 1151,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "工业母机",
+    "entity_type": "concept",
+    "aliases": [
+      "工业母机概念"
+    ],
+    "metadata": {
+      "ts_code": "885930.TI",
+      "stock_count": 109,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "PVDF概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885931.TI",
+      "stock_count": 17,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "NFT概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885933.TI",
+      "stock_count": 71,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "元宇宙",
+    "entity_type": "concept",
+    "aliases": [
+      "元宇宙概念"
+    ],
+    "metadata": {
+      "ts_code": "885934.TI",
+      "stock_count": 180,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "抽水蓄能",
+    "entity_type": "concept",
+    "aliases": [
+      "抽水蓄能概念"
+    ],
+    "metadata": {
+      "ts_code": "885935.TI",
+      "stock_count": 70,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "绿色电力",
+    "entity_type": "concept",
+    "aliases": [
+      "绿色电力概念"
+    ],
+    "metadata": {
+      "ts_code": "885936.TI",
+      "stock_count": 367,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "培育钻石",
+    "entity_type": "concept",
+    "aliases": [
+      "培育钻石概念"
+    ],
+    "metadata": {
+      "ts_code": "885937.TI",
+      "stock_count": 18,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "换电概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885938.TI",
+      "stock_count": 92,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "海峡两岸",
+    "entity_type": "concept",
+    "aliases": [
+      "海峡两岸概念"
+    ],
+    "metadata": {
+      "ts_code": "885939.TI",
+      "stock_count": 302,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "WiFi6",
+    "entity_type": "concept",
+    "aliases": [
+      "WiFi6概念"
+    ],
+    "metadata": {
+      "ts_code": "885940.TI",
+      "stock_count": 58,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "数据安全",
+    "entity_type": "concept",
+    "aliases": [
+      "数据安全概念"
+    ],
+    "metadata": {
+      "ts_code": "885942.TI",
+      "stock_count": 173,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "EDR概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885943.TI",
+      "stock_count": 20,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "动力电池回收",
+    "entity_type": "concept",
+    "aliases": [
+      "动力电池回收概念"
+    ],
+    "metadata": {
+      "ts_code": "885944.TI",
+      "stock_count": 91,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "汽车芯片",
+    "entity_type": "concept",
+    "aliases": [
+      "汽车芯片概念"
+    ],
+    "metadata": {
+      "ts_code": "885945.TI",
+      "stock_count": 138,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "传感器",
+    "entity_type": "concept",
+    "aliases": [
+      "传感器概念"
+    ],
+    "metadata": {
+      "ts_code": "885946.TI",
+      "stock_count": 261,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "DRG/DIP",
+    "entity_type": "concept",
+    "aliases": [
+      "DRG/DIP概念"
+    ],
+    "metadata": {
+      "ts_code": "885947.TI",
+      "stock_count": 22,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "柔性直流输电",
+    "entity_type": "concept",
+    "aliases": [
+      "柔性直流输电概念"
+    ],
+    "metadata": {
+      "ts_code": "885948.TI",
+      "stock_count": 54,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "虚拟数字人",
+    "entity_type": "concept",
+    "aliases": [
+      "虚拟数字人概念"
+    ],
+    "metadata": {
+      "ts_code": "885950.TI",
+      "stock_count": 170,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "预制菜",
+    "entity_type": "concept",
+    "aliases": [
+      "预制菜概念"
+    ],
+    "metadata": {
+      "ts_code": "885951.TI",
+      "stock_count": 100,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "幽门螺杆菌概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885952.TI",
+      "stock_count": 74,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "电子纸",
+    "entity_type": "concept",
+    "aliases": [
+      "电子纸概念"
+    ],
+    "metadata": {
+      "ts_code": "885953.TI",
+      "stock_count": 24,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "重组蛋白",
+    "entity_type": "concept",
+    "aliases": [
+      "重组蛋白概念"
+    ],
+    "metadata": {
+      "ts_code": "885955.TI",
+      "stock_count": 57,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "智慧政务",
+    "entity_type": "concept",
+    "aliases": [
+      "智慧政务概念"
+    ],
+    "metadata": {
+      "ts_code": "885956.TI",
+      "stock_count": 212,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "东数西算(算力)",
+    "entity_type": "concept",
+    "aliases": [
+      "东数西算(算力)概念"
+    ],
+    "metadata": {
+      "ts_code": "885957.TI",
+      "stock_count": 352,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "硅能源",
+    "entity_type": "concept",
+    "aliases": [
+      "硅能源概念"
+    ],
+    "metadata": {
+      "ts_code": "885958.TI",
+      "stock_count": 61,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "PCB概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885959.TI",
+      "stock_count": 182,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "民爆概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885960.TI",
+      "stock_count": 25,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "净水概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885961.TI",
+      "stock_count": 76,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "土壤修复",
+    "entity_type": "concept",
+    "aliases": [
+      "土壤修复概念"
+    ],
+    "metadata": {
+      "ts_code": "885962.TI",
+      "stock_count": 91,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "智慧灯杆",
+    "entity_type": "concept",
+    "aliases": [
+      "智慧灯杆概念"
+    ],
+    "metadata": {
+      "ts_code": "885963.TI",
+      "stock_count": 64,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "俄乌冲突概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885964.TI",
+      "stock_count": 75,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "中俄贸易概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885965.TI",
+      "stock_count": 175,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "跨境支付(CIPS)",
+    "entity_type": "concept",
+    "aliases": [
+      "跨境支付(CIPS)概念"
+    ],
+    "metadata": {
+      "ts_code": "885966.TI",
+      "stock_count": 73,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "化肥",
+    "entity_type": "concept",
+    "aliases": [
+      "化肥概念"
+    ],
+    "metadata": {
+      "ts_code": "885967.TI",
+      "stock_count": 71,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "托育服务",
+    "entity_type": "concept",
+    "aliases": [
+      "托育服务概念"
+    ],
+    "metadata": {
+      "ts_code": "885968.TI",
+      "stock_count": 16,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "两轮车",
+    "entity_type": "concept",
+    "aliases": [
+      "两轮车概念"
+    ],
+    "metadata": {
+      "ts_code": "885974.TI",
+      "stock_count": 64,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "电子身份证",
+    "entity_type": "concept",
+    "aliases": [
+      "电子身份证概念"
+    ],
+    "metadata": {
+      "ts_code": "885975.TI",
+      "stock_count": 40,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "数字经济",
+    "entity_type": "concept",
+    "aliases": [
+      "数字经济概念"
+    ],
+    "metadata": {
+      "ts_code": "885976.TI",
+      "stock_count": 499,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "国资云",
+    "entity_type": "concept",
+    "aliases": [
+      "国资云概念"
+    ],
+    "metadata": {
+      "ts_code": "885977.TI",
+      "stock_count": 53,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "低辐射玻璃(Low-E)",
+    "entity_type": "concept",
+    "aliases": [
+      "低辐射玻璃(Low-E)概念"
+    ],
+    "metadata": {
+      "ts_code": "885978.TI",
+      "stock_count": 12,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "华为鲲鹏",
+    "entity_type": "concept",
+    "aliases": [
+      "华为鲲鹏概念"
+    ],
+    "metadata": {
+      "ts_code": "885980.TI",
+      "stock_count": 175,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "家庭医生",
+    "entity_type": "concept",
+    "aliases": [
+      "家庭医生概念"
+    ],
+    "metadata": {
+      "ts_code": "885981.TI",
+      "stock_count": 27,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "华为欧拉",
+    "entity_type": "concept",
+    "aliases": [
+      "华为欧拉概念"
+    ],
+    "metadata": {
+      "ts_code": "885982.TI",
+      "stock_count": 46,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "毛发医疗",
+    "entity_type": "concept",
+    "aliases": [
+      "毛发医疗概念"
+    ],
+    "metadata": {
+      "ts_code": "885985.TI",
+      "stock_count": 25,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "碳交易",
+    "entity_type": "concept",
+    "aliases": [
+      "碳交易概念"
+    ],
+    "metadata": {
+      "ts_code": "885986.TI",
+      "stock_count": 109,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "MicroLED概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885987.TI",
+      "stock_count": 54,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "统一大市场",
+    "entity_type": "concept",
+    "aliases": [
+      "统一大市场概念"
+    ],
+    "metadata": {
+      "ts_code": "885988.TI",
+      "stock_count": 118,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "肝炎概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885989.TI",
+      "stock_count": 140,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "露营经济",
+    "entity_type": "concept",
+    "aliases": [
+      "露营经济概念"
+    ],
+    "metadata": {
+      "ts_code": "885990.TI",
+      "stock_count": 54,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "新型城镇化",
+    "entity_type": "concept",
+    "aliases": [
+      "新型城镇化概念"
+    ],
+    "metadata": {
+      "ts_code": "885991.TI",
+      "stock_count": 217,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "噪声防治",
+    "entity_type": "concept",
+    "aliases": [
+      "噪声防治概念"
+    ],
+    "metadata": {
+      "ts_code": "885992.TI",
+      "stock_count": 19,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "猴痘概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885994.TI",
+      "stock_count": 74,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "粮食概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885995.TI",
+      "stock_count": 47,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "超超临界发电",
+    "entity_type": "concept",
+    "aliases": [
+      "超超临界发电概念"
+    ],
+    "metadata": {
+      "ts_code": "885996.TI",
+      "stock_count": 87,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "比亚迪概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885997.TI",
+      "stock_count": 650,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "F5G概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "885998.TI",
+      "stock_count": 37,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "汽车热管理",
+    "entity_type": "concept",
+    "aliases": [
+      "汽车热管理概念"
+    ],
+    "metadata": {
+      "ts_code": "885999.TI",
+      "stock_count": 133,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "一体化压铸",
+    "entity_type": "concept",
+    "aliases": [
+      "一体化压铸概念"
+    ],
+    "metadata": {
+      "ts_code": "886000.TI",
+      "stock_count": 56,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "高压快充",
+    "entity_type": "concept",
+    "aliases": [
+      "高压快充概念"
+    ],
+    "metadata": {
+      "ts_code": "886001.TI",
+      "stock_count": 119,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "机器视觉",
+    "entity_type": "concept",
+    "aliases": [
+      "机器视觉概念"
+    ],
+    "metadata": {
+      "ts_code": "886002.TI",
+      "stock_count": 243,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "钒电池",
+    "entity_type": "concept",
+    "aliases": [
+      "钒电池概念"
+    ],
+    "metadata": {
+      "ts_code": "886003.TI",
+      "stock_count": 37,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "虚拟电厂",
+    "entity_type": "concept",
+    "aliases": [
+      "虚拟电厂概念"
+    ],
+    "metadata": {
+      "ts_code": "886004.TI",
+      "stock_count": 137,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "生物质能发电",
+    "entity_type": "concept",
+    "aliases": [
+      "生物质能发电概念"
+    ],
+    "metadata": {
+      "ts_code": "886005.TI",
+      "stock_count": 59,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "钙钛矿电池",
+    "entity_type": "concept",
+    "aliases": [
+      "钙钛矿电池概念"
+    ],
+    "metadata": {
+      "ts_code": "886006.TI",
+      "stock_count": 72,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "TOPCON电池",
+    "entity_type": "concept",
+    "aliases": [
+      "TOPCON电池概念"
+    ],
+    "metadata": {
+      "ts_code": "886007.TI",
+      "stock_count": 77,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "减速器",
+    "entity_type": "concept",
+    "aliases": [
+      "减速器概念"
+    ],
+    "metadata": {
+      "ts_code": "886008.TI",
+      "stock_count": 129,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "先进封装",
+    "entity_type": "concept",
+    "aliases": [
+      "先进封装概念"
+    ],
+    "metadata": {
+      "ts_code": "886009.TI",
+      "stock_count": 143,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "空气能热泵",
+    "entity_type": "concept",
+    "aliases": [
+      "空气能热泵概念"
+    ],
+    "metadata": {
+      "ts_code": "886010.TI",
+      "stock_count": 53,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "光热发电",
+    "entity_type": "concept",
+    "aliases": [
+      "光热发电概念"
+    ],
+    "metadata": {
+      "ts_code": "886011.TI",
+      "stock_count": 43,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "宠物经济",
+    "entity_type": "concept",
+    "aliases": [
+      "宠物经济概念"
+    ],
+    "metadata": {
+      "ts_code": "886012.TI",
+      "stock_count": 125,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "信创",
+    "entity_type": "concept",
+    "aliases": [
+      "信创概念"
+    ],
+    "metadata": {
+      "ts_code": "886013.TI",
+      "stock_count": 301,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "创新药",
+    "entity_type": "concept",
+    "aliases": [
+      "创新药概念"
+    ],
+    "metadata": {
+      "ts_code": "886015.TI",
+      "stock_count": 269,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "供销社",
+    "entity_type": "concept",
+    "aliases": [
+      "供销社概念"
+    ],
+    "metadata": {
+      "ts_code": "886016.TI",
+      "stock_count": 15,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "Web3.0",
+    "entity_type": "concept",
+    "aliases": [
+      "Web3.0概念"
+    ],
+    "metadata": {
+      "ts_code": "886017.TI",
+      "stock_count": 66,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "高压氧舱",
+    "entity_type": "concept",
+    "aliases": [
+      "高压氧舱概念"
+    ],
+    "metadata": {
+      "ts_code": "886018.TI",
+      "stock_count": 11,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "AIGC概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886019.TI",
+      "stock_count": 276,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "PET铜箔",
+    "entity_type": "concept",
+    "aliases": [
+      "PET铜箔概念"
+    ],
+    "metadata": {
+      "ts_code": "886020.TI",
+      "stock_count": 46,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "国企改革",
+    "entity_type": "concept",
+    "aliases": [
+      "国企改革概念"
+    ],
+    "metadata": {
+      "ts_code": "886021.TI",
+      "stock_count": 1449,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "数据确权",
+    "entity_type": "concept",
+    "aliases": [
+      "数据确权概念"
+    ],
+    "metadata": {
+      "ts_code": "886023.TI",
+      "stock_count": 68,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "POE胶膜",
+    "entity_type": "concept",
+    "aliases": [
+      "POE胶膜概念"
+    ],
+    "metadata": {
+      "ts_code": "886026.TI",
+      "stock_count": 29,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "血氧仪",
+    "entity_type": "concept",
+    "aliases": [
+      "血氧仪概念"
+    ],
+    "metadata": {
+      "ts_code": "886028.TI",
+      "stock_count": 24,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "成飞概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886030.TI",
+      "stock_count": 43,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "ChatGPT概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886031.TI",
+      "stock_count": 140,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "固态电池",
+    "entity_type": "concept",
+    "aliases": [
+      "固态电池概念"
+    ],
+    "metadata": {
+      "ts_code": "886032.TI",
+      "stock_count": 281,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "共封装光学(CPO)",
+    "entity_type": "concept",
+    "aliases": [
+      "共封装光学(CPO)概念",
+      "CPO概念"
+    ],
+    "metadata": {
+      "ts_code": "886033.TI",
+      "stock_count": 146,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "数字水印",
+    "entity_type": "concept",
+    "aliases": [
+      "数字水印概念"
+    ],
+    "metadata": {
+      "ts_code": "886034.TI",
+      "stock_count": 30,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "毫米波雷达",
+    "entity_type": "concept",
+    "aliases": [
+      "毫米波雷达概念"
+    ],
+    "metadata": {
+      "ts_code": "886035.TI",
+      "stock_count": 123,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "时空大数据",
+    "entity_type": "concept",
+    "aliases": [
+      "时空大数据概念"
+    ],
+    "metadata": {
+      "ts_code": "886036.TI",
+      "stock_count": 63,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "6G概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886037.TI",
+      "stock_count": 88,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "超导概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886038.TI",
+      "stock_count": 30,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "ERP概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886039.TI",
+      "stock_count": 36,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "MLOps概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886040.TI",
+      "stock_count": 18,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "数据要素",
+    "entity_type": "concept",
+    "aliases": [
+      "数据要素概念"
+    ],
+    "metadata": {
+      "ts_code": "886041.TI",
+      "stock_count": 387,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "存储芯片",
+    "entity_type": "concept",
+    "aliases": [
+      "存储芯片概念"
+    ],
+    "metadata": {
+      "ts_code": "886042.TI",
+      "stock_count": 166,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "太赫兹",
+    "entity_type": "concept",
+    "aliases": [
+      "太赫兹概念"
+    ],
+    "metadata": {
+      "ts_code": "886043.TI",
+      "stock_count": 21,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "液冷服务器",
+    "entity_type": "concept",
+    "aliases": [
+      "液冷服务器概念"
+    ],
+    "metadata": {
+      "ts_code": "886044.TI",
+      "stock_count": 176,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "MR(混合现实)",
+    "entity_type": "concept",
+    "aliases": [
+      "MR(混合现实)概念"
+    ],
+    "metadata": {
+      "ts_code": "886046.TI",
+      "stock_count": 69,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "脑机接口",
+    "entity_type": "concept",
+    "aliases": [
+      "脑机接口概念"
+    ],
+    "metadata": {
+      "ts_code": "886047.TI",
+      "stock_count": 70,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "英伟达概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886048.TI",
+      "stock_count": 75,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "空间计算",
+    "entity_type": "concept",
+    "aliases": [
+      "空间计算概念"
+    ],
+    "metadata": {
+      "ts_code": "886049.TI",
+      "stock_count": 62,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "算力租赁",
+    "entity_type": "concept",
+    "aliases": [
+      "算力租赁概念"
+    ],
+    "metadata": {
+      "ts_code": "886050.TI",
+      "stock_count": 156,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "减肥药",
+    "entity_type": "concept",
+    "aliases": [
+      "减肥药概念"
+    ],
+    "metadata": {
+      "ts_code": "886051.TI",
+      "stock_count": 59,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "核污染防治",
+    "entity_type": "concept",
+    "aliases": [
+      "核污染防治概念"
+    ],
+    "metadata": {
+      "ts_code": "886052.TI",
+      "stock_count": 58,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "BC电池",
+    "entity_type": "concept",
+    "aliases": [
+      "BC电池概念"
+    ],
+    "metadata": {
+      "ts_code": "886053.TI",
+      "stock_count": 47,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "光刻机",
+    "entity_type": "concept",
+    "aliases": [
+      "光刻机概念"
+    ],
+    "metadata": {
+      "ts_code": "886054.TI",
+      "stock_count": 47,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "星闪概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886055.TI",
+      "stock_count": 75,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "阿尔茨海默概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886056.TI",
+      "stock_count": 40,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "新型工业化",
+    "entity_type": "concept",
+    "aliases": [
+      "新型工业化概念"
+    ],
+    "metadata": {
+      "ts_code": "886057.TI",
+      "stock_count": 285,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "华为昇腾",
+    "entity_type": "concept",
+    "aliases": [
+      "华为昇腾概念"
+    ],
+    "metadata": {
+      "ts_code": "886058.TI",
+      "stock_count": 100,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "智能座舱",
+    "entity_type": "concept",
+    "aliases": [
+      "智能座舱概念"
+    ],
+    "metadata": {
+      "ts_code": "886059.TI",
+      "stock_count": 162,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "短剧游戏",
+    "entity_type": "concept",
+    "aliases": [
+      "短剧游戏概念"
+    ],
+    "metadata": {
+      "ts_code": "886060.TI",
+      "stock_count": 66,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "长安汽车概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886061.TI",
+      "stock_count": 222,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "多模态AI",
+    "entity_type": "concept",
+    "aliases": [
+      "多模态AI概念"
+    ],
+    "metadata": {
+      "ts_code": "886062.TI",
+      "stock_count": 144,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "PEEK材料",
+    "entity_type": "concept",
+    "aliases": [
+      "PEEK材料概念"
+    ],
+    "metadata": {
+      "ts_code": "886063.TI",
+      "stock_count": 49,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "小米汽车",
+    "entity_type": "concept",
+    "aliases": [
+      "小米汽车概念"
+    ],
+    "metadata": {
+      "ts_code": "886064.TI",
+      "stock_count": 117,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "可控核聚变",
+    "entity_type": "concept",
+    "aliases": [
+      "可控核聚变概念"
+    ],
+    "metadata": {
+      "ts_code": "886065.TI",
+      "stock_count": 107,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "飞行汽车(eVTOL)",
+    "entity_type": "concept",
+    "aliases": [
+      "飞行汽车(eVTOL)概念"
+    ],
+    "metadata": {
+      "ts_code": "886066.TI",
+      "stock_count": 127,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "低空经济",
+    "entity_type": "concept",
+    "aliases": [
+      "低空经济概念"
+    ],
+    "metadata": {
+      "ts_code": "886067.TI",
+      "stock_count": 468,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "Sora概念(文生视频)",
+    "entity_type": "concept",
+    "aliases": [
+      "Sora概念(文生视频)概念"
+    ],
+    "metadata": {
+      "ts_code": "886068.TI",
+      "stock_count": 42,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "人形机器人",
+    "entity_type": "concept",
+    "aliases": [
+      "人形机器人概念"
+    ],
+    "metadata": {
+      "ts_code": "886069.TI",
+      "stock_count": 412,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "AI手机",
+    "entity_type": "concept",
+    "aliases": [
+      "AI手机概念"
+    ],
+    "metadata": {
+      "ts_code": "886070.TI",
+      "stock_count": 34,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "AI PC",
+    "entity_type": "concept",
+    "aliases": [
+      "AI PC概念"
+    ],
+    "metadata": {
+      "ts_code": "886071.TI",
+      "stock_count": 49,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "铜缆高速连接",
+    "entity_type": "concept",
+    "aliases": [
+      "铜缆高速连接概念"
+    ],
+    "metadata": {
+      "ts_code": "886073.TI",
+      "stock_count": 44,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "AI语料",
+    "entity_type": "concept",
+    "aliases": [
+      "AI语料概念"
+    ],
+    "metadata": {
+      "ts_code": "886074.TI",
+      "stock_count": 50,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "军工信息化",
+    "entity_type": "concept",
+    "aliases": [
+      "军工信息化概念"
+    ],
+    "metadata": {
+      "ts_code": "886076.TI",
+      "stock_count": 106,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "合成生物",
+    "entity_type": "concept",
+    "aliases": [
+      "合成生物概念"
+    ],
+    "metadata": {
+      "ts_code": "886077.TI",
+      "stock_count": 162,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "商业航天",
+    "entity_type": "concept",
+    "aliases": [
+      "商业航天概念"
+    ],
+    "metadata": {
+      "ts_code": "886078.TI",
+      "stock_count": 437,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "财税数字化",
+    "entity_type": "concept",
+    "aliases": [
+      "财税数字化概念"
+    ],
+    "metadata": {
+      "ts_code": "886080.TI",
+      "stock_count": 66,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "维生素",
+    "entity_type": "concept",
+    "aliases": [
+      "维生素概念"
+    ],
+    "metadata": {
+      "ts_code": "886081.TI",
+      "stock_count": 74,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "光纤概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886084.TI",
+      "stock_count": 84,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "AI眼镜",
+    "entity_type": "concept",
+    "aliases": [
+      "AI眼镜概念",
+      "智能眼镜"
+    ],
+    "metadata": {
+      "ts_code": "886085.TI",
+      "stock_count": 181,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "西部大开发",
+    "entity_type": "concept",
+    "aliases": [
+      "西部大开发概念"
+    ],
+    "metadata": {
+      "ts_code": "886086.TI",
+      "stock_count": 630,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "房屋检测",
+    "entity_type": "concept",
+    "aliases": [
+      "房屋检测概念"
+    ],
+    "metadata": {
+      "ts_code": "886087.TI",
+      "stock_count": 46,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "智谱AI",
+    "entity_type": "concept",
+    "aliases": [
+      "智谱AI概念"
+    ],
+    "metadata": {
+      "ts_code": "886090.TI",
+      "stock_count": 68,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "华为手机",
+    "entity_type": "concept",
+    "aliases": [
+      "华为手机概念"
+    ],
+    "metadata": {
+      "ts_code": "886091.TI",
+      "stock_count": 44,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "华为数字能源",
+    "entity_type": "concept",
+    "aliases": [
+      "华为数字能源概念"
+    ],
+    "metadata": {
+      "ts_code": "886093.TI",
+      "stock_count": 43,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "华为盘古",
+    "entity_type": "concept",
+    "aliases": [
+      "华为盘古概念"
+    ],
+    "metadata": {
+      "ts_code": "886094.TI",
+      "stock_count": 29,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "IP经济(谷子经济)",
+    "entity_type": "concept",
+    "aliases": [
+      "IP经济(谷子经济)概念"
+    ],
+    "metadata": {
+      "ts_code": "886095.TI",
+      "stock_count": 190,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "小红书概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886098.TI",
+      "stock_count": 54,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "AI智能体",
+    "entity_type": "concept",
+    "aliases": [
+      "AI智能体概念"
+    ],
+    "metadata": {
+      "ts_code": "886099.TI",
+      "stock_count": 399,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "DeepSeek概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886100.TI",
+      "stock_count": 757,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "兵装重组概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886101.TI",
+      "stock_count": 7,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "云计算",
+    "entity_type": "concept",
+    "aliases": [
+      "云计算概念"
+    ],
+    "metadata": {
+      "ts_code": "885362.TI",
+      "stock_count": 218,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "中国AI 50",
+    "entity_type": "concept",
+    "aliases": [
+      "中国AI 50概念"
+    ],
+    "metadata": {
+      "ts_code": "886102.TI",
+      "stock_count": 50,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "雅下水电概念",
+    "entity_type": "concept",
+    "aliases": [],
+    "metadata": {
+      "ts_code": "886105.TI",
+      "stock_count": 88,
+      "exchange": "A"
+    }
+  },
+  {
+    "name": "AI应用",
+    "entity_type": "concept",
+    "aliases": [
+      "AI应用概念"
+    ],
+    "metadata": {
+      "ts_code": "886108.TI",
+      "stock_count": 355,
+      "exchange": "A"
+    }
+  }
+]

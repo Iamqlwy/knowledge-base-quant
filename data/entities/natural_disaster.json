@@ -1,0 +1,248 @@
+[
+  {
+    "name": "台风灾害",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "台风登陆",
+      "台风过境",
+      "强台风",
+      "typhoon"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气象/热带气旋",
+      "tags": [
+        "航运",
+        "农业",
+        "能源",
+        "沿海"
+      ]
+    }
+  },
+  {
+    "name": "洪水灾害",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "特大洪水",
+      "洪涝灾害",
+      "暴雨洪涝",
+      "流域洪水"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气象/水文",
+      "tags": [
+        "农业",
+        "基建",
+        "长江流域",
+        "黄河流域"
+      ]
+    }
+  },
+  {
+    "name": "干旱灾害",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "严重干旱",
+      "持续干旱",
+      "缺雨干旱",
+      "旱灾"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气象/水文",
+      "tags": [
+        "农业",
+        "水电",
+        "粮食",
+        "大宗商品"
+      ]
+    }
+  },
+  {
+    "name": "高温热浪",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "极端高温",
+      "持续高温",
+      "高温预警",
+      "heatwave"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气象/极端温度",
+      "tags": [
+        "电力",
+        "制冷",
+        "农业",
+        "能源"
+      ]
+    }
+  },
+  {
+    "name": "寒潮/暴雪",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "强寒潮",
+      "极端低温",
+      "暴雪灾害",
+      "雨雪冰冻",
+      "极寒天气"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气象/极端温度",
+      "tags": [
+        "能源",
+        "交通",
+        "农业",
+        "取暖"
+      ]
+    }
+  },
+  {
+    "name": "地震",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "强烈地震",
+      "特大地震",
+      "地震灾害"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "地质/地震",
+      "tags": [
+        "基建",
+        "制造业",
+        "供应链"
+      ]
+    }
+  },
+  {
+    "name": "森林火灾",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "森林大火",
+      "山火",
+      "野火",
+      "wildfire"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气象/火灾",
+      "tags": [
+        "林业",
+        "木材",
+        "碳排放"
+      ]
+    }
+  },
+  {
+    "name": "沙尘暴",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "强沙尘暴",
+      "沙尘天气",
+      "沙暴"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气象/风沙",
+      "tags": [
+        "农业",
+        "交通",
+        "北方"
+      ]
+    }
+  },
+  {
+    "name": "冰雹灾害",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "强冰雹",
+      "雹灾"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气象/冰雹",
+      "tags": [
+        "农业",
+        "保险",
+        "水果"
+      ]
+    }
+  },
+  {
+    "name": "海啸",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "海啸灾害",
+      "tsunami"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "地质/海洋",
+      "tags": [
+        "沿海",
+        "核电",
+        "航运"
+      ]
+    }
+  },
+  {
+    "name": "火山喷发",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "火山爆发",
+      "火山灰",
+      "volcanic eruption"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "地质/火山",
+      "tags": [
+        "航空",
+        "气候",
+        "航运"
+      ]
+    }
+  },
+  {
+    "name": "厄尔尼诺",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "El Nino",
+      "厄尔尼诺现象",
+      "ENSO暖事件"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气候/海洋",
+      "tags": [
+        "粮食",
+        "大宗商品",
+        "全球气候",
+        "农业"
+      ]
+    }
+  },
+  {
+    "name": "拉尼娜",
+    "entity_type": "natural_disaster",
+    "aliases": [
+      "La Nina",
+      "拉尼娜现象",
+      "ENSO冷事件"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "气候/海洋",
+      "tags": [
+        "粮食",
+        "大宗商品",
+        "全球气候",
+        "农业"
+      ]
+    }
+  }
+]

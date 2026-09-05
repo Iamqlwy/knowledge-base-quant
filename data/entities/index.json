@@ -1,0 +1,324 @@
+[
+  {
+    "name": "沪深300",
+    "entity_type": "index",
+    "aliases": [
+      "沪深300",
+      "CSI 300",
+      "000300"
+    ],
+    "metadata": {
+      "index_code": "000300.SH",
+      "market": "A股",
+      "type": "宽基",
+      "description": "沪深两市市值最大的300只股票"
+    }
+  },
+  {
+    "name": "上证50",
+    "entity_type": "index",
+    "aliases": [
+      "上证50",
+      "SSE 50",
+      "000016"
+    ],
+    "metadata": {
+      "index_code": "000016.SH",
+      "market": "A股",
+      "type": "宽基",
+      "description": "沪市市值最大的50只股票"
+    }
+  },
+  {
+    "name": "科创50",
+    "entity_type": "index",
+    "aliases": [
+      "科创50",
+      "STAR 50",
+      "000688"
+    ],
+    "metadata": {
+      "index_code": "000688.SH",
+      "market": "科创板",
+      "type": "宽基",
+      "description": "科创板市值最大的50只股票"
+    }
+  },
+  {
+    "name": "科创100",
+    "entity_type": "index",
+    "aliases": [
+      "科创100",
+      "STAR 100"
+    ],
+    "metadata": {
+      "index_code": "000698.SH",
+      "market": "科创板",
+      "type": "宽基",
+      "description": "科创50之后的100只股票"
+    }
+  },
+  {
+    "name": "中证500",
+    "entity_type": "index",
+    "aliases": [
+      "中证500",
+      "CSI 500",
+      "000905"
+    ],
+    "metadata": {
+      "index_code": "000905.SH",
+      "market": "A股",
+      "type": "宽基",
+      "description": "沪深300之后的500只中盘股"
+    }
+  },
+  {
+    "name": "中证1000",
+    "entity_type": "index",
+    "aliases": [
+      "中证1000",
+      "CSI 1000",
+      "000852"
+    ],
+    "metadata": {
+      "index_code": "000852.SH",
+      "market": "A股",
+      "type": "宽基",
+      "description": "A股小盘股代表"
+    }
+  },
+  {
+    "name": "中证2000",
+    "entity_type": "index",
+    "aliases": [
+      "中证2000",
+      "CSI 2000"
+    ],
+    "metadata": {
+      "index_code": "932000.CSI",
+      "market": "A股",
+      "type": "宽基",
+      "description": "A股微盘股代表"
+    }
+  },
+  {
+    "name": "创业板指",
+    "entity_type": "index",
+    "aliases": [
+      "创业板指",
+      "ChiNext Index",
+      "399006"
+    ],
+    "metadata": {
+      "index_code": "399006.SZ",
+      "market": "创业板",
+      "type": "宽基"
+    }
+  },
+  {
+    "name": "深证成指",
+    "entity_type": "index",
+    "aliases": [
+      "深证成指",
+      "深成指",
+      "399001"
+    ],
+    "metadata": {
+      "index_code": "399001.SZ",
+      "market": "A股",
+      "type": "宽基"
+    }
+  },
+  {
+    "name": "上证指数",
+    "entity_type": "index",
+    "aliases": [
+      "上证指数",
+      "上证综指",
+      "沪指",
+      "000001"
+    ],
+    "metadata": {
+      "index_code": "000001.SH",
+      "market": "A股",
+      "type": "宽基",
+      "description": "沪市综合指数"
+    }
+  },
+  {
+    "name": "万得全A",
+    "entity_type": "index",
+    "aliases": [
+      "万得全A",
+      "Wind全A",
+      "881001"
+    ],
+    "metadata": {
+      "index_code": "881001.WI",
+      "market": "A股",
+      "type": "全市场"
+    }
+  },
+  {
+    "name": "红利指数",
+    "entity_type": "index",
+    "aliases": [
+      "红利指数",
+      "中证红利",
+      "000922"
+    ],
+    "metadata": {
+      "index_code": "000922.SH",
+      "market": "A股",
+      "type": "策略"
+    }
+  },
+  {
+    "name": "恒生指数",
+    "entity_type": "index",
+    "aliases": [
+      "恒生指数",
+      "Hang Seng Index"
+    ],
+    "metadata": {
+      "index_code": "HSI",
+      "market": "港股",
+      "type": "宽基"
+    }
+  },
+  {
+    "name": "恒生科技指数",
+    "entity_type": "index",
+    "aliases": [
+      "恒生科技",
+      "HSTECH"
+    ],
+    "metadata": {
+      "index_code": "HSTECH",
+      "market": "港股",
+      "type": "行业"
+    }
+  },
+  {
+    "name": "恒生中国企业指数",
+    "entity_type": "index",
+    "aliases": [
+      "HSCEI",
+      "国企指数"
+    ],
+    "metadata": {
+      "index_code": "HSCEI",
+      "market": "港股",
+      "type": "宽基"
+    }
+  },
+  {
+    "name": "MSCI中国指数",
+    "entity_type": "index",
+    "aliases": [
+      "MSCI中国",
+      "MSCI China"
+    ],
+    "metadata": {
+      "index_code": "MSCI China",
+      "market": "海外",
+      "type": "中国"
+    }
+  },
+  {
+    "name": "MSCI新兴市场指数",
+    "entity_type": "index",
+    "aliases": [
+      "MSCI新兴市场",
+      "MSCI EM"
+    ],
+    "metadata": {
+      "index_code": "MSCI EM",
+      "market": "海外",
+      "type": "全球"
+    }
+  },
+  {
+    "name": "标普500",
+    "entity_type": "index",
+    "aliases": [
+      "标普500",
+      "S&P 500"
+    ],
+    "metadata": {
+      "index_code": "SPX",
+      "market": "美股",
+      "type": "宽基"
+    }
+  },
+  {
+    "name": "纳斯达克100",
+    "entity_type": "index",
+    "aliases": [
+      "纳斯达克100",
+      "Nasdaq 100",
+      "NASDAQ-100"
+    ],
+    "metadata": {
+      "index_code": "NDX",
+      "market": "美股",
+      "type": "宽基"
+    }
+  },
+  {
+    "name": "道琼斯工业指数",
+    "entity_type": "index",
+    "aliases": [
+      "道琼斯",
+      "道指",
+      "DJIA",
+      "Dow Jones"
+    ],
+    "metadata": {
+      "index_code": "DJIA",
+      "market": "美股",
+      "type": "宽基"
+    }
+  },
+  {
+    "name": "罗素2000",
+    "entity_type": "index",
+    "aliases": [
+      "罗素2000",
+      "Russell 2000"
+    ],
+    "metadata": {
+      "index_code": "RTY",
+      "market": "美股",
+      "type": "小盘股"
+    }
+  },
+  {
+    "name": "费城半导体指数",
+    "entity_type": "index",
+    "aliases": [
+      "费城半导体",
+      "SOX Index"
+    ],
+    "metadata": {
+      "index_code": "SOX",
+      "market": "美股",
+      "type": "行业",
+      "description": "全球半导体行业风向标"
+    }
+  },
+  {
+    "name": "日经225",
+    "entity_type": "index",
+    "aliases": [
+      "Nikkei 225",
+      "日经"
+    ],
+    "metadata": {
+      "index_code": "N225",
+      "market": "日本",
+      "type": "宽基"
+    }
+  }
+]

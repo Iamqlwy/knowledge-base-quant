@@ -1,0 +1,410 @@
+[
+  {
+    "name": "中国科学院",
+    "entity_type": "research_institution",
+    "aliases": [
+      "中科院",
+      "CAS",
+      "Chinese Academy of Sciences"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/综合",
+      "country": "中国",
+      "type": "国家科研机构",
+      "tags": [
+        "基础研究",
+        "大科学装置"
+      ]
+    }
+  },
+  {
+    "name": "中国工程院",
+    "entity_type": "research_institution",
+    "aliases": [
+      "工程院",
+      "CAE",
+      "中国工程物理研究院"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/工程",
+      "country": "中国",
+      "type": "国家科研机构",
+      "tags": [
+        "工程技术",
+        "重大专项"
+      ]
+    }
+  },
+  {
+    "name": "DARPA",
+    "entity_type": "research_institution",
+    "aliases": [
+      "美国国防高级研究计划局",
+      "Defense Advanced Research Projects Agency"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/国防",
+      "country": "美国",
+      "type": "国家科研机构",
+      "tags": [
+        "颠覆性技术",
+        "军民两用",
+        "前沿探索"
+      ]
+    }
+  },
+  {
+    "name": "NASA",
+    "entity_type": "research_institution",
+    "aliases": [
+      "美国国家航空航天局",
+      "美国宇航局",
+      "National Aeronautics and Space Administration"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/航天",
+      "country": "美国",
+      "type": "国家科研机构",
+      "tags": [
+        "航天",
+        "深空探测",
+        "阿波罗"
+      ]
+    }
+  },
+  {
+    "name": "ESA",
+    "entity_type": "research_institution",
+    "aliases": [
+      "欧空局",
+      "欧洲空间局",
+      "European Space Agency"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/航天",
+      "country": "欧洲",
+      "type": "国际科研机构",
+      "tags": [
+        "航天",
+        "伽利略",
+        "深空探测"
+      ]
+    }
+  },
+  {
+    "name": "JAXA",
+    "entity_type": "research_institution",
+    "aliases": [
+      "日本宇宙航空研究开发机构",
+      "Japan Aerospace Exploration Agency"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/航天",
+      "country": "日本",
+      "type": "国家科研机构",
+      "tags": [
+        "宇航",
+        "小行星探测"
+      ]
+    }
+  },
+  {
+    "name": "CERN",
+    "entity_type": "research_institution",
+    "aliases": [
+      "欧洲核子研究中心",
+      "European Organization for Nuclear Research"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/物理",
+      "country": "欧洲",
+      "type": "国际科研机构",
+      "tags": [
+        "粒子物理",
+        "大型强子对撞机",
+        "LHC"
+      ]
+    }
+  },
+  {
+    "name": "Max Planck学会",
+    "entity_type": "research_institution",
+    "aliases": [
+      "马克斯·普朗克学会",
+      "马普所",
+      "Max Planck Society",
+      "MPG"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/综合",
+      "country": "德国",
+      "type": "国家科研机构",
+      "tags": [
+        "基础研究",
+        "多学科"
+      ]
+    }
+  },
+  {
+    "name": "洛斯阿拉莫斯国家实验室",
+    "entity_type": "research_institution",
+    "aliases": [
+      "LANL",
+      "洛斯阿拉莫斯",
+      "Los Alamos"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/国防",
+      "country": "美国",
+      "type": "国家实验室",
+      "tags": [
+        "核武器",
+        "超级计算",
+        "材料科学"
+      ]
+    }
+  },
+  {
+    "name": "橡树岭国家实验室",
+    "entity_type": "research_institution",
+    "aliases": [
+      "Oak Ridge National Laboratory",
+      "ORNL",
+      "橡树岭"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/能源",
+      "country": "美国",
+      "type": "国家实验室",
+      "tags": [
+        "核能",
+        "超级计算",
+        "材料科学",
+        "Frontier"
+      ]
+    }
+  },
+  {
+    "name": "劳伦斯利弗莫尔国家实验室",
+    "entity_type": "research_institution",
+    "aliases": [
+      "LLNL",
+      "Lawrence Livermore",
+      "利弗莫尔"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/国防",
+      "country": "美国",
+      "type": "国家实验室",
+      "tags": [
+        "核聚变",
+        "核武器",
+        "NIF"
+      ]
+    }
+  },
+  {
+    "name": "DeepMind",
+    "entity_type": "research_institution",
+    "aliases": [
+      "Google DeepMind",
+      "谷歌DeepMind",
+      "深脑"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/AI",
+      "country": "英国/美国",
+      "type": "企业研究院",
+      "tags": [
+        "AI",
+        "AlphaFold",
+        "通用人工智能"
+      ]
+    }
+  },
+  {
+    "name": "OpenAI研究院",
+    "entity_type": "research_institution",
+    "aliases": [
+      "OpenAI Research"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/AI",
+      "country": "美国",
+      "type": "企业研究院",
+      "tags": [
+        "大模型",
+        "AGI",
+        "GPT"
+      ]
+    }
+  },
+  {
+    "name": "华为2012实验室",
+    "entity_type": "research_institution",
+    "aliases": [
+      "2012实验室",
+      "华为中央研究院"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/综合",
+      "country": "中国",
+      "type": "企业研究院",
+      "tags": [
+        "通信",
+        "芯片",
+        "操作系统",
+        "AI"
+      ]
+    }
+  },
+  {
+    "name": "华为诺亚方舟实验室",
+    "entity_type": "research_institution",
+    "aliases": [
+      "诺亚方舟实验室",
+      "Noah's Ark Lab"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/AI",
+      "country": "中国",
+      "type": "企业研究院",
+      "tags": [
+        "AI",
+        "大模型",
+        "推荐系统"
+      ]
+    }
+  },
+  {
+    "name": "微软研究院",
+    "entity_type": "research_institution",
+    "aliases": [
+      "Microsoft Research",
+      "MSR"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "科研/综合",
+      "country": "美国",
+      "type": "企业研究院",
+      "tags": [
+        "AI",
+        "量子计算",
+        "系统研究"
+      ]
+    }
+  },
+  {
+    "name": "MIT",
+    "entity_type": "research_institution",
+    "aliases": [
+      "麻省理工学院",
+      "Massachusetts Institute of Technology"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "教育/科研",
+      "country": "美国",
+      "type": "顶尖高校",
+      "tags": [
+        "AI",
+        "机器人",
+        "材料科学",
+        "量子"
+      ]
+    }
+  },
+  {
+    "name": "斯坦福大学",
+    "entity_type": "research_institution",
+    "aliases": [
+      "Stanford University",
+      "斯坦福"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "教育/科研",
+      "country": "美国",
+      "type": "顶尖高校",
+      "tags": [
+        "AI",
+        "生物医学",
+        "硅谷"
+      ]
+    }
+  },
+  {
+    "name": "加州理工学院",
+    "entity_type": "research_institution",
+    "aliases": [
+      "Caltech",
+      "California Institute of Technology"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "教育/科研",
+      "country": "美国",
+      "type": "顶尖高校",
+      "tags": [
+        "航天",
+        "物理学",
+        "JPL"
+      ]
+    }
+  },
+  {
+    "name": "清华大学",
+    "entity_type": "research_institution",
+    "aliases": [
+      "清华",
+      "Tsinghua University"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "教育/科研",
+      "country": "中国",
+      "type": "顶尖高校",
+      "tags": [
+        "AI",
+        "集成电路",
+        "能源",
+        "材料"
+      ]
+    }
+  },
+  {
+    "name": "北京大学",
+    "entity_type": "research_institution",
+    "aliases": [
+      "北大",
+      "Peking University"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "教育/科研",
+      "country": "中国",
+      "type": "顶尖高校",
+      "tags": [
+        "AI",
+        "生物医学",
+        "量子"
+      ]
+    }
+  }
+]

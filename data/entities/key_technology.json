@@ -1,0 +1,694 @@
+[
+  {
+    "name": "燃气轮机",
+    "entity_type": "key_technology",
+    "aliases": [
+      "重型燃气轮机",
+      "燃机",
+      "gas turbine"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "动力/发电",
+      "tags": [
+        "两用技术",
+        "国产替代",
+        "能源装备",
+        "卡脖子"
+      ]
+    }
+  },
+  {
+    "name": "涡扇发动机",
+    "entity_type": "key_technology",
+    "aliases": [
+      "涡轮风扇发动机",
+      "涡扇",
+      "turbofan"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "航空/动力",
+      "tags": [
+        "两用技术",
+        "国产替代",
+        "航空",
+        "卡脖子"
+      ]
+    }
+  },
+  {
+    "name": "可重复使用火箭",
+    "entity_type": "key_technology",
+    "aliases": [
+      "回收火箭",
+      "垂直回收",
+      "可复用运载火箭",
+      "reusable rocket"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "航天/运载",
+      "tags": [
+        "商业航天",
+        "低成本发射",
+        "星链"
+      ]
+    }
+  },
+  {
+    "name": "液氧甲烷发动机",
+    "entity_type": "key_technology",
+    "aliases": [
+      "甲烷发动机",
+      "Raptor",
+      "朱雀",
+      "methane engine",
+      "LOX/CH4"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "航天/动力",
+      "tags": [
+        "商业航天",
+        "可重复使用"
+      ]
+    }
+  },
+  {
+    "name": "低轨卫星星座",
+    "entity_type": "key_technology",
+    "aliases": [
+      "星链",
+      "Starlink",
+      "千帆星座",
+      "低轨星座",
+      "LEO constellation"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "航天/通信",
+      "tags": [
+        "商业航天",
+        "6G",
+        "卫星互联网"
+      ]
+    }
+  },
+  {
+    "name": "霍尔电推进",
+    "entity_type": "key_technology",
+    "aliases": [
+      "霍尔效应推进器",
+      "Hall thruster",
+      "电推进",
+      "离子推进"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "航天/推进",
+      "tags": [
+        "深空探测",
+        "卫星动力"
+      ]
+    }
+  },
+  {
+    "name": "EUV光刻机",
+    "entity_type": "key_technology",
+    "aliases": [
+      "极紫外光刻机",
+      "EUV光刻",
+      "EUVL"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/光刻",
+      "tags": [
+        "卡脖子",
+        "ASML",
+        "先进制程"
+      ]
+    }
+  },
+  {
+    "name": "Chiplet",
+    "entity_type": "key_technology",
+    "aliases": [
+      "小芯片",
+      "芯粒",
+      "粒芯",
+      "chiplet互联"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/封装",
+      "tags": [
+        "先进封装",
+        "UCIe",
+        "异构集成"
+      ]
+    }
+  },
+  {
+    "name": "HBM",
+    "entity_type": "key_technology",
+    "aliases": [
+      "高带宽存储器",
+      "HBM3",
+      "High Bandwidth Memory"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/存储",
+      "tags": [
+        "AI芯片",
+        "先进封装",
+        "SK海力士"
+      ]
+    }
+  },
+  {
+    "name": "RISC-V",
+    "entity_type": "key_technology",
+    "aliases": [
+      "RISC-V架构",
+      "RISC-V处理器",
+      "开源指令集"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/指令集",
+      "tags": [
+        "国产替代",
+        "开源",
+        "芯片设计"
+      ]
+    }
+  },
+  {
+    "name": "碳化硅衬底",
+    "entity_type": "key_technology",
+    "aliases": [
+      "SiC衬底",
+      "碳化硅晶圆",
+      "silicon carbide substrate",
+      "SiC substrate"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/材料",
+      "tags": [
+        "第三代半导体",
+        "功率器件",
+        "新能源"
+      ]
+    }
+  },
+  {
+    "name": "氮化镓",
+    "entity_type": "key_technology",
+    "aliases": [
+      "GaN",
+      "gallium nitride",
+      "氮化镓器件"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "半导体/材料",
+      "tags": [
+        "第三代半导体",
+        "功率器件",
+        "快充",
+        "射频"
+      ]
+    }
+  },
+  {
+    "name": "多模态大模型",
+    "entity_type": "key_technology",
+    "aliases": [
+      "multimodal LLM",
+      "VLM",
+      "视觉语言模型"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/大模型",
+      "tags": [
+        "GPT-4V",
+        "Gemini",
+        "具身智能"
+      ]
+    }
+  },
+  {
+    "name": "具身智能",
+    "entity_type": "key_technology",
+    "aliases": [
+      "embodied AI",
+      "具身人工智能",
+      "embodied intelligence"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/机器人",
+      "tags": [
+        "人形机器人",
+        "智能体",
+        "世界模型"
+      ]
+    }
+  },
+  {
+    "name": "AI Agent",
+    "entity_type": "key_technology",
+    "aliases": [
+      "智能体",
+      "自主Agent",
+      "LLM Agent"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/应用",
+      "tags": [
+        "大模型",
+        "工具调用",
+        "自动化"
+      ]
+    }
+  },
+  {
+    "name": "神经形态芯片",
+    "entity_type": "key_technology",
+    "aliases": [
+      "类脑芯片",
+      "neuromorphic chip",
+      "脉冲神经网络"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "AI/芯片",
+      "tags": [
+        "存算一体",
+        "类脑计算",
+        "低功耗"
+      ]
+    }
+  },
+  {
+    "name": "CRISPR基因编辑",
+    "entity_type": "key_technology",
+    "aliases": [
+      "CRISPR-Cas9",
+      "CRISPR基因剪刀",
+      "基因编辑",
+      "CRISPR/Cas"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "生物/基因",
+      "tags": [
+        "基因治疗",
+        "农业育种",
+        "合成生物学"
+      ]
+    }
+  },
+  {
+    "name": "CAR-T细胞疗法",
+    "entity_type": "key_technology",
+    "aliases": [
+      "CAR-T",
+      "嵌合抗原受体T细胞"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "生物/免疫治疗",
+      "tags": [
+        "细胞治疗",
+        "血液肿瘤",
+        "创新药"
+      ]
+    }
+  },
+  {
+    "name": "mRNA疫苗平台",
+    "entity_type": "key_technology",
+    "aliases": [
+      "mRNA技术",
+      "mRNA疫苗",
+      "信使RNA",
+      "mRNA therapeutics"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "生物/疫苗",
+      "tags": [
+        "mRNA",
+        "肿瘤疫苗",
+        "个性化医疗"
+      ]
+    }
+  },
+  {
+    "name": "ADC药物",
+    "entity_type": "key_technology",
+    "aliases": [
+      "抗体偶联药物",
+      "antibody-drug conjugate",
+      "ADC"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "生物/制药",
+      "tags": [
+        "靶向治疗",
+        "创新药",
+        "肿瘤"
+      ]
+    }
+  },
+  {
+    "name": "GLP-1受体激动剂",
+    "entity_type": "key_technology",
+    "aliases": [
+      "GLP-1",
+      "司美格鲁肽",
+      "替尔泊肽",
+      "semaglutide",
+      "tirzepatide"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "生物/代谢",
+      "tags": [
+        "糖尿病",
+        "减肥药",
+        "诺和诺德",
+        "礼来"
+      ]
+    }
+  },
+  {
+    "name": "干细胞治疗",
+    "entity_type": "key_technology",
+    "aliases": [
+      "间充质干细胞",
+      "iPSC",
+      "诱导多能干细胞",
+      "stem cell therapy"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "生物/再生医学",
+      "tags": [
+        "再生医学",
+        "抗衰老",
+        "创新药"
+      ]
+    }
+  },
+  {
+    "name": "合成生物学",
+    "entity_type": "key_technology",
+    "aliases": [
+      "synbio",
+      "synthetic biology",
+      "工程生物学"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "生物/合成",
+      "tags": [
+        "生物制造",
+        "代谢工程",
+        "基因合成"
+      ]
+    }
+  },
+  {
+    "name": "高温合金",
+    "entity_type": "key_technology",
+    "aliases": [
+      "超级合金",
+      "镍基高温合金",
+      "superalloy"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "材料/金属",
+      "tags": [
+        "航空发动机",
+        "燃气轮机",
+        "卡脖子"
+      ]
+    }
+  },
+  {
+    "name": "稀土永磁材料",
+    "entity_type": "key_technology",
+    "aliases": [
+      "钕铁硼",
+      "NdFeB",
+      "稀土永磁",
+      "永磁体"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "材料/磁性",
+      "tags": [
+        "新能源车",
+        "风电",
+        "机器人",
+        "稀土"
+      ]
+    }
+  },
+  {
+    "name": "钙钛矿光伏",
+    "entity_type": "key_technology",
+    "aliases": [
+      "钙钛矿太阳能电池",
+      "钙钛矿叠层",
+      "perovskite"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "能源/光伏",
+      "tags": [
+        "光伏",
+        "钙钛矿",
+        "第三代光伏"
+      ]
+    }
+  },
+  {
+    "name": "相控阵雷达",
+    "entity_type": "key_technology",
+    "aliases": [
+      "AESA",
+      "相控阵",
+      "phased array radar",
+      "有源电子扫描阵列"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "军工/雷达",
+      "tags": [
+        "两用技术",
+        "氮化镓",
+        "低空防御"
+      ]
+    }
+  },
+  {
+    "name": "电磁弹射",
+    "entity_type": "key_technology",
+    "aliases": [
+      "电磁弹射器",
+      "EMALS",
+      "电磁发射"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "军工/舰船",
+      "tags": [
+        "航母",
+        "电磁技术",
+        "福特级"
+      ]
+    }
+  },
+  {
+    "name": "高超音速武器",
+    "entity_type": "key_technology",
+    "aliases": [
+      "高超音速导弹",
+      "hypersonic weapon",
+      "滑翔飞行器",
+      "HGV"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "军工/导弹",
+      "tags": [
+        "高超音速",
+        "威慑",
+        "高超音速飞行"
+      ]
+    }
+  },
+  {
+    "name": "隐身涂层",
+    "entity_type": "key_technology",
+    "aliases": [
+      "雷达隐身涂层",
+      "stealth coating",
+      "隐身材料"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "军工/材料",
+      "tags": [
+        "隐身技术",
+        "航空",
+        "雷达吸收"
+      ]
+    }
+  },
+  {
+    "name": "量子计算",
+    "entity_type": "key_technology",
+    "aliases": [
+      "量子计算机",
+      "quantum computing",
+      "超导量子",
+      "量子比特"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "计算/量子",
+      "tags": [
+        "量子纠错",
+        "量子霸权",
+        "后量子密码"
+      ]
+    }
+  },
+  {
+    "name": "量子通信",
+    "entity_type": "key_technology",
+    "aliases": [
+      "量子密钥分发",
+      "QKD",
+      "quantum communication",
+      "量子隐形传态"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "通信/量子",
+      "tags": [
+        "量子安全",
+        "墨子号",
+        "保密通信"
+      ]
+    }
+  },
+  {
+    "name": "硅光集成",
+    "entity_type": "key_technology",
+    "aliases": [
+      "硅光子学",
+      "silicon photonics",
+      "光电集成",
+      "硅基光电子"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "通信/光电子",
+      "tags": [
+        "光通信",
+        "数据中心",
+        "先进封装"
+      ]
+    }
+  },
+  {
+    "name": "存算一体",
+    "entity_type": "key_technology",
+    "aliases": [
+      "computing-in-memory",
+      "CIM",
+      "近存计算",
+      "processing-in-memory",
+      "PIM"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "计算/架构",
+      "tags": [
+        "AI芯片",
+        "类脑计算",
+        "低功耗"
+      ]
+    }
+  },
+  {
+    "name": "氢燃料电池",
+    "entity_type": "key_technology",
+    "aliases": [
+      "PEM燃料电池",
+      "固体氧化物燃料电池",
+      "SOFC",
+      "fuel cell"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "能源/电池",
+      "tags": [
+        "氢能",
+        "新能源车",
+        "商用车"
+      ]
+    }
+  },
+  {
+    "name": "液流电池",
+    "entity_type": "key_technology",
+    "aliases": [
+      "全钒液流电池",
+      "铁铬液流电池",
+      "flow battery"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "能源/储能",
+      "tags": [
+        "长时储能",
+        "电网",
+        "可再生能源"
+      ]
+    }
+  },
+  {
+    "name": "第四代核电",
+    "entity_type": "key_technology",
+    "aliases": [
+      "Gen IV核能",
+      "高温气冷堆",
+      "钠冷快堆",
+      "钍基熔盐堆",
+      "铅冷快堆"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "能源/核能",
+      "tags": [
+        "核电",
+        "清洁能源",
+        "固有安全"
+      ]
+    }
+  }
+]

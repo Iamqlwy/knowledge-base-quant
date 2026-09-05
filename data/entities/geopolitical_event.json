@@ -1,0 +1,206 @@
+[
+  {
+    "name": "中美科技脱钩",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "中美科技战",
+      "中美科技竞争",
+      "中美脱钩",
+      "科技脱钩",
+      "对华芯片管制",
+      "芯片禁运",
+      "中美芯片战"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "中美博弈/科技",
+      "start_year": 2018,
+      "status": "ongoing",
+      "tags": ["半导体", "出口管制", "实体清单", "技术封锁"]
+    }
+  },
+  {
+    "name": "俄乌冲突",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "俄乌战争",
+      "乌克兰危机",
+      "Russia-Ukraine",
+      "乌克兰局势",
+      "俄乌局势"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "地缘冲突/欧洲",
+      "start_year": 2022,
+      "status": "ongoing",
+      "tags": ["能源", "粮食", "供应链", "制裁"]
+    }
+  },
+  {
+    "name": "巴以冲突",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "巴以战争",
+      "以色列-哈马斯",
+      "加沙冲突",
+      "中东冲突",
+      "以色列战争"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "地缘冲突/中东",
+      "start_year": 2023,
+      "status": "ongoing",
+      "tags": ["能源", "航运", "红海", "地缘风险"]
+    }
+  },
+  {
+    "name": "台海局势",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "台海紧张",
+      "台海危机",
+      "台湾局势",
+      "两岸关系"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "地缘博弈/东亚",
+      "status": "ongoing",
+      "tags": ["半导体", "供应链", "地缘风险"]
+    }
+  },
+  {
+    "name": "中美贸易摩擦",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "中美贸易战",
+      "中美关税",
+      "对华关税",
+      "301调查",
+      "中美贸易争端"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "中美博弈/贸易",
+      "start_year": 2018,
+      "status": "ongoing",
+      "tags": ["关税", "出口", "供应链转移"]
+    }
+  },
+  {
+    "name": "红海危机",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "胡塞武装",
+      "红海航运",
+      "苏伊士运河危机",
+      "也门胡塞"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "地缘冲突/航运",
+      "start_year": 2023,
+      "status": "ongoing",
+      "tags": ["航运", "供应链", "运费", "能源"]
+    }
+  },
+  {
+    "name": "朝鲜半岛局势",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "朝核问题",
+      "朝鲜危机",
+      "韩朝关系",
+      "朝鲜半岛紧张"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "地缘博弈/东亚",
+      "status": "ongoing",
+      "tags": ["地缘风险", "军工", "东北亚"]
+    }
+  },
+  {
+    "name": "南海争端",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "南海问题",
+      "南海局势",
+      "南海仲裁"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "地缘博弈/东亚",
+      "status": "ongoing",
+      "tags": ["航运", "能源", "地缘风险", "东盟"]
+    }
+  },
+  {
+    "name": "西方对俄制裁",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "俄罗斯制裁",
+      "SWIFT制裁",
+      "俄罗斯石油禁运",
+      "对俄出口管制"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "制裁/俄罗斯",
+      "start_year": 2022,
+      "status": "ongoing",
+      "tags": ["能源", "金融制裁", "供应链"]
+    }
+  },
+  {
+    "name": "伊核问题",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "伊朗核问题",
+      "伊朗制裁",
+      "伊核协议",
+      "JCPOA"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "制裁/中东",
+      "status": "ongoing",
+      "tags": ["能源", "石油", "制裁"]
+    }
+  },
+  {
+    "name": "中美金融博弈",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "中美金融摩擦",
+      "人民币国际化",
+      "去美元化",
+      "金融制裁"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "中美博弈/金融",
+      "status": "ongoing",
+      "tags": ["汇率", "人民币", "SWIFT", "外汇储备"]
+    }
+  },
+  {
+    "name": "全球供应链重组",
+    "entity_type": "geopolitical_event",
+    "aliases": [
+      "供应链转移",
+      "产业外迁",
+      "近岸外包",
+      "友岸外包",
+      "供应链多元化"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "供应链/全球化",
+      "status": "ongoing",
+      "tags": ["制造业", "供应链", "全球化"]
+    }
+  }
+]

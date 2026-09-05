@@ -1,0 +1,1494 @@
+[
+  {
+    "name": "中国",
+    "entity_type": "region",
+    "aliases": [
+      "China",
+      "中国大陆"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "全球第二大经济体",
+        "A股"
+      ]
+    }
+  },
+  {
+    "name": "美国",
+    "entity_type": "region",
+    "aliases": [
+      "United States",
+      "美国"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "全球最大经济体",
+        "美股",
+        "美元霸权"
+      ]
+    }
+  },
+  {
+    "name": "欧盟",
+    "entity_type": "region",
+    "aliases": [
+      "European Union"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "欧元区",
+        "单一市场"
+      ]
+    }
+  },
+  {
+    "name": "日本",
+    "entity_type": "region",
+    "aliases": [
+      "Japan"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "发达经济体",
+        "套息交易"
+      ]
+    }
+  },
+  {
+    "name": "德国",
+    "entity_type": "region",
+    "aliases": [
+      "Germany"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "欧洲最大经济体",
+        "制造业强国"
+      ]
+    }
+  },
+  {
+    "name": "法国",
+    "entity_type": "region",
+    "aliases": [
+      "France"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "欧元区核心"
+      ]
+    }
+  },
+  {
+    "name": "英国",
+    "entity_type": "region",
+    "aliases": [
+      "United Kingdom"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "脱欧",
+        "金融中心"
+      ]
+    }
+  },
+  {
+    "name": "韩国",
+    "entity_type": "region",
+    "aliases": [
+      "South Korea",
+      "韩国"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "半导体",
+        "出口导向"
+      ]
+    }
+  },
+  {
+    "name": "印度",
+    "entity_type": "region",
+    "aliases": [
+      "India"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "人口红利",
+        "产业链替代"
+      ]
+    }
+  },
+  {
+    "name": "俄罗斯",
+    "entity_type": "region",
+    "aliases": [
+      "Russia"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "能源出口",
+        "制裁"
+      ]
+    }
+  },
+  {
+    "name": "巴西",
+    "entity_type": "region",
+    "aliases": [
+      "Brazil"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "大宗商品",
+        "金砖"
+      ]
+    }
+  },
+  {
+    "name": "澳大利亚",
+    "entity_type": "region",
+    "aliases": [
+      "Australia",
+      "澳洲"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "铁矿石",
+        "资源出口"
+      ]
+    }
+  },
+  {
+    "name": "加拿大",
+    "entity_type": "region",
+    "aliases": [
+      "Canada"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "石油",
+        "资源"
+      ]
+    }
+  },
+  {
+    "name": "意大利",
+    "entity_type": "region",
+    "aliases": [
+      "Italy"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "欧元区"
+      ]
+    }
+  },
+  {
+    "name": "西班牙",
+    "entity_type": "region",
+    "aliases": [
+      "Spain"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "欧元区"
+      ]
+    }
+  },
+  {
+    "name": "荷兰",
+    "entity_type": "region",
+    "aliases": [
+      "Netherlands"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "ASML",
+        "半导体设备"
+      ]
+    }
+  },
+  {
+    "name": "瑞士",
+    "entity_type": "region",
+    "aliases": [
+      "Switzerland"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "避险货币",
+        "私人银行"
+      ]
+    }
+  },
+  {
+    "name": "新加坡",
+    "entity_type": "region",
+    "aliases": [
+      "Singapore"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "金融中心",
+        "东南亚枢纽"
+      ]
+    }
+  },
+  {
+    "name": "香港",
+    "entity_type": "region",
+    "aliases": [
+      "Hong Kong",
+      "中国香港"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "离岸人民币",
+        "港股",
+        "国际金融中心"
+      ]
+    }
+  },
+  {
+    "name": "台湾",
+    "entity_type": "region",
+    "aliases": [
+      "Taiwan",
+      "中国台湾"
+    ],
+    "metadata": {
+      "region_type": "developed",
+      "tags": [
+        "半导体",
+        "台积电",
+        "地缘风险"
+      ]
+    }
+  },
+  {
+    "name": "越南",
+    "entity_type": "region",
+    "aliases": [
+      "Vietnam"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "产业链转移",
+        "制造业"
+      ]
+    }
+  },
+  {
+    "name": "印尼",
+    "entity_type": "region",
+    "aliases": [
+      "Indonesia",
+      "印度尼西亚"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "镍矿",
+        "东盟"
+      ]
+    }
+  },
+  {
+    "name": "马来西亚",
+    "entity_type": "region",
+    "aliases": [
+      "Malaysia"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "半导体封装",
+        "东盟"
+      ]
+    }
+  },
+  {
+    "name": "泰国",
+    "entity_type": "region",
+    "aliases": [
+      "Thailand"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "旅游",
+        "东盟"
+      ]
+    }
+  },
+  {
+    "name": "沙特阿拉伯",
+    "entity_type": "region",
+    "aliases": [
+      "Saudi Arabia",
+      "沙特"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "OPEC",
+        "石油",
+        "主权基金"
+      ]
+    }
+  },
+  {
+    "name": "伊朗",
+    "entity_type": "region",
+    "aliases": [
+      "Iran",
+      "波斯"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "OPEC",
+        "石油",
+        "制裁",
+        "中东"
+      ]
+    }
+  },
+  {
+    "name": "朝鲜",
+    "entity_type": "region",
+    "aliases": [
+      "North Korea",
+      "北朝鲜"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "地缘风险",
+        "核问题",
+        "东北亚"
+      ]
+    }
+  },
+  {
+    "name": "土耳其",
+    "entity_type": "region",
+    "aliases": [
+      "Turkey",
+      "Türkiye"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "新兴市场",
+        "中东",
+        "北约"
+      ]
+    }
+  },
+  {
+    "name": "墨西哥",
+    "entity_type": "region",
+    "aliases": [
+      "Mexico"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "北美",
+        "供应链",
+        "USMCA"
+      ]
+    }
+  },
+  {
+    "name": "阿根廷",
+    "entity_type": "region",
+    "aliases": [
+      "Argentina"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "主权债务",
+        "大宗商品",
+        "南美"
+      ]
+    }
+  },
+  {
+    "name": "南非",
+    "entity_type": "region",
+    "aliases": [
+      "South Africa",
+      "南非共和国"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "金砖",
+        "大宗商品",
+        "非洲"
+      ]
+    }
+  },
+  {
+    "name": "阿联酋",
+    "entity_type": "region",
+    "aliases": [
+      "UAE",
+      "United Arab Emirates",
+      "阿拉伯联合酋长国",
+      "迪拜"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "OPEC",
+        "石油",
+        "主权基金",
+        "中东"
+      ]
+    }
+  },
+  {
+    "name": "巴基斯坦",
+    "entity_type": "region",
+    "aliases": [
+      "Pakistan"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "南亚",
+        "一带一路"
+      ]
+    }
+  },
+  {
+    "name": "菲律宾",
+    "entity_type": "region",
+    "aliases": [
+      "Philippines"
+    ],
+    "metadata": {
+      "region_type": "emerging",
+      "tags": [
+        "东盟",
+        "南海",
+        "东南亚"
+      ]
+    }
+  },
+  {
+    "name": "蒙古",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "老挝",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "柬埔寨",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "缅甸",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "文莱",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "印度尼西亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "东帝汶",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "尼泊尔",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "不丹",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "孟加拉国",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "斯里兰卡",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "马尔代夫",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "哈萨克斯坦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "吉尔吉斯斯坦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "塔吉克斯坦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "乌兹别克斯坦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "土库曼斯坦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "阿富汗",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "伊拉克",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "叙利亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "约旦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "黎巴嫩",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "以色列",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "巴勒斯坦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "巴林",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "卡塔尔",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "科威特",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "阿曼",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "也门",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "格鲁吉亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "亚美尼亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "阿塞拜疆",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "塞浦路斯",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "芬兰",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "瑞典",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "挪威",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "冰岛",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "丹麦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "爱沙尼亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "拉脱维亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "立陶宛",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "白俄罗斯",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "乌克兰",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "摩尔多瓦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "波兰",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "捷克",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "斯洛伐克",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "匈牙利",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "奥地利",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "列支敦士登",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "爱尔兰",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "比利时",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "卢森堡",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "摩纳哥",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "罗马尼亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "保加利亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "塞尔维亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "北马其顿",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "阿尔巴尼亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "希腊",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "斯洛文尼亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "克罗地亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "波斯尼亚和黑塞哥维那",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "梵蒂冈",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "圣马力诺",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "马耳他",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "葡萄牙",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "安道尔",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "科索沃",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "埃及",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "利比亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "苏丹",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "突尼斯",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "阿尔及利亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "摩洛哥",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "埃塞俄比亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "厄立特里亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "索马里",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "吉布提",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "肯尼亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "坦桑尼亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "乌干达",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "卢旺达",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "布隆迪",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "塞舌尔",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "乍得",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "中非",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "喀麦隆",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "赤道几内亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "加蓬",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "刚果共和国",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "刚果民主共和国",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "圣多美和普林西比",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "毛里塔尼亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "塞内加尔",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "冈比亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "马里",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "布基纳法索",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "几内亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "几内亚比绍",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "佛得角",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "塞拉利昂",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "利比里亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "科特迪瓦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "加纳",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "多哥",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "贝宁",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "尼日尔",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "赞比亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "安哥拉",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "津巴布韦",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "马拉维",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "莫桑比克",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "博茨瓦纳",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "纳米比亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "斯威士兰",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "莱索托",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "马达加斯加",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "科摩罗",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "毛里求斯",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "危地马拉",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "伯利兹",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "洪都拉斯",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "萨尔瓦多",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "尼加拉瓜",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "哥斯达黎加",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "巴拿马",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "巴哈马",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "古巴",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "牙买加",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "海地",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "多米尼加",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "安提瓜和巴布达",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "圣基茨和尼维斯",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "多米尼克",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "圣卢西亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "圣文森特和格林纳丁斯",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "格林纳达",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "巴巴多斯",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "特立尼达和多巴哥",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "哥伦比亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "委内瑞拉",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "厄瓜多尔",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "秘鲁",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "玻利维亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "巴拉圭",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "智利",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "乌拉圭",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "圭亚那",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "苏里南",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "新西兰",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "巴布亚新几内亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "斐济",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "所罗门群岛",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "瓦努阿图",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "萨摩亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "汤加",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "密克罗尼西亚",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "马绍尔群岛",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "帕劳",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "瑙鲁",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "基里巴斯",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "图瓦卢",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "纽埃",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  },
+  {
+    "name": "库克群岛",
+    "entity_type": "region",
+    "aliases": [],
+    "metadata": {}
+  }
+]

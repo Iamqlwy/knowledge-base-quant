@@ -1,0 +1,395 @@
+[
+  {
+    "name": "非洲猪瘟",
+    "entity_type": "epidemic",
+    "aliases": [
+      "ASF",
+      "African Swine Fever",
+      "猪瘟"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "畜牧/猪",
+      "first_outbreak": "2018-08",
+      "region": "中国/全球",
+      "severity": "high",
+      "impact": "生猪存栏、猪肉价格、饲料需求",
+      "tags": [
+        "生猪",
+        "CPI",
+        "饲料",
+        "肉类"
+      ]
+    }
+  },
+  {
+    "name": "禽流感",
+    "entity_type": "epidemic",
+    "aliases": [
+      "H5N1",
+      "H7N9",
+      "H5N8",
+      "Avian Influenza",
+      "高致病性禽流感"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "畜牧/禽类",
+      "severity": "high",
+      "impact": "禽肉/蛋类价格、饲料需求、出口禁令",
+      "tags": [
+        "家禽",
+        "鸡蛋",
+        "饲料",
+        "CPI"
+      ]
+    }
+  },
+  {
+    "name": "口蹄疫",
+    "entity_type": "epidemic",
+    "aliases": [
+      "FMD",
+      "Foot-and-Mouth Disease"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "畜牧/偶蹄动物",
+      "severity": "high",
+      "impact": "活畜运输限制、肉类出口、养殖业",
+      "tags": [
+        "生猪",
+        "牛羊",
+        "肉类",
+        "出口"
+      ]
+    }
+  },
+  {
+    "name": "猪蓝耳病",
+    "entity_type": "epidemic",
+    "aliases": [
+      "PRRS",
+      "猪繁殖与呼吸综合征",
+      "蓝耳",
+      "Porcine Reproductive and Respiratory Syndrome"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "畜牧/猪",
+      "severity": "medium",
+      "impact": "生猪产能、仔猪存活率、养殖成本",
+      "tags": [
+        "生猪",
+        "养殖",
+        "饲料"
+      ]
+    }
+  },
+  {
+    "name": "新冠病毒",
+    "entity_type": "epidemic",
+    "aliases": [
+      "COVID-19",
+      "新冠疫情",
+      "新型冠状病毒",
+      "SARS-CoV-2",
+      "肺炎疫情"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "传染病/呼吸道",
+      "first_outbreak": "2020-01",
+      "region": "全球",
+      "severity": "high",
+      "impact": "供应链中断、财政刺激、消费习惯、远程办公",
+      "tags": [
+        "宏观",
+        "供应链",
+        "消费",
+        "大宗商品"
+      ]
+    }
+  },
+  {
+    "name": "小麦锈病",
+    "entity_type": "epidemic",
+    "aliases": [
+      "条锈病",
+      "叶锈病",
+      "秆锈病",
+      "锈病爆发"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "农业/小麦",
+      "severity": "medium",
+      "impact": "小麦产量、粮食价格、进口需求",
+      "tags": [
+        "小麦",
+        "粮食",
+        "农产品"
+      ]
+    }
+  },
+  {
+    "name": "稻瘟病",
+    "entity_type": "epidemic",
+    "aliases": [
+      "水稻稻瘟病",
+      "稻热病",
+      "rice blast"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "农业/水稻",
+      "severity": "medium",
+      "impact": "水稻产量、粮食安全",
+      "tags": [
+        "水稻",
+        "粮食",
+        "亚洲"
+      ]
+    }
+  },
+  {
+    "name": "草地贪夜蛾",
+    "entity_type": "epidemic",
+    "aliases": [
+      "秋粘虫",
+      "fall armyworm",
+      "Spodoptera frugiperda"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "农业/虫害",
+      "first_outbreak": "2019-01",
+      "region": "中国/全球",
+      "severity": "medium",
+      "impact": "玉米产量、农药需求",
+      "tags": [
+        "玉米",
+        "农药",
+        "粮食"
+      ]
+    }
+  },
+  {
+    "name": "蝗灾",
+    "entity_type": "epidemic",
+    "aliases": [
+      "沙漠蝗",
+      "locust plague"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "农业/虫害",
+      "region": "非洲/南亚/中东",
+      "severity": "high",
+      "impact": "粮食产量、粮价、人道主义危机",
+      "tags": [
+        "粮食",
+        "小麦",
+        "农产品",
+        "非洲"
+      ]
+    }
+  },
+  {
+    "name": "猴痘",
+    "entity_type": "epidemic",
+    "aliases": [
+      "mpox",
+      "Monkeypox",
+      "猴痘疫情"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "传染病/人畜共患",
+      "first_outbreak": "2022-05",
+      "region": "全球",
+      "severity": "low",
+      "impact": "国际旅行、医药需求",
+      "tags": [
+        "医药",
+        "公共卫生"
+      ]
+    }
+  },
+  {
+    "name": "炭疽病",
+    "entity_type": "epidemic",
+    "aliases": [
+      "anthrax",
+      "皮肤炭疽",
+      "肺炭疽"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "传染病/人畜共患",
+      "severity": "low",
+      "impact": "畜产品贸易、养殖业",
+      "tags": [
+        "畜牧",
+        "牛羊肉",
+        "贸易"
+      ]
+    }
+  },
+  {
+    "name": "柑橘黄龙病",
+    "entity_type": "epidemic",
+    "aliases": [
+      "黄龙病",
+      "HLB",
+      "citrus greening"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "农业/柑橘",
+      "region": "全球柑橘产区",
+      "severity": "high",
+      "impact": "柑橘产量、橙汁价格",
+      "tags": [
+        "柑橘",
+        "水果",
+        "橙汁"
+      ]
+    }
+  },
+  {
+    "name": "流感",
+    "entity_type": "epidemic",
+    "aliases": [
+      "季节性流感",
+      "甲型流感",
+      "乙型流感",
+      "H1N1",
+      "H3N2",
+      "流行性感冒",
+      "influenza"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "传染病/呼吸道",
+      "region": "全球",
+      "severity": "medium",
+      "impact": "劳动缺勤、医疗系统负担、消费出行减少",
+      "tags": [
+        "公共卫生",
+        "疫苗",
+        "抗病毒药"
+      ]
+    }
+  },
+  {
+    "name": "埃博拉",
+    "entity_type": "epidemic",
+    "aliases": [
+      "埃博拉出血热",
+      "Ebola virus",
+      "EVD"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "传染病/出血热",
+      "region": "非洲",
+      "severity": "high",
+      "impact": "矿区停产、跨境贸易中断、大宗商品(钴/铜)供给",
+      "tags": [
+        "公共卫生",
+        "非洲",
+        "矿业",
+        "疫苗"
+      ]
+    }
+  },
+  {
+    "name": "登革热",
+    "entity_type": "epidemic",
+    "aliases": [
+      "登革出血热",
+      "Dengue",
+      "DENV"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "传染病/虫媒",
+      "region": "东南亚/南亚/拉美",
+      "severity": "medium",
+      "impact": "旅游业、劳动力供给",
+      "tags": [
+        "公共卫生",
+        "蚊媒",
+        "热带",
+        "东南亚"
+      ]
+    }
+  },
+  {
+    "name": "基孔肯雅热",
+    "entity_type": "epidemic",
+    "aliases": [
+      "Chikungunya",
+      "CHIKV",
+      "基孔肯雅"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "传染病/虫媒",
+      "region": "非洲/东南亚/南亚/拉美",
+      "severity": "low",
+      "impact": "旅游业、劳动力供给",
+      "tags": [
+        "公共卫生",
+        "蚊媒",
+        "热带"
+      ]
+    }
+  },
+  {
+    "name": "艾滋",
+    "entity_type": "epidemic",
+    "aliases": [
+      "艾滋病",
+      "HIV",
+      "人类免疫缺陷病毒",
+      "Acquired Immunodeficiency Syndrome"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "传染病/慢性",
+      "region": "全球(非洲最严重)",
+      "severity": "high",
+      "impact": "劳动力损失、医疗支出、非洲经济",
+      "tags": [
+        "公共卫生",
+        "慢性病",
+        "非洲",
+        "抗病毒"
+      ]
+    }
+  },
+  {
+    "name": "尼帕病毒",
+    "entity_type": "epidemic",
+    "aliases": [
+      "Nipah virus",
+      "NiV",
+      "尼帕脑炎"
+    ],
+    "metadata": {
+      "source": "manual_curation",
+      "domain": "传染病/人畜共患",
+      "region": "东南亚/南亚",
+      "severity": "high",
+      "impact": "养殖业恐慌、贸易限制",
+      "tags": [
+        "公共卫生",
+        "人畜共患",
+        "孟加拉",
+        "马来西亚"
+      ]
+    }
+  }
+]

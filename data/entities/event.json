@@ -1,0 +1,254 @@
+[
+  {
+    "name": "全国两会",
+    "entity_type": "event",
+    "aliases": [
+      "两会",
+      "Two Sessions",
+      "人大政协会议"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 3,
+      "description": "全国人民代表大会和中国人民政治协商会议"
+    }
+  },
+  {
+    "name": "中央经济工作会议",
+    "entity_type": "event",
+    "aliases": [
+      "经济工作会议",
+      "Central Economic Work Conference"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 12,
+      "description": "定调次年经济政策方向"
+    }
+  },
+  {
+    "name": "政治局会议（经济议题）",
+    "entity_type": "event",
+    "aliases": [
+      "政治局会议",
+      "Politburo Meeting"
+    ],
+    "metadata": {
+      "frequency": "quarterly",
+      "months": [
+        4,
+        7,
+        10,
+        12
+      ],
+      "description": "每年4/7/10/12月讨论经济议题"
+    }
+  },
+  {
+    "name": "美联储议息会议",
+    "entity_type": "event",
+    "aliases": [
+      "FOMC",
+      "美联储议息"
+    ],
+    "metadata": {
+      "frequency": "8次/年",
+      "description": "联邦公开市场委员会利率决议"
+    }
+  },
+  {
+    "name": "杰克逊霍尔央行年会",
+    "entity_type": "event",
+    "aliases": [
+      "杰克逊霍尔",
+      "Jackson Hole"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 8,
+      "description": "全球央行官员年度会议"
+    }
+  },
+  {
+    "name": "陆家嘴论坛",
+    "entity_type": "event",
+    "aliases": [
+      "陆家嘴论坛",
+      "陆家嘴金融论坛",
+      "Lujiazui Forum"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 6,
+      "description": "中国金融监管官员发表政策信号的重要场合"
+    }
+  },
+  {
+    "name": "博鳌亚洲论坛",
+    "entity_type": "event",
+    "aliases": [
+      "博鳌",
+      "Boao Forum"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "months": [
+        3,
+        4
+      ],
+      "description": "亚洲政商界年度论坛"
+    }
+  },
+  {
+    "name": "A股财报季（一季报）",
+    "entity_type": "event",
+    "aliases": [
+      "一季报",
+      "Q1 earnings season"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 4,
+      "description": "A股一季度业绩披露密集期"
+    }
+  },
+  {
+    "name": "A股财报季（中报）",
+    "entity_type": "event",
+    "aliases": [
+      "中报",
+      "半年报",
+      "H1 earnings season"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 8,
+      "description": "A股半年度业绩披露密集期"
+    }
+  },
+  {
+    "name": "A股财报季（三季报）",
+    "entity_type": "event",
+    "aliases": [
+      "三季报",
+      "Q3 earnings season"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 10,
+      "description": "A股三季度业绩披露密集期"
+    }
+  },
+  {
+    "name": "A股财报季（年报）",
+    "entity_type": "event",
+    "aliases": [
+      "年报",
+      "annual report season"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 4,
+      "description": "A股年度业绩披露密集期（截止4月底）"
+    }
+  },
+  {
+    "name": "MSCI季度调仓",
+    "entity_type": "event",
+    "aliases": [
+      "MSCI调仓",
+      "MSCI季度调整",
+      "MSCI rebalancing",
+      "MSCI季度调仓"
+    ],
+    "metadata": {
+      "frequency": "quarterly",
+      "months": [
+        2,
+        5,
+        8,
+        11
+      ],
+      "description": "MSCI指数成分股季度调整生效日"
+    }
+  },
+  {
+    "name": "双十一",
+    "entity_type": "event",
+    "aliases": [
+      "双11",
+      "双十一",
+      "Double 11"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 11,
+      "description": "中国最大电商促销节，消费板块关键观察点"
+    }
+  },
+  {
+    "name": "OPEC+会议",
+    "entity_type": "event",
+    "aliases": [
+      "OPEC+",
+      "OPEC meeting"
+    ],
+    "metadata": {
+      "frequency": "monthly",
+      "description": "石油输出国组织及其盟友产量决策会议"
+    }
+  },
+  {
+    "name": "巴菲特股东大会",
+    "entity_type": "event",
+    "aliases": [
+      "巴菲特股东大会",
+      "Berkshire Hathaway Annual Meeting",
+      "伯克希尔股东大会"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 5,
+      "description": "伯克希尔·哈撒韦年度股东大会"
+    }
+  },
+  {
+    "name": "苹果WWDC",
+    "entity_type": "event",
+    "aliases": [
+      "WWDC",
+      "苹果全球开发者大会"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 6,
+      "description": "苹果全球开发者大会，发布新技术方向"
+    }
+  },
+  {
+    "name": "NVIDIA GTC",
+    "entity_type": "event",
+    "aliases": [
+      "NVIDIA GTC",
+      "GTC大会"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 3,
+      "description": "英伟达GPU技术大会，AI硬件重要风向标"
+    }
+  },
+  {
+    "name": "CES消费电子展",
+    "entity_type": "event",
+    "aliases": [
+      "CES消费电子展",
+      "Consumer Electronics Show"
+    ],
+    "metadata": {
+      "frequency": "annual",
+      "month": 1,
+      "description": "全球最大消费电子展"
+    }
+  }
+]

@@ -1,0 +1,3133 @@
+[
+  {
+    "sample_id": 0,
+    "datetime": "2026-03-09 09:00:08",
+    "content": "  澳大利亚S&P/ASX 200 指数 下跌 4.1%，至 8492.20 点，为 2025 年 11 月 24 日以来最低水平。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "澳大利亚",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 2,
+        "matched_terms": [
+          "澳大利亚"
+        ],
+        "importance": 0.0795,
+        "tf_score": 1.0,
+        "idf_score": 0.3793,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 1,
+    "datetime": "2025-11-19 07:01:20",
+    "content": "Stellantis：从2026年起在北美，2027年起在日本和韩国，该公司的客户可以在特斯拉超级充电站为兼容的纯电动汽车充电。",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "Tesla",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 44,
+        "matched_terms": [
+          "特斯拉"
+        ],
+        "importance": 0.66,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "韩国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 32,
+        "matched_terms": [
+          "韩国"
+        ],
+        "importance": 0.0653,
+        "tf_score": 1.0,
+        "idf_score": 0.3105,
+        "position_score": 0.3
+      },
+      {
+        "name": "日本",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 29,
+        "matched_terms": [
+          "日本"
+        ],
+        "importance": 0.064,
+        "tf_score": 1.0,
+        "idf_score": 0.2609,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 2,
+    "datetime": "2025-01-23 19:22:31",
+    "content": "【国家能源局：分布式光伏发电累计装机达3.7亿千瓦】最新数据显示，截至2024年底，分布式光伏发电累计装机达3.7亿千瓦，是2013年底的121倍，占全部光伏发电装机的42%。在新增装机方面，2024年分布式光伏发电新增装机达1.2亿千瓦，占当年新增光伏发电装机的43%。在发电量方面，2024年分布式光伏发电量3462亿千瓦时，占光伏发电量的41%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "国家能源局",
+        "entity_type": "institution",
+        "occurrences": 1,
+        "first_position": 1,
+        "matched_terms": [
+          "国家能源局"
+        ],
+        "importance": 0.57,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 3,
+    "datetime": "2025-06-18 16:47:26",
+    "content": "哈萨克斯坦财政部表示，计划发行价值25亿美元的欧洲债券。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "哈萨克斯坦",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "哈萨克斯坦"
+        ],
+        "importance": 0.082,
+        "tf_score": 1.0,
+        "idf_score": 0.4809,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 4,
+    "datetime": "2025-10-01 22:27:16",
+    "content": "【跳楼机高空载客悬停 郑州方特致歉】10月1日晚，郑州方特旅游度假区发布情况说明称，针对9月30日下午“重力风暴”项目运行异常问题，给大家带来不便与担忧，景区致以最诚挚的歉意。2025年9月30日15时，“重力风暴”项目运行至顶端时，因外部电压波动触发直流电机调速器保护机制，导致设备停机4分钟。现场立即启动应急预案，释放座舱安全降落，28名游客全部平安落地，无人员受伤。事件发生后，园区立即对全部设备进行安全检查，经检查所有设备安全后，该项目当天恢复运营。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 5,
+    "datetime": "2026-01-23 18:05:58",
+    "content": "【中国证监会：明确业绩比较基准应当与基金合同约定的核心要素和产品投资风格相匹配】中国证监会发布《公开募集证券投资基金业绩比较基准指引》。《指引》共六章二十一条，主要内容包括：一是突出业绩比较基准的表征作用，强调业绩比较基准运用的严肃性和稳定性。明确业绩比较基准应当与基金合同约定的核心要素和产品投资风格相匹配，一经选定不得随意变更。二是强化基金管理人的内部控制和管理。明确业绩比较基准应当由公司管理层决策确定，基金管理人应当建立健全内控机制和管理体系，加强对基金经理、基金产品投资风格稳定性的持续管理。三是加强对业绩比较基准的外部约束。明确基金托管人的监督职责，规范基金销售机构、基金评价机构对业绩比较基准的展示、运用等行为，要求基金管理人、基金销售机构做好投资者教育等工作。四是严格监管。中国证监会及其派出机构依法对基金管理人、基金托管人、基金销售机构、基金评价机构及从业人员的违法违规行为进行处理。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "中国证监会",
+        "entity_type": "institution",
+        "occurrences": 3,
+        "first_position": 1,
+        "matched_terms": [
+          "中国证监会"
+        ],
+        "importance": 0.57,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "中国",
+        "entity_type": "region",
+        "occurrences": 3,
+        "first_position": 1,
+        "matched_terms": [
+          "中国"
+        ],
+        "importance": 0.0744,
+        "tf_score": 1.0,
+        "idf_score": 0.1751,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 6,
+    "datetime": "2025-09-29 01:39:38",
+    "content": "卡塔尔：该国促成了在阿富汗的美国公民获释，获释的美国公民正前往多哈。",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "卡塔尔",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "卡塔尔"
+        ],
+        "importance": 0.071,
+        "tf_score": 0.6309,
+        "idf_score": 0.4095,
+        "position_score": 0.8
+      },
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 14,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.061,
+        "tf_score": 1.0,
+        "idf_score": 0.139,
+        "position_score": 0.3
+      },
+      {
+        "name": "阿富汗",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 10,
+        "matched_terms": [
+          "阿富汗"
+        ],
+        "importance": 0.061,
+        "tf_score": 0.6309,
+        "idf_score": 0.5098,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 7,
+    "datetime": "2025-06-14 11:43:30",
+    "content": "【第三届联合国海洋大会闭幕 发布《尼斯海洋行动计划》】13日，由法国和哥斯达黎加共同主办的第三届联合国海洋大会在法国尼斯闭幕，大会发布《尼斯海洋行动计划》，彰显了全球采取紧急行动保护蓝色星球共同未来的意愿。 联合国新闻公报说，该计划由两部分构成，包括一份名为《我们的海洋，我们的未来：团结起来采取紧急行动》的政治宣言，以及各国及相关实体作出的自愿承诺。其中，全球170多个国家和地区一致通过的这项政治宣言呼吁采取具体措施保护海洋，包括扩大海洋保护区、实现海运业脱碳、应对海洋污染、为脆弱的沿海和岛屿地区筹集资金等。 大会另一个成果是进一步推动海洋生物多样性保护进程。2023年，联合国通过《〈联合国海洋法公约〉下国家管辖范围以外区域海洋生物多样性的养护和可持续利用协定》，旨在加强对国际水域海洋生物的保护。据介绍，本次大会期间又有19个国家批准协定，距离协定正式生效更近了一步。（新华社）",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "法国",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 32,
+        "matched_terms": [
+          "法国"
+        ],
+        "importance": 0.0781,
+        "tf_score": 1.0,
+        "idf_score": 0.323,
+        "position_score": 0.8
+      },
+      {
+        "name": "哥斯达黎加",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 35,
+        "matched_terms": [
+          "哥斯达黎加"
+        ],
+        "importance": 0.0773,
+        "tf_score": 0.6309,
+        "idf_score": 0.6604,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 8,
+    "datetime": "2025-08-01 17:15:41",
+    "content": "【香港金管局：调查显示二季度中小企信贷大致保持稳定】香港金管局今日公布2025年第2季\"中小企贷款状况调查\"结果。调查显示，中小企信贷状况大致保持稳定。关于中小企对银行贷款批核取态（即难易程度）的观感，撇除回答\"没意见／不知道\"的受访者，65%认为银行在2025年第2季贷款批核的取态与6个月前相比\"没有分别\"或\"较容易\"，低于前一季的75%。35%认为银行的有关取态\"较困难\"，而上一季度则为25%。",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "香港金融管理局",
+        "entity_type": "institution",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "香港金管局"
+        ],
+        "importance": 0.5389,
+        "tf_score": 0.7925,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "银行",
+        "entity_type": "sector",
+        "occurrences": 3,
+        "first_position": 82,
+        "matched_terms": [
+          "银行"
+        ],
+        "importance": 0.2854,
+        "tf_score": 1.0,
+        "idf_score": 0.2373,
+        "position_score": 0.3
+      },
+      {
+        "name": "香港",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "香港"
+        ],
+        "importance": 0.0726,
+        "tf_score": 0.7925,
+        "idf_score": 0.3115,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 9,
+    "datetime": "2025-04-23 01:41:50",
+    "content": "美国白宫：哈佛已使自己处于可能失去联邦资金的境地，将在法庭上回应哈佛的诉讼。",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "白宫",
+        "entity_type": "institution",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "美国白宫"
+        ],
+        "importance": 0.57,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "哈佛大学",
+        "entity_type": "institution",
+        "occurrences": 1,
+        "first_position": 5,
+        "matched_terms": [
+          "哈佛"
+        ],
+        "importance": 0.54,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.6
+      },
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.0735,
+        "tf_score": 1.0,
+        "idf_score": 0.139,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 10,
+    "datetime": "2025-11-04 18:18:20",
+    "content": "【合富中国：2025年第三季度净利润亏损504.8万元】合富中国公告，公司股票价格于2025年11月3日、11月4日连续两个交易日内日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动情形。公司最新市盈率水平显著高于同行业上市公司水平，当前股价存在较大泡沫化特征。截至2025年11月4日，公司静态市盈率为171.11倍，根据同日中证指数有限公司网站发布的行业数据，公司所属的批发业的行业静态市盈率为28.9倍。公司业绩下滑并出现亏损，2025年第三季度归属上市公司股东的净利润为-504.8万元，较上年同期下降225.26%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "合富中国",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "合富中国"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 11,
+    "datetime": "2026-03-03 01:11:58",
+    "content": "北约秘书长吕特：北约“绝对没有计划”卷入与伊朗的冲突。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "北约",
+        "entity_type": "institution",
+        "occurrences": 2,
+        "first_position": 0,
+        "matched_terms": [
+          "北约"
+        ],
+        "importance": 0.57,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "伊朗",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 21,
+        "matched_terms": [
+          "伊朗"
+        ],
+        "importance": 0.055,
+        "tf_score": 0.6309,
+        "idf_score": 0.27,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 12,
+    "datetime": "2025-08-11 21:54:18",
+    "content": "AdvisorShares Pure美国大麻交易型开放式指数基金（ETF）上涨15.6%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 18,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.061,
+        "tf_score": 1.0,
+        "idf_score": 0.139,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 13,
+    "datetime": "2025-05-19 15:20:59",
+    "content": "【亿航智能考虑进行第二上市】在纳斯达克上市的电动垂直起降飞行器(eVTOL)生产商亿航智能正在考虑进行第二上市。首席财务官Conor Yang周一接受媒体采访时表示，“我们正在积极探索在美国以外上市的不同备选方案”。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "低空经济",
+        "entity_type": "policy",
+        "occurrences": 1,
+        "first_position": 32,
+        "matched_terms": [
+          "eVTOL"
+        ],
+        "importance": 0.66,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 93,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.061,
+        "tf_score": 1.0,
+        "idf_score": 0.139,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 14,
+    "datetime": "2025-10-20 13:24:47",
+    "content": "【西子洁能：1-2年内争取实现每年获3-5亿元核电订单】近日，西子洁能相关负责人表示，按每年核准10台核电机组计算，公司每年可参与的核电市场规模预计在40亿元左右，公司短期规划是1-2年内争取实现每年获3-5亿元的订单，依靠市占率提升和新业务拓展，中长期计划每年新增10-20亿元核电订单，“准备参与核后端的乏燃料处理、乏燃料容器、核电相关的仪器仪表、核实物保护设施、核聚变相关业务等。”",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "西子洁能",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "西子洁能"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "核电",
+        "entity_type": "concept",
+        "occurrences": 2,
+        "first_position": 66,
+        "matched_terms": [
+          "核电"
+        ],
+        "importance": 0.3425,
+        "tf_score": 1.0,
+        "idf_score": 0.4401,
+        "position_score": 0.3
+      },
+      {
+        "name": "仪器仪表",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 171,
+        "matched_terms": [
+          "仪器仪表"
+        ],
+        "importance": 0.2846,
+        "tf_score": 0.6309,
+        "idf_score": 0.5986,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 15,
+    "datetime": "2025-10-20 07:32:36",
+    "content": "除了头版内容，今天《人民日报》涉及财经的主要内容还包括： 1、一户家庭开启智能新生活（“十四五”的发展镜头）； 2、服务消费潜力巨大（专家点评）； 3、“开放的中国为世界经济发展带来巨大机遇”（国际人士看中国“十四五”成就）； 4、铁凝出席非洲女性议员研讨班开班式； 5、“为全球自由区发展提供助力”； 6、谌贻琴在全国妇联系统视频会议上强调 深入学习贯彻习近平总书记在全球妇女峰会上的主旨讲话精神 推动新时代新征程妇女事业高质量发展； 7、集采药，拼质量才能护健康（人民时评）； 8、更好统筹高质量发展和高水平安全（深入学习贯彻习近平新时代中国特色社会主义思想·学习《习近平经济文选》第一卷专家谈）； 9、构建同科技创新相适应的科技金融体制（专题深思）； 10、前三季度主要金融数据变化怎么看（高质量发展看亮点·读数）； 11、“内外贸同样重要，两条腿走路更稳妥”——广交会首设外贸优品拓内销对接活动； 12、三季度出入境人员达1.78亿人次 免签入境外国人同比增长48.3%； 13、全国秋粮收获近七成； 14、IMF调高全球增长预期 强调世界经济仍较脆弱； 15、委内瑞拉加强应对美军事威胁 多方强烈谴责美霸权行径； 16、南京浦口经济开发区：探索集成电路国产化路径； 17、一片叶子富了一方百姓（深度观察·做好金融“五篇大文章”）——对浙江省安吉县绿色金融发展的调研； 18、用金融之手“贷”动绿色发展（记者手记）； 19、创新答卷彰显新型举国体制优势（科技视点）。",
+    "entity_count": 4,
+    "entities": [
+      {
+        "name": "国际货币基金组织",
+        "entity_type": "institution",
+        "occurrences": 1,
+        "first_position": 458,
+        "matched_terms": [
+          "IMF"
+        ],
+        "importance": 0.495,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "集成电路制造",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 527,
+        "matched_terms": [
+          "集成电路"
+        ],
+        "importance": 0.3279,
+        "tf_score": 1.0,
+        "idf_score": 0.6144,
+        "position_score": 0.3
+      },
+      {
+        "name": "中国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 80,
+        "matched_terms": [
+          "中国"
+        ],
+        "importance": 0.0694,
+        "tf_score": 1.0,
+        "idf_score": 0.1751,
+        "position_score": 0.6
+      },
+      {
+        "name": "委内瑞拉",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 485,
+        "matched_terms": [
+          "委内瑞拉"
+        ],
+        "importance": 0.0669,
+        "tf_score": 1.0,
+        "idf_score": 0.3775,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 16,
+    "datetime": "2025-07-14 17:15:04",
+    "content": "【光大嘉宝：预计2025年上半年净利润亏损3.5亿元到4亿元】光大嘉宝公告，预计2025年半年度实现归属于母公司所有者的净利润-3.5亿元到-4亿元，上年同期为-3.28亿元；预计2025年半年度实现归属于母公司所有者的扣除非经常性损益后的净利润-3.73亿元到-4.23亿元。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "光大嘉宝",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "光大嘉宝"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 17,
+    "datetime": "2026-02-18 12:27:21",
+    "content": "现货白银突破75美元/盎司，日内涨2.24%。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 18,
+    "datetime": "2025-04-08 09:01:53",
+    "content": "富士康股价下跌逾6%。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 19,
+    "datetime": "2025-03-06 12:58:06",
+    "content": "北斗星通3月6日在投资者互动平台表示，公司及子公司与宇树科技没有合作。",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "北斗星通",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "北斗星通"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "宇树科技",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 26,
+        "matched_terms": [
+          "宇树科技"
+        ],
+        "importance": 0.66,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "人形机器人整机",
+        "entity_type": "product",
+        "occurrences": 1,
+        "first_position": 26,
+        "matched_terms": [
+          "宇树"
+        ],
+        "importance": 0.4125,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 20,
+    "datetime": "2026-03-14 19:31:21",
+    "content": "【阿联酋称伊朗袭击已致该国6人死亡141人受伤】当地时间3月14日，阿联酋国防部宣布，当天阿联酋防空部队成功拦截了来自伊朗方向的9枚弹道导弹及33架无人机。自2月28日以来，阿联酋已经拦截了294枚弹道导弹、15枚巡航导弹、1600架无人机。阿联酋国防部称，从2月28日起至今，伊朗的袭击已导致阿联酋6人死亡、141人受伤。（新华社）",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "无人机",
+        "entity_type": "concept",
+        "occurrences": 2,
+        "first_position": 74,
+        "matched_terms": [
+          "无人机"
+        ],
+        "importance": 0.2762,
+        "tf_score": 0.5646,
+        "idf_score": 0.3448,
+        "position_score": 0.3
+      },
+      {
+        "name": "阿联酋",
+        "entity_type": "region",
+        "occurrences": 6,
+        "first_position": 1,
+        "matched_terms": [
+          "阿联酋"
+        ],
+        "importance": 0.0805,
+        "tf_score": 1.0,
+        "idf_score": 0.4182,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 21,
+    "datetime": "2025-07-16 14:58:16",
+    "content": "【奇瑞汽车在上海成立科思麦汽车科技公司 注册资本8000万】天眼查App显示，近日，上海科思麦汽车科技有限公司成立，法定代表人为高新华，注册资本8000万人民币，经营范围包括汽车零部件研发、机械设备研发、软件开发、人工智能应用软件开发、人工智能基础软件开发、工业设计服务等，由奇瑞汽车股份有限公司全资持股。",
+    "entity_count": 4,
+    "entities": [
+      {
+        "name": "奇瑞汽车",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "奇瑞汽车",
+          "奇瑞汽车股份有限公司"
+        ],
+        "importance": 0.7185,
+        "tf_score": 0.7925,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "软件开发",
+        "entity_type": "sector",
+        "occurrences": 3,
+        "first_position": 102,
+        "matched_terms": [
+          "软件开发"
+        ],
+        "importance": 0.3081,
+        "tf_score": 1.0,
+        "idf_score": 0.4388,
+        "position_score": 0.3
+      },
+      {
+        "name": "人工智能",
+        "entity_type": "concept",
+        "occurrences": 2,
+        "first_position": 107,
+        "matched_terms": [
+          "人工智能"
+        ],
+        "importance": 0.2956,
+        "tf_score": 0.7925,
+        "idf_score": 0.2723,
+        "position_score": 0.3
+      },
+      {
+        "name": "汽车零部件",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 87,
+        "matched_terms": [
+          "汽车零部件"
+        ],
+        "importance": 0.2564,
+        "tf_score": 0.5,
+        "idf_score": 0.4794,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 22,
+    "datetime": "2025-10-24 05:12:18",
+    "content": "贝克休斯：目前预计到2035年全球已安装的液化天然气（LNG）产能将达到约9.5亿吨/年。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "天然气",
+        "entity_type": "concept",
+        "occurrences": 1,
+        "first_position": 23,
+        "matched_terms": [
+          "天然气"
+        ],
+        "importance": 0.3309,
+        "tf_score": 1.0,
+        "idf_score": 0.3468,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 23,
+    "datetime": "2025-08-29 01:37:37",
+    "content": "白宫：英特尔交易仍在敲定中。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "白宫",
+        "entity_type": "institution",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "白宫"
+        ],
+        "importance": 0.57,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 24,
+    "datetime": "2026-01-01 17:37:26",
+    "content": "印度煤炭公司：12月销量6,490万吨，同比下降5.3%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "印度",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "印度"
+        ],
+        "importance": 0.0772,
+        "tf_score": 1.0,
+        "idf_score": 0.286,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 25,
+    "datetime": "2025-07-20 14:03:02",
+    "content": "【上海临港新片区金融租赁SPV试点再扩围，交银金租连续落地两个首单项目】7月18日，临港新片区正式发布“金融租赁项目公司扩大业务范围试点”新政。此次试点将原金租项目公司租赁标的物范围放宽至新能源、动力电池、智能制造、工业母机等四种设备，且业务主体放宽至全国范围金租在临港设立的SPV（特殊目的公司）。记者获悉，此次新政发布后，交银金租已迅速响应该政策，连续在临港新片区落地两个首单项目。交银金租是经国务院批准成立的首批5家银行系金融租赁公司之一，系交通银行全资子公司。（澎湃新闻）",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "上海临港",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 1,
+        "matched_terms": [
+          "上海临港"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "交通银行",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 224,
+        "matched_terms": [
+          "交通银行"
+        ],
+        "importance": 0.66,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "工业母机",
+        "entity_type": "concept",
+        "occurrences": 1,
+        "first_position": 108,
+        "matched_terms": [
+          "工业母机"
+        ],
+        "importance": 0.3663,
+        "tf_score": 1.0,
+        "idf_score": 0.6301,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 26,
+    "datetime": "2025-09-05 04:26:06",
+    "content": "【白宫：美国将对几乎所有日本输美商品征收15%的基准关税】白宫宣布特朗普签署行政命令，正式实施美日贸易协定：根据协议，美国将对几乎所有日本输美商品征收15%的基准关税，同时针对以下特定领域实施差异化关税待遇：汽车及汽车零部件、航空航天产品、仿制药，以及美国本土无法自然获取或生产的自然资源。这一新关税框架，结合美国出口规模扩大及投资驱动型生产模式，将有助于减少美国对日本的贸易逆差，推动美国整体贸易状况恢复更高水平的平衡。与此同时，日本将为美国制造业、航空航天、农业、食品、能源、汽车及工业制成品生产商提供关键领域的突破性市场准入机会。具体而言，日本政府正致力于加快落实以下举措：在“最低市场准入”大米计划框架内，将美国大米采购量提高75%；每年采购总额达80亿美元的美国农产品（包括玉米、大豆、化肥、生物乙醇 —— 含用于可持续航空燃料的生物乙醇 —— 及其他美国产品）。日本政府还将推动美国制造且符合美国安全认证标准的乘用车在日本市场销售，无需额外进行检测。此外，日本将采购美国制造的商用飞机及美国国防装备。",
+    "entity_count": 8,
+    "entities": [
+      {
+        "name": "白宫",
+        "entity_type": "institution",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "白宫"
+        ],
+        "importance": 0.495,
+        "tf_score": 0.5,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "化肥",
+        "entity_type": "concept",
+        "occurrences": 1,
+        "first_position": 348,
+        "matched_terms": [
+          "化肥"
+        ],
+        "importance": 0.2733,
+        "tf_score": 0.3155,
+        "idf_score": 0.5712,
+        "position_score": 0.3
+      },
+      {
+        "name": "汽车零部件",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 107,
+        "matched_terms": [
+          "汽车零部件"
+        ],
+        "importance": 0.2694,
+        "tf_score": 0.3155,
+        "idf_score": 0.4794,
+        "position_score": 0.6
+      },
+      {
+        "name": "大豆",
+        "entity_type": "concept",
+        "occurrences": 1,
+        "first_position": 345,
+        "matched_terms": [
+          "大豆"
+        ],
+        "importance": 0.2619,
+        "tf_score": 0.3155,
+        "idf_score": 0.48,
+        "position_score": 0.3
+      },
+      {
+        "name": "乘用车",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 411,
+        "matched_terms": [
+          "乘用车"
+        ],
+        "importance": 0.2356,
+        "tf_score": 0.3155,
+        "idf_score": 0.4789,
+        "position_score": 0.3
+      },
+      {
+        "name": "贸易",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 186,
+        "matched_terms": [
+          "贸易"
+        ],
+        "importance": 0.2103,
+        "tf_score": 0.3155,
+        "idf_score": 0.2541,
+        "position_score": 0.3
+      },
+      {
+        "name": "日本",
+        "entity_type": "region",
+        "occurrences": 8,
+        "first_position": 12,
+        "matched_terms": [
+          "日本"
+        ],
+        "importance": 0.0765,
+        "tf_score": 1.0,
+        "idf_score": 0.2609,
+        "position_score": 0.8
+      },
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 7,
+        "first_position": 4,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.0721,
+        "tf_score": 0.9464,
+        "idf_score": 0.139,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 27,
+    "datetime": "2025-07-31 20:44:54",
+    "content": "【花旗：上调CoreWeave评级至“买入”，目标价为160美元】花旗将CoreWeave的评级从“中性”上调至“买入”，目标价为160美元。该行指，CoreWeave与微软、OpenAI和其他公司现有的多年期合同将推动收入增长。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "Microsoft",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 85,
+        "matched_terms": [
+          "微软"
+        ],
+        "importance": 0.66,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "OpenAI",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 88,
+        "matched_terms": [
+          "OpenAI"
+        ],
+        "importance": 0.66,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 28,
+    "datetime": "2025-10-27 21:33:55",
+    "content": "阿根廷主要股指在米莱胜选后飙升20%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "阿根廷",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "阿根廷"
+        ],
+        "importance": 0.0813,
+        "tf_score": 1.0,
+        "idf_score": 0.4507,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 29,
+    "datetime": "2026-01-06 10:24:20",
+    "content": "【新政刺激楼市热度回升，元旦假期北京二手房带看显著走高】根据中指研究院数据，元旦期间，北京新建商品住宅合计网签240套，达到2.52万平米，表现平稳。二手房方面，2025年底最后一日北京二手商品住宅网签量超千套。元旦期间，北京二手商品住宅合计网签88套。中指研究院指数研究部总经理曹晶晶说：“二手房方面，新政后，北京二手房市场热度有所回升，部分房源带看热度显著走高。”",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 30,
+    "datetime": "2026-01-04 01:12:10",
+    "content": "南非呼吁联合国安理会就美国在委内瑞拉的单方面军事行动召开会议。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "南非",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "南非"
+        ],
+        "importance": 0.0813,
+        "tf_score": 1.0,
+        "idf_score": 0.4516,
+        "position_score": 0.8
+      },
+      {
+        "name": "委内瑞拉",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 14,
+        "matched_terms": [
+          "委内瑞拉"
+        ],
+        "importance": 0.0669,
+        "tf_score": 1.0,
+        "idf_score": 0.3775,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 31,
+    "datetime": "2025-10-28 09:32:42",
+    "content": "【海峡两岸板块盘初冲高，平潭发展4连板】海峡两岸板块盘初冲高，平潭发展4连板，海峡创新涨超10%，厦门港务、龙竹科技、福建水泥、达华智能、日上集团跟涨。",
+    "entity_count": 8,
+    "entities": [
+      {
+        "name": "平潭发展",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 12,
+        "matched_terms": [
+          "平潭发展"
+        ],
+        "importance": 0.72,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.6
+      },
+      {
+        "name": "海峡创新",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 39,
+        "matched_terms": [
+          "海峡创新"
+        ],
+        "importance": 0.5862,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "厦门港务",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 49,
+        "matched_terms": [
+          "厦门港务"
+        ],
+        "importance": 0.5862,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "龙竹科技",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 54,
+        "matched_terms": [
+          "龙竹科技"
+        ],
+        "importance": 0.5862,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "福建水泥",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 59,
+        "matched_terms": [
+          "福建水泥"
+        ],
+        "importance": 0.5862,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "ST达华",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 64,
+        "matched_terms": [
+          "达华智能"
+        ],
+        "importance": 0.5862,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "日上集团",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 69,
+        "matched_terms": [
+          "日上集团"
+        ],
+        "importance": 0.5862,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "海峡两岸",
+        "entity_type": "concept",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "海峡两岸"
+        ],
+        "importance": 0.4314,
+        "tf_score": 1.0,
+        "idf_score": 0.6514,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 32,
+    "datetime": "2025-11-05 05:09:48",
+    "content": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。 预计全年净销售至少360亿美元，公司原本预计至少330亿美元。 预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。 超微电脑美股盘后跌超10%。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 33,
+    "datetime": "2025-04-03 21:56:11",
+    "content": "                                    【水利部审议河湖生态流量管理办法、蓄滞洪区建设管理行动方案和数字孪生蓄滞洪区建设方案】 4月3日，水利部党组书记、部长李国英主持召开部务会议，审议河湖生态流量管理办法、蓄滞洪区建设管理行动方案和数字孪生蓄滞洪区建设方案。会议指出，要细化生态流量确定、报批、备案等管理措施，完善河湖生态流量监测体系，健全管理评估平台体系，充分发挥河湖长制作用，完善激励约束措施，将生态流量管理要求落实到每一条河流、每一个湖泊、每一座水库，让河流恢复生命、流域重现生机。会议强调，要聚焦98处国家蓄滞洪区，一区一策，完善规划布局、安全建设、运行管理体系，强化体制机制法治管理，确保蓄滞洪区在流域防洪关键时刻发挥关键作用。要坚持需求牵引、应用至上、数字赋能、提升能力，全面推进数字孪生蓄滞洪区建设，强化预报预警预演预案功能，提升蓄滞洪区建设管理、调度运用的数字化、网络化、智能化水平。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "数字孪生",
+        "entity_type": "concept",
+        "occurrences": 3,
+        "first_position": 66,
+        "matched_terms": [
+          "数字孪生"
+        ],
+        "importance": 0.4016,
+        "tf_score": 1.0,
+        "idf_score": 0.6131,
+        "position_score": 0.6
+      },
+      {
+        "name": "水利",
+        "entity_type": "concept",
+        "occurrences": 2,
+        "first_position": 37,
+        "matched_terms": [
+          "水利"
+        ],
+        "importance": 0.3812,
+        "tf_score": 0.7925,
+        "idf_score": 0.4575,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 34,
+    "datetime": "2026-01-22 01:45:27",
+    "content": "特朗普：我们在乌克兰战争问题上接近达成解决方案。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "乌克兰",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 7,
+        "matched_terms": [
+          "乌克兰"
+        ],
+        "importance": 0.0644,
+        "tf_score": 1.0,
+        "idf_score": 0.274,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 35,
+    "datetime": "2025-03-17 18:33:39",
+    "content": "阿里巴巴3月14日耗资74.15万美元回购4.24万股。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "阿里巴巴-W",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "阿里巴巴"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 36,
+    "datetime": "2025-02-01 04:21:33",
+    "content": "【芝加哥玉米期货周五跌超1.5%，1月累涨超6.7%，大豆累涨超3.4%，大豆油涨超14%】 周五（1月31日）纽约尾盘，彭博谷物分类指数跌1.05%，报33.3439点，本周累计上涨0.05%，1月份累计上涨4.97%，整体交投区间为31.3362-34.0397点，期内呈现出震荡上行趋势。CBOT玉米期货跌1.53%，报4.8275美元/蒲式耳，本周累跌0.77%，1月份累涨6.74%，交投区间为4.4925-4.9725美元。CBOT小麦期货跌0.97%，报5.6075美元/蒲式耳，本周累涨3.17%，1月累涨1.68%。CBOT大豆期货大致持平，报10.4425美元/蒲式耳，本周累跌0.95%，1月累涨3.44%；1月份，豆粕期货累跌4.85%，豆油期货累涨14.35%。",
+    "entity_count": 5,
+    "entities": [
+      {
+        "name": "玉米",
+        "entity_type": "commodity",
+        "occurrences": 2,
+        "first_position": 4,
+        "matched_terms": [
+          "玉米期货"
+        ],
+        "importance": 0.6287,
+        "tf_score": 0.7925,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "豆一",
+        "entity_type": "commodity",
+        "occurrences": 1,
+        "first_position": 271,
+        "matched_terms": [
+          "大豆期货"
+        ],
+        "importance": 0.49,
+        "tf_score": 0.5,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "豆粕",
+        "entity_type": "commodity",
+        "occurrences": 1,
+        "first_position": 319,
+        "matched_terms": [
+          "豆粕期货"
+        ],
+        "importance": 0.49,
+        "tf_score": 0.5,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "豆油",
+        "entity_type": "commodity",
+        "occurrences": 1,
+        "first_position": 331,
+        "matched_terms": [
+          "豆油期货"
+        ],
+        "importance": 0.49,
+        "tf_score": 0.5,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "大豆",
+        "entity_type": "concept",
+        "occurrences": 3,
+        "first_position": 27,
+        "matched_terms": [
+          "大豆"
+        ],
+        "importance": 0.41,
+        "tf_score": 1.0,
+        "idf_score": 0.48,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 37,
+    "datetime": "2025-07-31 00:08:23",
+    "content": "英国空中交通管理局：所有机场的航班已恢复起降。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "机场",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 12,
+        "matched_terms": [
+          "机场"
+        ],
+        "importance": 0.299,
+        "tf_score": 1.0,
+        "idf_score": 0.3574,
+        "position_score": 0.3
+      },
+      {
+        "name": "英国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "英国"
+        ],
+        "importance": 0.0769,
+        "tf_score": 1.0,
+        "idf_score": 0.2771,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 38,
+    "datetime": "2025-10-15 08:31:03",
+    "content": "【青岛武晓集团股份有限公司启动上市辅导】证监会官网显示，青岛武晓集团股份有限公司于2025年10月14日正式启动上市辅导，国金证券担任辅导机构。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "国金证券",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 61,
+        "matched_terms": [
+          "国金证券"
+        ],
+        "importance": 0.66,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "中国证监会",
+        "entity_type": "institution",
+        "occurrences": 1,
+        "first_position": 20,
+        "matched_terms": [
+          "证监会"
+        ],
+        "importance": 0.495,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 39,
+    "datetime": "2025-05-26 16:28:27",
+    "content": "【大摩：微软投资OpenAl潜在有利影响尚未被定价 重申“增持”评级】摩根士丹利发布研报指出，OpenAl的快速增长、规模和估值对微软的影响仍未得到投资者的充分重视。该行指出了Azure预测的保守性，支持27财年每股收益的显著增长，并强调了微软具有吸引力的风险/回报。大摩给予微软“增持”评级，目标价482美元。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "Microsoft",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 4,
+        "matched_terms": [
+          "微软"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 40,
+    "datetime": "2026-01-27 11:21:00",
+    "content": "【预告：国新办1月29日将举行新闻发布会 介绍2026年春运形势和工作安排】国务院新闻办公室将于2026年1月29日（星期四）上午10时举行新闻发布会，请国家发展改革委副主任李春临和交通运输部、应急管理部、中国气象局、中国民航局、国铁集团有关负责人介绍2026年春运形势和工作安排，并答记者问。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "交通运输部",
+        "entity_type": "institution",
+        "occurrences": 1,
+        "first_position": 91,
+        "matched_terms": [
+          "交通运输部"
+        ],
+        "importance": 0.4396,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "中国",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 103,
+        "matched_terms": [
+          "中国"
+        ],
+        "importance": 0.0619,
+        "tf_score": 1.0,
+        "idf_score": 0.1751,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 41,
+    "datetime": "2026-03-03 11:10:30",
+    "content": "【国内多家金店金饰价格多数上涨，最高报1652元/克】今日国内黄金饰品价格对比显示，黄金珠宝品牌公布的境内足金首饰价格较昨日多数上涨，最高报1652元/克。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "黄金",
+        "entity_type": "commodity",
+        "occurrences": 1,
+        "first_position": 42,
+        "matched_terms": [
+          "黄金"
+        ],
+        "importance": 0.5775,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 42,
+    "datetime": "2026-03-17 19:17:34",
+    "content": "【龙蟠科技：拟对回购专用证券账户中回购股份208.24万股进行注销】龙蟠科技公告，公司拟对回购专用证券账户中于2023年3月24日已完成回购且尚未使用的208.24万股公司股份的用途进行变更，将用于“实施员工持股计划或者股权激励”变更为用于“注销并减少注册资本”。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "龙蟠科技",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "龙蟠科技"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 43,
+    "datetime": "2026-02-12 20:52:56",
+    "content": "【机构：沃什未必是市场预期的美联储鹰派人物】Evercore ISI分析师克里希纳·古哈认为，凯文·沃什作为通胀强硬派的名气可能被夸大了。尽管他的提名最初推高了美债收益率并压低了金价，但沃什更应被视为一位务实的保守派，他能够区分供应驱动型和需求驱动型通胀，这使得他在当下可能更具灵活性。沃什曾指出，人工智能和生产率提升是积极的供应冲击，这可能会缓解采取紧缩政策的压力。他也主张缩表，但不太可能推行可能扰乱市场的激进紧缩。在政治氛围紧张的环境下，预计美联储以共识为导向的做法将会延续，尽管将面临非同寻常的压力。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "美联储",
+        "entity_type": "central_bank",
+        "occurrences": 2,
+        "first_position": 14,
+        "matched_terms": [
+          "美联储"
+        ],
+        "importance": 0.6175,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "人工智能",
+        "entity_type": "concept",
+        "occurrences": 1,
+        "first_position": 149,
+        "matched_terms": [
+          "人工智能"
+        ],
+        "importance": 0.2754,
+        "tf_score": 0.6309,
+        "idf_score": 0.2723,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 44,
+    "datetime": "2025-12-18 19:35:13",
+    "content": "中国地震台网自动测定：12月18日19时32分在中国台湾附近（北纬24.07度，东经121.93度）发生4.4级左右地震，最终结果以正式速报为准。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "中国",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 0,
+        "matched_terms": [
+          "中国"
+        ],
+        "importance": 0.0744,
+        "tf_score": 1.0,
+        "idf_score": 0.1751,
+        "position_score": 0.8
+      },
+      {
+        "name": "台湾",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 24,
+        "matched_terms": [
+          "中国台湾"
+        ],
+        "importance": 0.0581,
+        "tf_score": 0.6309,
+        "idf_score": 0.3936,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 45,
+    "datetime": "2025-11-10 12:54:49",
+    "content": "据知情人士透露，香港计划发行以美元、港元、欧元和人民币计价的数字绿色债券，最早可能于周一定价。",
+    "entity_count": 4,
+    "entities": [
+      {
+        "name": "欧元",
+        "entity_type": "currency",
+        "occurrences": 1,
+        "first_position": 21,
+        "matched_terms": [
+          "欧元"
+        ],
+        "importance": 0.229,
+        "tf_score": 1.0,
+        "idf_score": 0.3173,
+        "position_score": 0.3
+      },
+      {
+        "name": "人民币",
+        "entity_type": "currency",
+        "occurrences": 1,
+        "first_position": 24,
+        "matched_terms": [
+          "人民币"
+        ],
+        "importance": 0.2251,
+        "tf_score": 1.0,
+        "idf_score": 0.273,
+        "position_score": 0.3
+      },
+      {
+        "name": "美元",
+        "entity_type": "currency",
+        "occurrences": 1,
+        "first_position": 15,
+        "matched_terms": [
+          "美元"
+        ],
+        "importance": 0.2162,
+        "tf_score": 1.0,
+        "idf_score": 0.1714,
+        "position_score": 0.3
+      },
+      {
+        "name": "香港",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 8,
+        "matched_terms": [
+          "香港"
+        ],
+        "importance": 0.0728,
+        "tf_score": 1.0,
+        "idf_score": 0.3115,
+        "position_score": 0.6
+      }
+    ]
+  },
+  {
+    "sample_id": 46,
+    "datetime": "2025-02-10 04:07:45",
+    "content": "【人工智能再掀热潮 节后首周科技类基金普涨】春节假期过后，A股市场震荡上行，沪指重回3300点，创业板指大涨超5%。春节期间，与DeepSeek相关的话题火爆全球，节后科技相关题材大幅上涨，人工智能、大模型、云计算等科技相关板块集体爆发，带动科技主题基金净值显著上涨，570余只与科技相关的主动权益类基金中，有超九成基金上周复权单位净值录得上涨，其中23只涨幅超过10%。（证券时报）",
+    "entity_count": 6,
+    "entities": [
+      {
+        "name": "上证指数",
+        "entity_type": "index",
+        "occurrences": 1,
+        "first_position": 38,
+        "matched_terms": [
+          "沪指"
+        ],
+        "importance": 0.6058,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.6
+      },
+      {
+        "name": "创业板指",
+        "entity_type": "index",
+        "occurrences": 1,
+        "first_position": 48,
+        "matched_terms": [
+          "创业板指"
+        ],
+        "importance": 0.6058,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.6
+      },
+      {
+        "name": "DeepSeek",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 64,
+        "matched_terms": [
+          "DeepSeek"
+        ],
+        "importance": 0.5862,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "人工智能",
+        "entity_type": "concept",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "人工智能"
+        ],
+        "importance": 0.384,
+        "tf_score": 1.0,
+        "idf_score": 0.2723,
+        "position_score": 0.8
+      },
+      {
+        "name": "云计算",
+        "entity_type": "concept",
+        "occurrences": 1,
+        "first_position": 104,
+        "matched_terms": [
+          "云计算"
+        ],
+        "importance": 0.3022,
+        "tf_score": 0.6309,
+        "idf_score": 0.4868,
+        "position_score": 0.3
+      },
+      {
+        "name": "证券",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 187,
+        "matched_terms": [
+          "证券"
+        ],
+        "importance": 0.2437,
+        "tf_score": 0.6309,
+        "idf_score": 0.2349,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 47,
+    "datetime": "2025-10-30 19:37:53",
+    "content": "贝森特：就业增长将强劲反弹。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 48,
+    "datetime": "2025-01-23 14:53:03",
+    "content": "华联股份涨停走出4连板，4天累计涨幅达46.35%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "华联股份",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "华联股份"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 49,
+    "datetime": "2025-10-15 19:07:20",
+    "content": "财政部关于印发《金融机构国有股权董事履职保障管理办法（2025年修订版）》的通知。（财政部）",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "财政部",
+        "entity_type": "institution",
+        "occurrences": 2,
+        "first_position": 0,
+        "matched_terms": [
+          "财政部"
+        ],
+        "importance": 0.57,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 50,
+    "datetime": "2025-09-17 11:54:32",
+    "content": "【IDC：2025年中国智能眼镜出货量预计达到284.6万台 同比增长116.4%】根据国际数据公司（IDC）最新发布的《全球智能眼镜市场季度跟踪报告》，2025年中国智能眼镜（Smart Eyewear）市场出货量预计达到284.6万台，同比增长116.4%，其中音频和音频拍摄眼镜出货量预计220.2万台，同比增长183.2%；AR/VR设备出货量预计64.4万台，同比增长19.8%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "AI眼镜",
+        "entity_type": "concept",
+        "occurrences": 3,
+        "first_position": 12,
+        "matched_terms": [
+          "智能眼镜"
+        ],
+        "importance": 0.4167,
+        "tf_score": 1.0,
+        "idf_score": 0.5333,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 51,
+    "datetime": "2025-07-01 14:38:18",
+    "content": "德意志银行：将雀巢目标价从84瑞士法郎下调至82瑞士法郎。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "瑞士",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 15,
+        "matched_terms": [
+          "瑞士"
+        ],
+        "importance": 0.0674,
+        "tf_score": 1.0,
+        "idf_score": 0.3976,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 52,
+    "datetime": "2025-05-18 21:34:29",
+    "content": "【俄罗斯扣押从爱沙尼亚出发的油轮】据爱沙尼亚公共广播电台周日援引爱沙尼亚交通部消息，俄罗斯扣押了悬挂利比里亚国旗的油轮 “绿色赞赏号”（Green Admire）。该油轮从锡拉迈港（Sillamae）出发，当时正航行通过俄罗斯领海。报道称，这艘油轮归希腊爱琴海航运公司（Aegean Shipping）所有，船上载有页岩油。其航行路线为先前约定的航线，最终目的地为鹿特丹。此次事件发生三天前，俄罗斯曾出动一架飞机，与爱沙尼亚试图拦截一艘俄罗斯 “影子油轮” 有关。",
+    "entity_count": 4,
+    "entities": [
+      {
+        "name": "锡",
+        "entity_type": "commodity",
+        "occurrences": 1,
+        "first_position": 86,
+        "matched_terms": [
+          "锡"
+        ],
+        "importance": 0.4702,
+        "tf_score": 0.3869,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "爱沙尼亚",
+        "entity_type": "region",
+        "occurrences": 4,
+        "first_position": 7,
+        "matched_terms": [
+          "爱沙尼亚"
+        ],
+        "importance": 0.0825,
+        "tf_score": 0.8982,
+        "idf_score": 0.6017,
+        "position_score": 0.8
+      },
+      {
+        "name": "俄罗斯",
+        "entity_type": "region",
+        "occurrences": 5,
+        "first_position": 1,
+        "matched_terms": [
+          "俄罗斯"
+        ],
+        "importance": 0.0764,
+        "tf_score": 1.0,
+        "idf_score": 0.2552,
+        "position_score": 0.8
+      },
+      {
+        "name": "利比里亚",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 50,
+        "matched_terms": [
+          "利比里亚"
+        ],
+        "importance": 0.0671,
+        "tf_score": 0.3869,
+        "idf_score": 0.6965,
+        "position_score": 0.6
+      }
+    ]
+  },
+  {
+    "sample_id": 53,
+    "datetime": "2025-06-11 16:37:23",
+    "content": "【11日碳酸锂上涨1.41%，最新主力合约持仓变化如下】根据交易所数据，截至6月11日收盘主力合约碳酸锂2509,涨跌+1.41%,成交量16.87万手，持仓数据显示前20席位呈现净空，差额头寸为16522手。碳酸锂期货全合约总计成交45.68万手，比上一日新增10.02万手。全合约前20席位多头持仓34.87万手，比上一日增加2225手。全合约前20席位空头持仓38.22万手，比上一日增加9435手。 （新浪期货）",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "碳酸锂",
+        "entity_type": "commodity",
+        "occurrences": 3,
+        "first_position": 4,
+        "matched_terms": [
+          "碳酸锂",
+          "碳酸锂期货"
+        ],
+        "importance": 0.665,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 54,
+    "datetime": "2025-12-24 11:56:15",
+    "content": "根据Counterpoint Research最新报告，全球智能手表出货量预计将在2025年年底同比增长7%，在2024年首次出现下滑后重回增长轨道。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 55,
+    "datetime": "2026-02-20 21:30:11",
+    "content": "加拿大12月核心零售销售环比 0.1%，前值 1.7%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "加拿大",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "加拿大"
+        ],
+        "importance": 0.0785,
+        "tf_score": 1.0,
+        "idf_score": 0.3382,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 56,
+    "datetime": "2025-03-14 17:26:34",
+    "content": "现货铂金刚刚突破990.00美元/盎司关口，最新报989.90美元/盎司，日内涨0.79%；Nymex铂金期货主力最新报1013.7美元/盎司，日内涨0.77%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "黄金",
+        "entity_type": "commodity",
+        "occurrences": 1,
+        "first_position": 52,
+        "matched_terms": [
+          "金期货"
+        ],
+        "importance": 0.5775,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 57,
+    "datetime": "2025-12-31 02:01:17",
+    "content": "印度对非合金钢和合金钢扁平材征收11% - 12%的保障措施关税，有效期至2028年4月20日。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "印度",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "印度"
+        ],
+        "importance": 0.0772,
+        "tf_score": 1.0,
+        "idf_score": 0.286,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 58,
+    "datetime": "2025-03-04 14:38:10",
+    "content": "沙特阿美全年净利润3938.9亿里亚尔，预估3970.7亿里亚尔。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "沙特阿拉伯",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "沙特"
+        ],
+        "importance": 0.0814,
+        "tf_score": 1.0,
+        "idf_score": 0.4549,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 59,
+    "datetime": "2026-02-18 18:42:36",
+    "content": "阿达尼企业：联邦快递（FedEx）将在新孟买机场开发全自动化航空货运枢纽，长期投资额超250亿卢比。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "机场",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 22,
+        "matched_terms": [
+          "机场"
+        ],
+        "importance": 0.299,
+        "tf_score": 1.0,
+        "idf_score": 0.3574,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 60,
+    "datetime": "2025-03-06 16:30:53",
+    "content": "【万马股份今日涨停 深股通专用席位买入1.62亿元并卖出5785.57万元】 万马股份今日涨停，成交额37.27亿元，换手率21.81%，盘后龙虎榜数据显示，深股通专用席位买入1.62亿元并卖出5785.57万元，一机构专用席位净卖出5869.26万元。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "万马股份",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "万马股份"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 61,
+    "datetime": "2025-10-29 05:29:39",
+    "content": "巴基斯坦信息部长（关于巴基斯坦 - 阿富汗对话的最新情况）：未能达成任何可行的解决方案。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "巴基斯坦",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 0,
+        "matched_terms": [
+          "巴基斯坦"
+        ],
+        "importance": 0.0803,
+        "tf_score": 1.0,
+        "idf_score": 0.4139,
+        "position_score": 0.8
+      },
+      {
+        "name": "阿富汗",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 18,
+        "matched_terms": [
+          "阿富汗"
+        ],
+        "importance": 0.061,
+        "tf_score": 0.6309,
+        "idf_score": 0.5098,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 62,
+    "datetime": "2025-12-15 20:42:27",
+    "content": "英国医生工会英国医学协会（BMA）表示，英格兰的住院医生拒绝了政府的提议，周三的罢工将如期举行。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "英国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "英国"
+        ],
+        "importance": 0.0769,
+        "tf_score": 1.0,
+        "idf_score": 0.2771,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 63,
+    "datetime": "2025-05-22 11:10:01",
+    "content": "【云图控股：正在优化雷波牛牛寨东段磷矿400万吨/年采选方案】 云图控股(002539)在机构调研中表示，公司磷矿储量5.49亿吨，采矿设计产能690万吨/年，其中雷波阿居洛呷磷矿290万吨/年采选工程已于2025年3月正式动工，目前井建工程加速进行中；同时，公司正在优化雷波牛牛寨东段磷矿400万吨/年采选方案，以进一步提高磷矿开发利用效益。未来项目达产后，磷矿资源链实现闭环，保障公司磷矿石高度自给，打开新的增长空间。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "云图控股",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "云图控股"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 64,
+    "datetime": "2025-03-19 10:49:46",
+    "content": "三大指数震荡向上，沪指、创业板指双双翻红。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "上证指数",
+        "entity_type": "index",
+        "occurrences": 1,
+        "first_position": 9,
+        "matched_terms": [
+          "沪指"
+        ],
+        "importance": 0.6187,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "创业板指",
+        "entity_type": "index",
+        "occurrences": 1,
+        "first_position": 12,
+        "matched_terms": [
+          "创业板指"
+        ],
+        "importance": 0.6187,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 65,
+    "datetime": "2025-06-15 16:01:27",
+    "content": "【永安药业：公司股价短期涨幅已严重偏离大盘走势，存在较高的炒作风险】6月15日，永安药业公告，近期公司股价短期涨幅较大，已严重偏离大盘走势，存在较高的炒作风险。但公司基本面没有重大变化，也不存在应披露未披露的重大信息。2025年一季度，公司处于亏损状态。根据中证指数有限公司的数据显示，截至本公告披露时，公司最新的静态市净率、滚动市盈率、市净率均高于公司所属中上协行业分类“医药制造业”水平。公司已连续多日发布股票交易异常波动公告，特别提醒广大投资者注意二级市场交易风险，理性决策，审慎投资。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "永安药业",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "永安药业"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 66,
+    "datetime": "2025-09-29 20:22:47",
+    "content": "英国政府：根据伊朗核制裁制度新增71项制裁对象指定。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "英国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "英国"
+        ],
+        "importance": 0.0769,
+        "tf_score": 1.0,
+        "idf_score": 0.2771,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 67,
+    "datetime": "2025-06-26 17:55:57",
+    "content": "【中办、国办：推进防洪水库建设 加快推进蓄滞洪区建设】中办、国办发布关于全面推进江河保护治理的意见。意见提出，完善流域防洪工程体系。健全由水库、河道及堤防、蓄滞洪区等组成的流域防洪工程体系。推进防洪水库建设，提升已建水库防洪能力，强化库容管理。定期开展水库水闸安全鉴定，及时除险加固。推进大江大河干流堤防达标建设，加快中小河流系统治理，实施农村水系综合整治。加快推进蓄滞洪区建设，完善功能布局，加强空间管控和产业引导，依法加强蓄滞洪区管理，严控人口迁入，引导区内人口有序外迁。实施洲滩民垸分类治理。完善城乡防洪排涝体系，健全洪涝联排联调机制。提升山洪灾害防治和风暴潮防御能力。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 68,
+    "datetime": "2025-11-12 16:25:59",
+    "content": "【新诺威：帕妥珠单抗注射液上市申请获受理】新诺威公告，控股子公司石药集团巨石生物制药有限公司收到国家药品监督管理局核准签发的《受理通知书》，帕妥珠单抗注射液的上市申请获得受理。帕妥珠单抗注射液是一款重组人源化抗 HER2 单克隆抗体注射液，患者每 3周需使用一次。该产品通过特异性结合 HER2 的细胞外二聚化结构域 II，阻断 HER2 与 HER2 或其他 HER 家族成员之间的配体之间的二聚化作用，从而阻断细胞周期并诱导凋亡。该产品还可介导抗体依赖细胞介导的细胞毒作用。本次申请主要是基于一项 III 期等效性临床试验，入组患者为早期或局部晚期 HER2 阳性乳腺癌患者。临床试验结果显示，该产品用于早期或局部晚期 HER2 阳性乳腺癌的新辅助治疗与原研参照药等效。同时，该产品的安全性和耐受性良好，与原研参照药类似。",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "新诺威",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "新诺威"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "石药集团",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 32,
+        "matched_terms": [
+          "石药集团"
+        ],
+        "importance": 0.6862,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "国家药品监督管理局",
+        "entity_type": "institution",
+        "occurrences": 1,
+        "first_position": 48,
+        "matched_terms": [
+          "国家药品监督管理局"
+        ],
+        "importance": 0.4846,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.6
+      }
+    ]
+  },
+  {
+    "sample_id": 69,
+    "datetime": "2025-06-11 18:40:04",
+    "content": "花旗集团：将微软目标价从540美元上调至605美元。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "Microsoft",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 6,
+        "matched_terms": [
+          "微软"
+        ],
+        "importance": 0.72,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.6
+      }
+    ]
+  },
+  {
+    "sample_id": 70,
+    "datetime": "2025-02-21 21:30:02",
+    "content": "【Rivian因前灯问题在美国召回17260辆汽车】美国国家公路交通安全管理局周五表示，Rivian Automotive因前灯问题可能导致能见度降低，将在美国召回17,260辆汽车。消息传出后，该公司股价在盘前交易中下跌一度下跌超6%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 3,
+        "first_position": 13,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.0685,
+        "tf_score": 1.0,
+        "idf_score": 0.139,
+        "position_score": 0.6
+      }
+    ]
+  },
+  {
+    "sample_id": 71,
+    "datetime": "2025-07-29 19:53:46",
+    "content": "【虚假标注“零添加”、雇佣“水军”诱导消费 五起食品安全案例公布】今年上半年，全系统共查办食品违法案件18.1万件，罚没7.4亿元，移送司法机关653件。今天通报了5起典型案例。食品安全无小事，市场监管部门将持续加大执法力度，综合运用联合执法、信用惩戒、行刑衔接等手段，让违法者付出沉重代价。在此，提醒广大食品生产经营者：守法诚信是立业之本，任何漠视法律的行为都将受到严厉制裁；同时也呼吁社会各界共同参与监督，守护好人民群众“舌尖上的安全”。（央视新闻）",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "食品安全",
+        "entity_type": "concept",
+        "occurrences": 2,
+        "first_position": 24,
+        "matched_terms": [
+          "食品安全"
+        ],
+        "importance": 0.3908,
+        "tf_score": 1.0,
+        "idf_score": 0.5263,
+        "position_score": 0.6
+      },
+      {
+        "name": "综合",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 113,
+        "matched_terms": [
+          "综合"
+        ],
+        "importance": 0.2511,
+        "tf_score": 0.6309,
+        "idf_score": 0.3014,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 72,
+    "datetime": "2025-05-08 05:36:15",
+    "content": "周三（5月7日）纽约尾盘，离岸人民币（CNH）兑美元北京时间04:59报7.2283元，较周二纽约尾盘跌185点，日内整体交投于7.1892-7.2296元区间。",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "离岸人民币",
+        "entity_type": "currency",
+        "occurrences": 2,
+        "first_position": 13,
+        "matched_terms": [
+          "离岸人民币",
+          "CNH"
+        ],
+        "importance": 0.2707,
+        "tf_score": 1.0,
+        "idf_score": 0.4937,
+        "position_score": 0.6
+      },
+      {
+        "name": "人民币",
+        "entity_type": "currency",
+        "occurrences": 1,
+        "first_position": 15,
+        "matched_terms": [
+          "人民币"
+        ],
+        "importance": 0.2191,
+        "tf_score": 0.6309,
+        "idf_score": 0.273,
+        "position_score": 0.6
+      },
+      {
+        "name": "美元",
+        "entity_type": "currency",
+        "occurrences": 1,
+        "first_position": 24,
+        "matched_terms": [
+          "美元"
+        ],
+        "importance": 0.1839,
+        "tf_score": 0.6309,
+        "idf_score": 0.1714,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 73,
+    "datetime": "2025-08-04 16:37:37",
+    "content": "【法国外贸银行：库格勒辞职料难掀政策波澜 但时机耐人寻味】法国外贸银行经济学家Christopher Hodge表示，代理美国劳工统计局局长是一位资深技术官僚，这实属一项利好。展望未来，如果数据的真实性受到损害，这将使市场和美联储处于非常危险的境地。预计美联储会更依赖褐皮书的定性信息。库格勒的任期本就定于明年1月结束，因此政策层面不会有重大变化。虽然目前没有迹象表明她是出于抗议而辞职，但这一时机确实耐人寻味。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "美联储",
+        "entity_type": "central_bank",
+        "occurrences": 2,
+        "first_position": 112,
+        "matched_terms": [
+          "美联储"
+        ],
+        "importance": 0.5363,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "法国",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "法国"
+        ],
+        "importance": 0.0781,
+        "tf_score": 1.0,
+        "idf_score": 0.323,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 74,
+    "datetime": "2026-02-03 18:31:08",
+    "content": "俄罗斯的诺瓦克表示，对于印度的石油采购情况将如何发展，“我们拭目以待”。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "俄罗斯",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "俄罗斯"
+        ],
+        "importance": 0.0764,
+        "tf_score": 1.0,
+        "idf_score": 0.2552,
+        "position_score": 0.8
+      },
+      {
+        "name": "印度",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 12,
+        "matched_terms": [
+          "印度"
+        ],
+        "importance": 0.0647,
+        "tf_score": 1.0,
+        "idf_score": 0.286,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 75,
+    "datetime": "2025-06-26 18:53:33",
+    "content": "【西宁特钢：拟定向发行A股募集资金不超10亿元】西宁特钢公告，公司拟向控股股东天津建龙发行A股股票，募集资金总额不超过10亿元，扣除发行费用后的募集资金净额将全部用于补充流动资金。本次发行的发行价格为1.73元/股，发行数量不超过5.78亿股，占发行前总股本的30.00%。本次发行构成关联交易，完成后不会导致公司控股股东和实际控制人变化，亦不会导致公司股权分布不具备上市条件。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "西宁特钢",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "西宁特钢"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 76,
+    "datetime": "2025-08-06 19:44:29",
+    "content": "迪士尼在盘前交易中下跌1.66%。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 77,
+    "datetime": "2025-04-15 22:48:58",
+    "content": "【墨西哥否认美国有关番茄倾销的指控 呼吁进行谈判】墨西哥农业部长Julio Berdegue周二在新闻发布会上表示，美国生产商指控墨西哥种植商人为压低价格出售番茄的说法毫无依据，两国应该进行谈判。美国对墨西哥进口番茄征收21%关税的决定违反了2019年的协议，此举部分是基于佛罗里达州种植者的持续投诉。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "墨西哥",
+        "entity_type": "region",
+        "occurrences": 4,
+        "first_position": 1,
+        "matched_terms": [
+          "墨西哥"
+        ],
+        "importance": 0.0793,
+        "tf_score": 1.0,
+        "idf_score": 0.3738,
+        "position_score": 0.8
+      },
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 58,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.053,
+        "tf_score": 0.6826,
+        "idf_score": 0.139,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 78,
+    "datetime": "2026-03-06 02:30:34",
+    "content": "贝特尔（BETTER）宣布与OpenAI合作在ChatGPT中推出首个对话式信贷决策引擎。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "OpenAI",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 14,
+        "matched_terms": [
+          "OpenAI"
+        ],
+        "importance": 0.66,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 79,
+    "datetime": "2025-01-31 16:19:02",
+    "content": "【外媒：特朗普坚称埃及和约旦将接受加沙巴勒斯坦人，连说四遍“他们会这么做的”】 据法新社、《以色列时报》报道，尽管埃及和约旦已经明确拒绝，美国总统特朗普当地时间周四（1月30日）在白宫坚称这两个阿拉伯国家将接受来自加沙地带的流离失所的巴勒斯坦人，并连说了四遍“他们会这么做的”。（环球网）",
+    "entity_count": 5,
+    "entities": [
+      {
+        "name": "白宫",
+        "entity_type": "institution",
+        "occurrences": 1,
+        "first_position": 90,
+        "matched_terms": [
+          "白宫"
+        ],
+        "importance": 0.4396,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "约旦",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 12,
+        "matched_terms": [
+          "约旦"
+        ],
+        "importance": 0.0817,
+        "tf_score": 1.0,
+        "idf_score": 0.467,
+        "position_score": 0.8
+      },
+      {
+        "name": "巴勒斯坦",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 19,
+        "matched_terms": [
+          "巴勒斯坦"
+        ],
+        "importance": 0.0744,
+        "tf_score": 1.0,
+        "idf_score": 0.3776,
+        "position_score": 0.6
+      },
+      {
+        "name": "以色列",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 46,
+        "matched_terms": [
+          "以色列"
+        ],
+        "importance": 0.0551,
+        "tf_score": 0.6309,
+        "idf_score": 0.2711,
+        "position_score": 0.3
+      },
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 69,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.0517,
+        "tf_score": 0.6309,
+        "idf_score": 0.139,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 80,
+    "datetime": "2025-08-04 22:25:14",
+    "content": "【全国每3度电有1度是绿电 我国光伏发电装机容量占全球近50%】目前，我国已建成全球规模最大的电力基础设施，能源自给率保持在80%以上。截至2025年5月底，我国光伏发电累计装机容量历史性突破10.8亿千瓦，占全国总发电装机容量的30%，占全球光伏装机总规模近一半，相当于约48个三峡电站的总规模。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "电力",
+        "entity_type": "sector",
+        "occurrences": 1,
+        "first_position": 47,
+        "matched_terms": [
+          "电力"
+        ],
+        "importance": 0.2974,
+        "tf_score": 1.0,
+        "idf_score": 0.3433,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 81,
+    "datetime": "2025-11-11 17:37:31",
+    "content": "瑞银信贷策略主管米什表示：欧洲投资级信用债表现将显著优于美国同类产品。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 28,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.061,
+        "tf_score": 1.0,
+        "idf_score": 0.139,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 82,
+    "datetime": "2025-01-31 13:22:53",
+    "content": "【俄罗斯莫斯科西北部一建筑发生火灾 过火面积达2000平方米】当地时间1月31日，据俄罗斯紧急情况部通报，莫斯科西北部一栋内设旅馆的两层行政楼房发生火灾，过火面积达2000平方米，部分屋顶已经坍塌。据悉，救援部门出动130名工作人员和37台设备进行灭火工作，已救出60人，疏散300人。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "俄罗斯",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "俄罗斯"
+        ],
+        "importance": 0.0764,
+        "tf_score": 1.0,
+        "idf_score": 0.2552,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 83,
+    "datetime": "2025-06-26 23:25:27",
+    "content": "【雷军回应代工称小米绝大部分设备都是自研】今日小米举行人车家全生态发布会，会后雷军接受了媒体采访。谈及代工话题，他表示，无论是品质、制造能力、管理各方面，因为我们毕竟在制造业干了这么多年。可能大家对于代工是有误解，包括我们也去年年初也交付了手机智能工厂，我们绝大部分设备都是自研的，所以如果没有一点功底的话，你是很难把制造业做好的。（新浪科技）",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 84,
+    "datetime": "2025-05-06 12:53:07",
+    "content": "【518所助力神舟通信】4月30日，神舟十九号载人飞船返回舱在东风着陆场成功着陆，3名航天员平安归来。 记者了解到，位于天津高新区的中国航天科技集团五院518所承担了神舟十九号、神舟二十号的两类天线产品的研制。其中，某中继天线包含接收天线、发射天线共4副天线，其位于推进舱外壁，主要用于实现载人飞船与中继卫星和地面的通信功能，可以实现宽角域的平顶波束，广泛应用于各卫星平台的测控与通信系统。另一类天线为轨道舱天线，用于全球卫星定位系统，可以实现飞船某波段信号的接收与发射。（天津日报）",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "航天科技",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 68,
+        "matched_terms": [
+          "航天科技"
+        ],
+        "importance": 0.66,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "中国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 66,
+        "matched_terms": [
+          "中国"
+        ],
+        "importance": 0.0619,
+        "tf_score": 1.0,
+        "idf_score": 0.1751,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 85,
+    "datetime": "2025-08-01 22:13:18",
+    "content": "【德国经济部长：提升经济韧性 军工必不可少】德国经济与能源部长卡特琳娜·赖歇8月1日说，军工行业是德国经济韧性“必不可少的组成部分”，这一行业长期以来遭到低估，现在必须让其在经济复苏上发挥重要作用。据德新社报道，赖歇当天在黑森州视察“豹-2”主战坦克的制造商KNDS防御系统公司时说，军工行业正展现强势增长和革新势头。鉴于德国经济当前陷于停滞，赖歇认为军工行业可助力经济表现。（新华社）",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "军工",
+        "entity_type": "concept",
+        "occurrences": 4,
+        "first_position": 15,
+        "matched_terms": [
+          "军工"
+        ],
+        "importance": 0.4065,
+        "tf_score": 1.0,
+        "idf_score": 0.4521,
+        "position_score": 0.8
+      },
+      {
+        "name": "德国",
+        "entity_type": "region",
+        "occurrences": 4,
+        "first_position": 1,
+        "matched_terms": [
+          "德国"
+        ],
+        "importance": 0.0776,
+        "tf_score": 1.0,
+        "idf_score": 0.3036,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 86,
+    "datetime": "2025-10-16 11:02:17",
+    "content": "【中国银行、中国太保、国泰海通G-FIRST2.0方案发布】10月16日，在2025上海全球资产管理论坛上，中国银行、中国太保、国泰海通G-FIRST2.0方案发布。中国银行金融机构部总经理李可欣、国泰海通证券副总裁陈忠义、中国太保总经理助理张毓华共同启动G-FIRST 2.0。三家金融机构联手进行跨境金融合作，为中国企业直通世界全程护航。",
+    "entity_count": 4,
+    "entities": [
+      {
+        "name": "中国银行",
+        "entity_type": "company",
+        "occurrences": 3,
+        "first_position": 1,
+        "matched_terms": [
+          "中国银行"
+        ],
+        "importance": 0.6933,
+        "tf_score": 0.6667,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "中国太保",
+        "entity_type": "company",
+        "occurrences": 3,
+        "first_position": 6,
+        "matched_terms": [
+          "中国太保"
+        ],
+        "importance": 0.6933,
+        "tf_score": 0.6667,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "国泰海通",
+        "entity_type": "company",
+        "occurrences": 3,
+        "first_position": 11,
+        "matched_terms": [
+          "国泰海通"
+        ],
+        "importance": 0.6933,
+        "tf_score": 0.6667,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "中国",
+        "entity_type": "region",
+        "occurrences": 7,
+        "first_position": 1,
+        "matched_terms": [
+          "中国"
+        ],
+        "importance": 0.0744,
+        "tf_score": 1.0,
+        "idf_score": 0.1751,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 87,
+    "datetime": "2025-08-06 15:14:27",
+    "content": "【墨西哥对涉华环氧大豆油作出反倾销初裁】据中国贸易救济信息网消息，2025年8月5日，墨西哥经济部发布公告，对原产于中国和巴西的环氧大豆油（西班牙语：aceite epoxidado de soya）作出反倾销肯定性初裁，初步裁定中国生产商/出口商均适用1.71美元/千克的临时反倾销税；巴西生产商/出口商适用0.13～1.16美元/千克的临时反倾销税。涉案产品的TIGIE税号为1518.00.02和3812.20.01。措施自公告发布次日起生效，有效期为四个月。利益相关方应于公告发布次日起的20个工作日内提交案件评述意见及补充材料。",
+    "entity_count": 4,
+    "entities": [
+      {
+        "name": "墨西哥",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "墨西哥"
+        ],
+        "importance": 0.0793,
+        "tf_score": 1.0,
+        "idf_score": 0.3738,
+        "position_score": 0.8
+      },
+      {
+        "name": "巴西",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 61,
+        "matched_terms": [
+          "巴西"
+        ],
+        "importance": 0.0738,
+        "tf_score": 1.0,
+        "idf_score": 0.3522,
+        "position_score": 0.6
+      },
+      {
+        "name": "中国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 58,
+        "matched_terms": [
+          "中国"
+        ],
+        "importance": 0.0602,
+        "tf_score": 0.6309,
+        "idf_score": 0.1751,
+        "position_score": 0.6
+      },
+      {
+        "name": "西班牙",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 70,
+        "matched_terms": [
+          "西班牙"
+        ],
+        "importance": 0.0587,
+        "tf_score": 0.6309,
+        "idf_score": 0.4163,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 88,
+    "datetime": "2025-08-27 20:25:32",
+    "content": "毛戈平：上半年实现收入人民币2.59亿元，同比增长31.3%；实现净利润人民币6.7亿元，同比增长36.1%。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "毛戈平",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "毛戈平"
+        ],
+        "importance": 0.6862,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "人民币",
+        "entity_type": "currency",
+        "occurrences": 2,
+        "first_position": 11,
+        "matched_terms": [
+          "人民币"
+        ],
+        "importance": 0.2514,
+        "tf_score": 1.0,
+        "idf_score": 0.273,
+        "position_score": 0.6
+      }
+    ]
+  },
+  {
+    "sample_id": 89,
+    "datetime": "2025-09-04 14:23:48",
+    "content": "德意志交易所集团周三表示，豪华汽车制造商保时捷将从德国DAX指数中剔除，并降级至MDAX指数。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "德国",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 25,
+        "matched_terms": [
+          "德国"
+        ],
+        "importance": 0.0651,
+        "tf_score": 1.0,
+        "idf_score": 0.3036,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 90,
+    "datetime": "2025-12-29 16:42:55",
+    "content": "【三孚股份：全资子公司“正硅酸乙酯充装及储存项目”验收合格】三孚股份公告，全资子公司“正硅酸乙酯充装及储存项目”已验收合格。项目合计投资人民币1700万元，产品为电子级正硅酸乙酯，主要用于存储芯片、逻辑芯片等。目前该产品已实现国内主要客户顺利交付并已向国际客户送样，产品质量符合客户要求并形成进口替代。项目产品尚处于市场逐步开发阶段，对公司本年业绩无影响。",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "三孚股份",
+        "entity_type": "company",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "三孚股份"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "存储芯片",
+        "entity_type": "concept",
+        "occurrences": 1,
+        "first_position": 94,
+        "matched_terms": [
+          "存储芯片"
+        ],
+        "importance": 0.3058,
+        "tf_score": 0.6309,
+        "idf_score": 0.5154,
+        "position_score": 0.3
+      },
+      {
+        "name": "人民币",
+        "entity_type": "currency",
+        "occurrences": 1,
+        "first_position": 68,
+        "matched_terms": [
+          "人民币"
+        ],
+        "importance": 0.1928,
+        "tf_score": 0.6309,
+        "idf_score": 0.273,
+        "position_score": 0.3
+      }
+    ]
+  },
+  {
+    "sample_id": 91,
+    "datetime": "2026-01-22 01:47:41",
+    "content": "大众汽车集团：在2025财年，大众汽车集团旗下汽车部门产生了约60亿欧元的净现金流。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 92,
+    "datetime": "2025-05-07 11:57:47",
+    "content": "【印度SENSEX30指数低开0.86%】印度SENSEX30指数低开0.86%报79948.8点。成分股中，印度工业银行低开3.17%，马衡达信息技术下跌2.36%，玛鲁蒂铃木公司跌2.36%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "印度",
+        "entity_type": "region",
+        "occurrences": 3,
+        "first_position": 1,
+        "matched_terms": [
+          "印度"
+        ],
+        "importance": 0.0772,
+        "tf_score": 1.0,
+        "idf_score": 0.286,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 93,
+    "datetime": "2025-06-02 12:09:32",
+    "content": "印尼统计局：印尼4月出口同比增长5.76%；1月至4月出口额达873.6亿美元，同比增长6.65%。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "进出口总额",
+        "entity_type": "indicator",
+        "occurrences": 1,
+        "first_position": 27,
+        "matched_terms": [
+          "出口额"
+        ],
+        "importance": 0.5129,
+        "tf_score": 0.6309,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "印尼",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 0,
+        "matched_terms": [
+          "印尼"
+        ],
+        "importance": 0.0797,
+        "tf_score": 1.0,
+        "idf_score": 0.3896,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 94,
+    "datetime": "2026-02-18 16:35:19",
+    "content": "日本东京都知事：将在本财政年度内制定数据中心指导方针。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "数据中心",
+        "entity_type": "concept",
+        "occurrences": 1,
+        "first_position": 18,
+        "matched_terms": [
+          "数据中心"
+        ],
+        "importance": 0.3376,
+        "tf_score": 1.0,
+        "idf_score": 0.4009,
+        "position_score": 0.3
+      },
+      {
+        "name": "日本",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "日本"
+        ],
+        "importance": 0.0765,
+        "tf_score": 1.0,
+        "idf_score": 0.2609,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 95,
+    "datetime": "2025-01-10 13:37:05",
+    "content": "台积电2024年1至12月累计销售额28943.8亿元台币，同比增长33.9%。",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "台积电",
+        "entity_type": "company",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "台积电"
+        ],
+        "importance": 0.76,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 96,
+    "datetime": "2025-07-31 15:18:09",
+    "content": "日本央行行长植田和男：潜在通胀正在增强，但未达到2%。",
+    "entity_count": 2,
+    "entities": [
+      {
+        "name": "日本央行",
+        "entity_type": "central_bank",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "日本央行"
+        ],
+        "importance": 0.6175,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.8
+      },
+      {
+        "name": "日本",
+        "entity_type": "region",
+        "occurrences": 1,
+        "first_position": 0,
+        "matched_terms": [
+          "日本"
+        ],
+        "importance": 0.0765,
+        "tf_score": 1.0,
+        "idf_score": 0.2609,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 97,
+    "datetime": "2025-01-12 20:48:00",
+    "content": "【韩国一核电站泄漏29吨核废液】韩国原子能安全委员会12日表示，正在对庆尚北道庆州市月城核电站2号机组非正常排放29吨核废液展开调查。（新华社）",
+    "entity_count": 1,
+    "entities": [
+      {
+        "name": "韩国",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 1,
+        "matched_terms": [
+          "韩国"
+        ],
+        "importance": 0.0778,
+        "tf_score": 1.0,
+        "idf_score": 0.3105,
+        "position_score": 0.8
+      }
+    ]
+  },
+  {
+    "sample_id": 98,
+    "datetime": "2025-09-25 20:20:39",
+    "content": "奥克洛（Oklo）股价在盘前交易中延续跌势，最新下跌15%。",
+    "entity_count": 0,
+    "entities": []
+  },
+  {
+    "sample_id": 99,
+    "datetime": "2025-09-15 05:43:46",
+    "content": "【特朗普再度敦促美上诉法院批准解雇美联储理事库克】当地时间9月14日获悉，美国总统特朗普当天向美国上诉法院提出最后请求，要求允许其解雇美联储理事库克，理由是她涉嫌房贷欺诈。特朗普希望在下周美联储利率决议前完成此举，并再次强调库克至今未能对相关指控作出有力反驳。（央视新闻）",
+    "entity_count": 3,
+    "entities": [
+      {
+        "name": "美联储",
+        "entity_type": "central_bank",
+        "occurrences": 3,
+        "first_position": 17,
+        "matched_terms": [
+          "美联储"
+        ],
+        "importance": 0.585,
+        "tf_score": 1.0,
+        "idf_score": 1.0,
+        "position_score": 0.6
+      },
+      {
+        "name": "FOMC利率决议",
+        "entity_type": "indicator",
+        "occurrences": 1,
+        "first_position": 94,
+        "matched_terms": [
+          "美联储利率决议"
+        ],
+        "importance": 0.49,
+        "tf_score": 0.5,
+        "idf_score": 1.0,
+        "position_score": 0.3
+      },
+      {
+        "name": "美国",
+        "entity_type": "region",
+        "occurrences": 2,
+        "first_position": 37,
+        "matched_terms": [
+          "美国"
+        ],
+        "importance": 0.0558,
+        "tf_score": 0.7925,
+        "idf_score": 0.139,
+        "position_score": 0.3
+      }
+    ]
+  }
+]

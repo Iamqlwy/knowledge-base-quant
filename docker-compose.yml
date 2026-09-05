@@ -1,0 +1,145 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    container_name: final-postgres
+    environment:
+      POSTGRES_DB: quant_kb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      TZ: Asia/Shanghai
+    ports:
+      - "127.0.0.1:15432:5432"
+    command: >
+      postgres
+      -c timezone=Asia/Shanghai
+      -c max_connections=800
+      -c shared_buffers=6GB
+      -c effective_cache_size=16GB
+      -c work_mem=8MB
+      -c maintenance_work_mem=2GB
+      -c random_page_cost=1.1
+      -c effective_io_concurrency=200
+      -c checkpoint_timeout=30min
+      -c max_wal_size=8GB
+      -c wal_buffers=128MB
+      -c max_worker_processes=16
+      -c max_parallel_workers_per_gather=4
+      -c max_parallel_workers=8
+      -c wal_level=replica
+      -c idle_in_transaction_session_timeout=60s
+      -c statement_timeout=60s
+      -c lock_timeout=10s
+      -c tcp_keepalives_idle=60
+      -c tcp_keepalives_interval=10
+      -c tcp_keepalives_count=6
+    volumes:
+      - pgvector_data:/var/lib/postgresql/data
+    networks:
+      - kbquant-net
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  elasticsearch:
+    build:
+      context: .
+      dockerfile: Dockerfile.elasticsearch
+    container_name: final-elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=true
+      - xpack.security.http.ssl.enabled=false
+      - xpack.security.transport.ssl.enabled=false
+      - ELASTIC_PASSWORD=${ELASTIC_PASSWORD}
+      - "ES_JAVA_OPTS=-Xms6g -Xmx6g"
+      - indices.memory.index_buffer_size=20%
+      - indices.queries.cache.size=10%
+      - thread_pool.write.queue_size=1000
+      - thread_pool.search.queue_size=1000
+      - indices.recovery.max_bytes_per_sec=200mb
+    ports:
+      - "127.0.0.1:9200:9200"
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+      - ./es-config/finance_entities.dic:/usr/share/elasticsearch/config/analysis-ik/finance_entities.dic:ro
+      - ./es-config/IKAnalyzer.cfg.xml:/usr/share/elasticsearch/config/analysis-ik/IKAnalyzer.cfg.xml:ro
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 65536
+        hard: 65536
+    networks:
+      - kbquant-net
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS -u elastic:$$ELASTIC_PASSWORD http://localhost:9200/_cluster/health || exit 1"]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+
+  pgbouncer:
+    build:
+      context: .
+      dockerfile: Dockerfile.pgbouncer
+    container_name: kbquant-pgbouncer
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:6432:6432"
+    networks:
+      - kbquant-net
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c 'echo > /dev/tcp/127.0.0.1/6432' 2>/dev/null || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: kbquant-app
+    depends_on:
+      pgbouncer:
+        condition: service_healthy
+      elasticsearch:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: postgresql+asyncpg://${POSTGRES_APP_USER}:${POSTGRES_APP_PASSWORD}@pgbouncer:6432/quant_kb
+      DATABASE_READ_URL: postgresql+asyncpg://${POSTGRES_APP_USER}:${POSTGRES_APP_PASSWORD}@pgbouncer:6432/quant_kb
+      DATABASE_URL_SYNC: postgresql+psycopg2://${POSTGRES_APP_USER}:${POSTGRES_APP_PASSWORD}@pgbouncer:6432/quant_kb
+      ELASTICSEARCH_URL: http://${ES_APP_USER}:${ES_APP_PASSWORD}@elasticsearch:9200
+    networks:
+      - kbquant-net
+    restart: unless-stopped
+    ulimits:
+      nofile:
+        soft: 65536
+        hard: 65536
+    deploy:
+      resources:
+        limits:
+          memory: 6G
+        reservations:
+          memory: 3G
+
+networks:
+  kbquant-net:
+    external: true
+
+volumes:
+  pgvector_data:
+    external: true
+  esdata:
+    external: true

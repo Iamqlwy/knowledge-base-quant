@@ -13,7 +13,7 @@
 | 仓库 | 角色 | 关系 |
 | --- | --- | --- |
 | kbquant（本仓库） | 知识库后端：资讯入库、WorldNode、分析、交易、复盘、混合搜索 | 共享大脑 / 唯一事实源 |
-| [workflow](https://github.com/Iamqlwy/workflow) | 多 Agent 分析流水线（重要性分级 → 深度分析 → 风控 → 复盘） | 消费本仓库 processing_queue，产出分析/交易/复盘写回本仓库 |
+| [workflow](https://github.com/Iamqlwy/quant-news-workflow) | 多 Agent 分析流水线（重要性分级 → 深度分析 → 风控 → 复盘） | 消费本仓库 processing_queue，产出分析/交易/复盘写回本仓库 |
 | [Trade-system](https://github.com/Iamqlwy/Trade-system) | A 股交易平台（虚拟账户/实盘/LLM 助手） | 经只读账号读取本仓库的 PG 与 ES，做知识图谱/检索可视化与交易 |
 
 ```text
@@ -143,7 +143,7 @@ docs/                    接口文档、实体设计、ER 图、搜索管线设�
 
 ## 节点维护工作流
 
-world_nodes 的定期维护（Phase 1 重复节点合并、Phase 2 新节点关联边发现，指本仓库 `nodes/` 目录的维护脚本，与系统的 AI 流水线仓库 [workflow](https://github.com/Iamqlwy/workflow) 是两个概念）见 [`nodes/README.md`](nodes/README.md)，由 `nodes/workflow.js` 驱动。
+world_nodes 的定期维护（Phase 1 重复节点合并、Phase 2 新节点关联边发现，指本仓库 `nodes/` 目录的维护脚本，与系统的 AI 流水线仓库 [workflow](https://github.com/Iamqlwy/quant-news-workflow) 是两个概念）见 [`nodes/README.md`](nodes/README.md)，由 `nodes/workflow.js` 驱动。
 
 ## 安全须知
 
@@ -153,5 +153,5 @@ world_nodes 的定期维护（Phase 1 重复节点合并、Phase 2 新节点关�
 
 ## 相关仓库
 
-- [workflow](https://github.com/Iamqlwy/workflow) — AI 分析流水线（本仓库的队列消费者与知识写回方）
+- [workflow](https://github.com/Iamqlwy/quant-news-workflow) — AI 分析流水线（本仓库的队列消费者与知识写回方）
 - [Trade-system](https://github.com/Iamqlwy/Trade-system) — A 股交易平台（本仓库知识的展示与交易层）
